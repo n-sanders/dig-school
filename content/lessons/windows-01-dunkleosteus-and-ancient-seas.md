@@ -8,6 +8,7 @@ prerequisites:
 objectives:
   - Describe the observable features of Dunkleosteus fossils, including its bony head and shoulder armor and toothless jaw blades
   - Explain why paleontologists usually find only the front armor plates of Dunkleosteus rather than its tail skeleton
+  - Distinguish fossil evidence from inferences and uncertain details in a life reconstruction
   - Identify the rock division (Devonian Period of the Paleozoic) and marine environment in which Dunkleosteus lived
 sources:
   - id: cmnh-dunkleosteus
@@ -16,6 +17,9 @@ sources:
   - id: nps-devonian-fishes
     title: "National Park Service: Devonian Period and Fishes"
     url: https://www.nps.gov/articles/000/devonian-period.htm
+  - id: engelman-reconstruction-2024
+    title: "Engelman (2024): Reconstructing Dunkleosteus terrelli"
+    url: https://doi.org/10.26879/1343
 quiz:
   - type: question
     prompt: In which period and major division of the rock record are Dunkleosteus fossils found?
@@ -83,9 +87,9 @@ Look closely at the mouth of a *Dunkleosteus* skull and you will notice somethin
 - Every time the upper and lower jaw plates snapped shut, their beveled edges slid tightly past one another like a pair of heavy garden shears—sharpening themselves with every bite!
 - The jaw joint and the scars where muscles attached show a cutting bite that could damage shell and bone. Much of the jaw was cartilage, so the exact force is still being worked out. The sharp blades and the bite marks are the clear evidence.
 
-![Side view of the Dunkleosteus head and shoulder shield labelling armor plates, the bony eye ring, self-sharpening jaw blades, and the neck hinge](images/lessons/windows-01-dunkleosteus-armor.svg)
+![Side view of the Dunkleosteus head and shoulder shield labelling armor plates, the bony eye ring, self-sharpening jaw blades, and the neck hinge](images/lessons/windows-01-dunkleosteus-armor-annotated.png)
 
-*Only the armored front third fossilizes well; the cartilage rear rarely survives.*
+*A partly reconstructed Dunkleosteus skull and shoulder armor at the Cleveland Museum of Natural History. Photo: [James St. John](https://www.flickr.com/photos/jsjgeology/34001200911/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons. AI-assisted labels and layout added for Dig School.*
 
 ![Published scientific illustration of the internal view of a Dunkleosteus skull and thoracic shield with muscle attachment labels](images/lessons/photo-dunkleosteus-skull-armor.jpg)
 
@@ -95,6 +99,24 @@ Look closely at the mouth of a *Dunkleosteus* skull and you will notice somethin
 In museums, you almost always see only the front armor shield of *Dunkleosteus* on display. Why?
 - Remember from Unit 2 that **hard parts fossilize far more often than soft parts**.
 - Only the front third of *Dunkleosteus* was covered in heavy bony armor. The back of its body and tail were supported mostly by **cartilage** (like a shark's skeleton), which rarely survives decay. Paleontologists reconstruct the shape of its body and tail by studying smaller, closely related placoderms whose full body outlines were preserved in fine shale, along with rare cartilage impressions.
+
+## From fossil armor to a living animal
+
+How can scientists picture the whole fish when so much of its body is missing? They build a **life reconstruction**: a picture that combines preserved evidence with predictions about the missing parts.
+
+![Life reconstruction of Dunkleosteus terrelli with a deep body, large front fins, and a forked tail, shown beside a one-meter scale bar](images/lessons/dunkleosteus-life-reconstruction-engelman.jpg)
+
+*One proposed appearance of the living animal, from Russell K. Engelman's 2024 reconstruction study. Illustration: [Russell K. Engelman](https://commons.wikimedia.org/wiki/File:Dunkleosteus_terrelli_2024_reconstruction.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons. Image reproduced without further changes.*
+
+Start at the head and work toward the tail:
+
+- **Direct evidence:** Preserved skulls and armor constrain the shape of the head and front of the body.
+- **Evidence-based predictions:** More complete relatives help scientists estimate missing anatomy. Measurements and comparisons with living fishes help test proposed body proportions and swimming shapes. This reconstruction proposes a deep, sturdy body.
+- **Greater uncertainty:** The exact outline of the tail and fins, and the animal's colors and markings, are less certain. The picture's dark back and pale belly are an interpretation, not colors demonstrated by this fossil.
+
+This is careful, evidence-based guesswork. Different reconstructions can fit the surviving clues, and researchers can compare their predictions. A new fossil or a better measurement may change the picture.
+
+**Try it:** Compare the skull photograph with the full-body picture. Point to one feature preserved in the fossil and one feature that had to be inferred. What new fossil would help you check that inference?
 
 ## Evidence of diet and ancient ocean life
 
