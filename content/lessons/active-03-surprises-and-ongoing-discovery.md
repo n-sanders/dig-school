@@ -78,9 +78,17 @@ Then came a surprise from the Hell Creek Formation of Montana:
 3. **Dissolving the mineral away:** They placed small inner bone chips into **EDTA**, a liquid that dissolves the hard calcium phosphate mineral without a strong acid. The bone did not vanish into empty liquid.
 4. **What was left behind:** Under the microscope, they saw **translucent, branching, flexible tube-like structures** that looked just like blood vessels—stretchy enough that when pulled with a tiny probe, they snapped back into shape! Inside the vessels were **tiny round red- to deep-brown microstructures** resembling red blood cells with central nuclei (like those of birds and reptiles), along with star-shaped bone cells (*osteocytes*) with delicate branching filaments still intact.
 
-![Dense T. rex bone chip, then flexible branching vessel-like tubes with cell-like dots after dissolving the mineral, then a zoomed branching bone cell](images/lessons/active-03-soft-tissue-micro.svg)
+![A large fossil leg bone on a wooden table with its broken end facing the viewer, showing a dense outer wall and spongy core.](images/lessons/active-03-soft-tissue-micro-1.jpg)
 
-*Dissolving the mineral left stretchy vessel-like structures that snapped back when pulled.*
+***A fossil *T. rex* thigh bone, broken open:** the dense outer wall surrounds a spongy center. Scientists dissolved the minerals out of pieces like this. (Watercolor made for Dig School.)*
+
+![Microscope view of clear, branching, flexible tubes containing tiny reddish-brown round dots.](images/lessons/active-03-soft-tissue-micro-2.jpg)
+
+***Under the microscope:** flexible, branching, see-through vessel-like tubes, with tiny dark reddish round structures inside. (Watercolor made for Dig School.)*
+
+![Microscope view of a single reddish oval bone cell with many fine filaments branching outward like tree roots.](images/lessons/active-03-soft-tissue-micro-3.jpg)
+
+***High magnification:** a bone-cell-like structure (osteocyte) with fine branching filaments. (Watercolor made for Dig School.)*
 
 ## How science responds to a surprise
 

@@ -88,9 +88,9 @@ Instead, paleontologists observe a **consistent vertical order** in many places 
 
 No one finds a mammoth skeleton buried in the undisturbed marine shale below a dinosaur layer, or a trilobite living alongside a saber-toothed cat.
 
-![Two canyon walls with four matching layers each, from trilobite limestone to mammoth gravel, linked by dashed correlation lines across the valley](images/lessons/time-01-correlating-layers.svg)
+![Two rock walls across a desert valley showing the same gray, red, tan, and gravel layers, linked by dashed lines.](images/lessons/time-01-correlating-layers-1.jpg)
 
-*Matching rock type, order, and fossils links separate outcrops into one timeline.*
+***Matching layers across a valley:** both canyon walls show the same order from bottom to top — gray limestone, red shale, tan sandstone, then gravel and silt — with dashed lines marking the matching layers. (Watercolor made for Dig School.)*
 
 ## Matching layers from place to place
 

@@ -76,9 +76,21 @@ Teeth are tools built to process food, and their shapes match the jobs they do:
 - **Pegs and rakes for stripping:** Simple pencil-like or spoon-shaped teeth at the front of the mouth work like rakes to strip leaves and needles off branches.
 - **Grinding mills:** Broad, flat-crowned molars or tightly packed "dental batteries" of hundreds of interlocking teeth act like rough rasps to shred tough stems, horsetails, or grasses. Microscopic scratches on tooth enamel (*microwear*) even show whether an animal chewed soft leaves or gritty, dusty plants!
 
-![Photograph of a Tyrannosaurus rex tooth held in a hand, found in the Hell Creek Formation](images/lessons/photo-trex-tooth-usda.jpg)
+![A curved, blade-like brown fossil dinosaur tooth with fine serrated edges, shown on a plain cream background.](images/lessons/lab-02-tooth-shapes-diets-1.jpg)
 
-*A real Tyrannosaurus tooth from the Hell Creek Formation, built for piercing and slicing meat. (Photo: U.S. Department of Agriculture, public domain.)*
+***Meat-eater (theropod):** a curved, blade-like tooth with saw-edge serrations for slicing flesh. (Watercolor made for Dig School.)*
+
+![A slender, smooth, dark brown cone-shaped fossil tooth with a sharp point and no serrations, on a plain cream background.](images/lessons/lab-02-tooth-shapes-diets-2.jpg)
+
+***Fish-eater (marine reptile):** a tall, slender cone with a sharp point for gripping slippery prey. (Watercolor made for Dig School.)*
+
+![A long, straight, pencil-shaped brown fossil tooth with a blunt worn tip, on a plain cream background.](images/lessons/lab-02-tooth-shapes-diets-3.jpg)
+
+***Plant-stripper (sauropod):** a peg- or pencil-shaped tooth worn flat at the tip from raking leaves off branches. (Watercolor made for Dig School.)*
+
+![A fossil jaw section whose broad surface is packed with rows of small diamond-shaped teeth, forming a grinding pad.](images/lessons/lab-02-tooth-shapes-diets-4.jpg)
+
+***Plant-grinder (hadrosaur):** a dental battery of hundreds of tightly packed teeth that forms a wide, ridged grinding surface. (Watercolor made for Dig School.)*
 
 ## Clues in bones and tracks: How did it move and grow?
 

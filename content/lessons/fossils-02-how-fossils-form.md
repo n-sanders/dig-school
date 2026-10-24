@@ -76,9 +76,21 @@ The most common way large bones and tree trunks become fossils begins with **sed
 3. **Mineral-rich water seeps through:** Groundwater carrying dissolved minerals (like silica, calcite, or iron compounds) trickles slowly through the buried bone or wood.
 4. **Filling and replacement:** Those minerals crystallize inside the tiny microscopic pores of the bone or wood (a process called *permineralization*) or gradually replace the original material molecule by molecule. The specimen becomes heavy and rock-like while keeping its original shape—sometimes down to individual bone cells or tree rings!
 
-![Photograph of a complete fossil fish preserved in fine Green River Formation shale](images/lessons/photo-green-river-fish.jpg)
+![Underwater view of a fish skeleton lying on a muddy lake bottom as fine particles drift down through sunlit water.](images/lessons/fossils-02-burial-mineralization-1.jpg)
 
-*Quick burial at work: a whole fossil fish kept in exquisite detail by fine lake muds. (Photo: James St. John, CC BY 2.0, via Wikimedia Commons.)*
+***1. Burial:** a dead fish sinks to the lake bottom, and fine mud and silt begin settling over it. (Watercolor made for Dig School.)*
+
+![Cutaway of a lake floor showing a fish skeleton buried beneath several stacked bands of brown and gray sediment.](images/lessons/fossils-02-burial-mineralization-2.jpg)
+
+***2. More layers:** sediment piles up overhead, the soft parts decay, and only the bones remain. (Watercolor made for Dig School.)*
+
+![Magnifying-lens view inside porous bone, with blue groundwater flowing in and depositing tiny sparkling mineral crystals.](images/lessons/fossils-02-burial-mineralization-3.jpg)
+
+***3. Mineralization (magnified):** groundwater carries dissolved minerals into the tiny pores of the bone, where crystals slowly fill the spaces. (Watercolor made for Dig School.)*
+
+![A fossil fish skeleton weathering out of tilted, layered tan rock on an eroded hillside under a blue sky.](images/lessons/fossils-02-burial-mineralization-4.jpg)
+
+***4. Exposure:** much later, erosion wears away the hillside and exposes the mineralized fish fossil at the surface. (Watercolor made for Dig School.)*
 
 ## Pathway 2: Molds and casts
 

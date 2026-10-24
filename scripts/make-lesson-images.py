@@ -159,43 +159,6 @@ def write(name, w, h, title, desc, body):
 
 # ---------------------------------------------------------------- builders ---
 
-def b_digging_hasty_vs_careful():
-    left = panel(20, 20, 370, 440, "Rushing it", "treasure-hunt style")
-    left += R(50, 110, 310, 130, "#9a7b55")  # messy hole
-    left += "<ellipse cx='205' cy='150' rx='120' ry='45' fill='#5f4630'/>"
-    left += "<ellipse cx='205' cy='150' rx='80' ry='28' fill='#3c2c1e'/>"
-    # shovel
-    left += "<line x1='320' y1='90' x2='250' y2='170' stroke='#6b5233' stroke-width='8' stroke-linecap='round'/>"
-    left += "<polygon points='250,170 232,158 244,188' fill='#8a8f96'/>"
-    # broken bits
-    left += "<polygon points='90,270 120,262 112,286' fill='#efe6d4' stroke='#7a5c3e' stroke-width='2'/>"
-    left += "<polygon points='150,278 178,270 168,292' fill='#d98f8f' stroke='#7a3e3e' stroke-width='2'/>"
-    left += T(205, 300, "mixed-up layers", 14, fill="#5f4630", style="italic")
-    left += T(205, 340, "cracked bone + pottery", 15)
-    left += T(205, 362, "tossed on a dirt pile", 15)
-    left += T(205, 410, "clues destroyed", 17, weight="bold", fill="#b3261e")
-    left += "<text x='205' y='440' text-anchor='middle' font-size='26' fill='#b3261e' " + FONT + ">✕</text>"
-
-    right = panel(410, 20, 370, 440, "Detective work", "slow scientific dig")
-    right += R(440, 110, 310, 130, SAND)
-    right += "<rect x='470' y='130' width='250' height='90' fill='none' stroke='#fff' stroke-width='3' stroke-dasharray='8 5'/>"
-    right += bone(520, 175, 120, 18)
-    # kneeling scientist: head + body + arm with trowel
-    right += "<circle cx='640' cy='140' r='14' fill='#e8b98a' stroke='#7a5c3e' stroke-width='2'/>"
-    right += "<rect x='622' y='156' width='36' height='50' rx='10' fill='#7a9cc6' stroke='#3e5a7a' stroke-width='2'/>"
-    right += "<line x1='628' y1='175' x2='600' y2='185' stroke='#e8b98a' stroke-width='8' stroke-linecap='round'/>"
-    right += "<polygon points='600,185 588,182 594,194' fill='#8a8f96'/>"
-    right += R(690, 250, 46, 30, CARD)  # notebook
-    right += "<line x1='690' y1='260' x2='736' y2='260' stroke='#6b625b' stroke-width='2'/>"
-    right += "<line x1='690' y1='268' x2='736' y2='268' stroke='#6b625b' stroke-width='2'/>"
-    right += T(595, 300, "string grid + level square", 14, fill=MUTED, style="italic")
-    right += T(595, 340, "trowel, brush, ruler,", 15)
-    right += T(595, 362, "camera, field notebook", 15)
-    right += T(595, 410, "context preserved", 17, weight="bold", fill="#2f7d4a")
-    right += "<text x='595' y='440' text-anchor='middle' font-size='26' fill='#2f7d4a' " + FONT + ">✓</text>"
-    return 800, 480, left + right
-
-
 def b_digging_layers():
     b = panel(20, 20, 620, 440, "A hillside cutaway: younger on top, older below")
     layers = [
@@ -224,65 +187,6 @@ def b_digging_layers():
     b += T(700, 348, "earlier", 13, weight="bold", fill=MUTED)
     b += T(700, 366, "(older)", 13, fill=MUTED)
     return 800, 480, b
-
-
-def b_arch_vs_paleo():
-    rows = [
-        ("Pottery shard", "Brachiopod shell", "flat decorated shard", "ribbed shell"),
-        ("Flint arrowhead", "T. rex tooth", "flaked point", "serrated tooth"),
-        ("Room foundation", "Skeleton in rock", "walls + hearth (plan)", "articulated bones"),
-    ]
-    b = T(400, 45, "Same ground, different evidence", 22, weight="bold", fill=ACCENT_DARK)
-    b += T(215, 78, "ARCHAEOLOGY: things people made", 16, weight="bold")
-    b += T(585, 78, "PALEONTOLOGY: fossils of ancient life", 16, weight="bold")
-    y = 100
-    for a, c, _, _ in rows:
-        b += R(20, y, 370, 108, CARD)
-        b += R(410, y, 370, 108, CARD)
-        b += T(205, y + 62, a, 16, weight="bold")
-        b += T(595, y + 62, c, 16, weight="bold")
-        y += 118
-    # glyphs row 1
-    b += "<polygon points='150,150 260,150 245,185 165,185' fill='#c96f4a' stroke='#7a3e2a' stroke-width='2'/>"
-    b += "<circle cx='205' cy='167' r='12' fill='none' stroke='#7a3e2a' stroke-width='2'/>"
-    b += shell_spiral(595, 168, 24)
-    # row 2
-    b += "<polygon points='205,268 178,310 232,310' fill='#9aa0a8' stroke='#555' stroke-width='2'/>"
-    b += "<line x1='192' y1='290' x2='218' y2='290' stroke='#555' stroke-width='1.5'/>"
-    b += "<polygon points='595,262 575,312 615,312' fill='#efe6d4' stroke='#7a5c3e' stroke-width='2'/>"
-    b += "<line x1='583' y1='280' x2='607' y2='280' stroke='#7a5c3e' stroke-width='1.5'/>"
-    b += "<line x1='585' y1='290' x2='605' y2='290' stroke='#7a5c3e' stroke-width='1.5'/>"
-    # row 3
-    b += R(90, 386, 230, 44, "#d8cfc4")
-    b += R(150, 386, 110, 44, "none", stroke="#6b5233")
-    b += "<circle cx='205' cy='408' r='10' fill='#b4561f'/>"
-    b += bone(500, 400, 110, 14) + bone(520, 420, 80, 12)
-    b += R(480, 382, 230, 52, SAND, stroke=BORDER)
-    return 800, 470, b
-
-
-def b_context():
-    b = T(400, 45, "Context turns a find into evidence", 22, weight="bold", fill=ACCENT_DARK)
-    b += panel(20, 65, 370, 375, "In context: in place")
-    b += R(50, 150, 310, 150, SAND_D)
-    b += "<line x1='50' y1='200' x2='360' y2='200' stroke='#8a7a68' stroke-width='2' stroke-dasharray='6 4'/>"
-    b += bone(130, 225, 130, 20)
-    b += shell_spiral(300, 190, 12)
-    b += fern(90, 290, 60)
-    b += R(300, 120, 44, 22, CARD)  # tag
-    b += T(322, 136, "F-14", 13, weight="bold")
-    b += T(205, 330, "sandstone = river channel", 14)
-    b += T(205, 352, "shells + leaves recorded", 14)
-    b += T(205, 374, "depth + orientation mapped", 14)
-    b += T(205, 416, "story preserved  ✓", 16, weight="bold", fill="#2f7d4a")
-    b += panel(410, 65, 370, 375, "Out of context: no records")
-    b += R(460, 170, 270, 130, "#d8cfc4")
-    b += bone(520, 235, 130, 20)
-    b += T(595, 150, "Location?", 17, weight="bold", fill="#b3261e")
-    b += T(595, 330, "Rock layer?", 17, weight="bold", fill="#b3261e")
-    b += T(595, 356, "Nearby fossils?", 17, weight="bold", fill="#b3261e")
-    b += T(595, 416, "story lost  ✕", 16, weight="bold", fill="#b3261e")
-    return 800, 460, b
 
 
 def b_notebook_grid():
@@ -345,44 +249,6 @@ def b_body_vs_trace():
     return 800, 500, b
 
 
-def b_burial_sequence():
-    steps = [
-        ("1. Quick burial", "fish rests on lake floor;", "mud covers it"),
-        ("2. Deep layers", "sediment piles up;", "soft parts decay"),
-        ("3. Minerals seep", "groundwater fills", "pores with minerals"),
-        ("4. Exposure", "erosion reveals", "the fossil again"),
-    ]
-    b = ""
-    x = 15
-    for i, (h, l1, l2) in enumerate(steps):
-        b += panel(x, 20, 185, 380, h)
-        b += R(x + 12, 110, 161, 150, SAND_D if i < 3 else SHALE)
-        if i == 0:
-            b += "<ellipse cx='" + str(x + 92) + "' cy='200' rx='45' ry='14' fill='#8fa8b8' stroke='#3e5a6e' stroke-width='2'/>"
-            b += "<circle cx='" + str(x + 60) + "' cy='196' r='3' fill='#2a2522'/>"
-            b += T(x + 92, 245, "settling mud", 12, fill=MUTED, style="italic")
-        elif i == 1:
-            for yy, ww in ((130, 161), (155, 161), (180, 161)):
-                b += f"<line x1='{x + 12}' y1='{yy}' x2='{x + 173}' y2='{yy}' stroke='#8a7a68' stroke-width='2'/>"
-            b += bone(x + 40, 225, 100, 14)
-        elif i == 2:
-            b += bone(x + 40, 200, 100, 16)
-            for dx, dy in ((30, -20), (70, -30), (110, -18), (50, 25), (95, 30)):
-                b += f"<circle cx='{x + 40 + dx}' cy='{200 + dy}' r='5' fill='#6fa8c9' stroke='#3e6e8e' stroke-width='1.5'/>"
-                b += arrow(x + 40 + dx, 200 + dy + 22, x + 40 + dx, 200 + dy + 6, color="#3e6e8e", w=2)
-            b += T(x + 92, 285, "magnified pores fill", 12, fill=MUTED, style="italic")
-        else:
-            b += "<polygon points='" + str(x + 12) + ",260 " + str(x + 70) + ",110 " + str(x + 130) + ",260' fill='#9a7b55'/>"
-            b += bone(x + 55, 215, 80, 14)
-        b += T(x + 92, 320, l1, 14)
-        b += T(x + 92, 342, l2, 14)
-        if i < 3:
-            b += arrow(x + 185, 210, x + 213, 210)
-        x += 198
-    b += T(400, 440, "Soft parts decay; hard bones remain and turn to stone.", 15, fill=MUTED, style="italic")
-    return 800, 460, b
-
-
 def b_mold_cast():
     b = ""
     steps = [
@@ -410,61 +276,6 @@ def b_mold_cast():
             b += arrow(x + 240, 185, x + 268, 185)
         x += 260
     return 800, 440, b
-
-
-def b_special_preservation():
-    b = panel(20, 20, 250, 400, "A. Amber")
-    b += "<polygon points='60,150 240,150 220,330 80,330' fill='#e8b93c' stroke='#8a6a00' stroke-width='3'/>"
-    b += "<ellipse cx='150' cy='245' rx='26' ry='10' fill='#5f4630'/>"
-    b += "<circle cx='150' cy='238' r='9' fill='#3c2c1e'/>"
-    b += "<ellipse cx='128' cy='232' rx='14' ry='5' fill='#cfd8dc' opacity='0.8'/>"
-    b += "<ellipse cx='172' cy='232' rx='14' ry='5' fill='#cfd8dc' opacity='0.8'/>"
-    b += T(145, 360, "insect sealed in", 14) + T(145, 382, "tree resin", 14)
-    b += panel(280, 20, 250, 400, "B. Tar seep")
-    b += R(300, 180, 210, 120, "#3a332e")
-    b += "<ellipse cx='405' cy='180' rx='105' ry='16' fill='#241f1c'/>"
-    b += bone(350, 230, 110, 16)
-    b += T(405, 330, "bones sealed in", 14) + T(405, 352, "sticky asphalt", 14)
-    b += T(405, 382, "La Brea style", 13, fill=MUTED, style="italic")
-    b += panel(540, 20, 240, 400, "C. Permafrost")
-    b += R(560, 150, 200, 120, "#cfe0e8")
-    b += "<line x1='560' y1='190' x2='760' y2='190' stroke='#fff' stroke-width='3'/>"
-    b += "<ellipse cx='660' cy='235' rx='60' ry='26' fill='#8a6f52' stroke='#5f4630' stroke-width='2'/>"
-    b += "<path d='M600 235 q-14 26 -6 44 M620 240 q-10 24 -4 42' stroke='#4a3a28' stroke-width='4' fill='none'/>"
-    b += "<circle cx='705' cy='228' r='4' fill='#2a2522'/>"
-    b += T(660, 320, "mammoth calf frozen", 14) + T(660, 342, "hair + skin kept", 14)
-    b += T(660, 382, "Siberia + Alaska", 13, fill=MUTED, style="italic")
-    return 800, 440, b
-
-
-def b_two_paths():
-    b = T(400, 40, "Two paths after death", 22, weight="bold", fill=ACCENT_DARK)
-    b += R(300, 65, 200, 50, CARD) + T(400, 96, "An organism dies", 16, weight="bold")
-    b += arrow(400, 115, 140, 150)
-    b += arrow(400, 115, 660, 150)
-    b += R(20, 150, 240, 60, "#fbe6e4", stroke="#b3261e") + T(140, 172, "COMMON PATH", 15, weight="bold", fill="#b3261e")
-    b += T(140, 194, "almost all organisms", 13, fill=MUTED, style="italic")
-    b += R(540, 150, 240, 60, "#e4f4e9", stroke="#2f7d4a") + T(660, 172, "RARE PATH", 15, weight="bold", fill="#2f7d4a")
-    b += T(660, 194, "needs the right conditions", 13, fill=MUTED, style="italic")
-    left_steps = ["Scavengers scatter it", "Bacteria + fungi rot it", "Sun + weather wear it", "Recycled into soil: NO FOSSIL"]
-    y = 230
-    for s in left_steps:
-        fill = "#fbe6e4" if "NO FOSSIL" in s else CARD
-        b += R(20, y, 240, 44, fill, stroke="#b3261e" if "NO FOSSIL" in s else BORDER)
-        b += T(140, y + 28, s, 14, weight="bold" if "NO FOSSIL" in s else "normal")
-        if y < 230 + 3 * 56:
-            b += arrow(140, y + 44, 140, y + 56, color="#b3261e", w=2.5)
-        y += 56
-    right_steps = ["Rapid burial in mud/sand", "Hidden from air + scavengers", "Minerals harden it in rock", "Preserved FOSSIL specimen"]
-    y = 230
-    for s in right_steps:
-        fill = "#e4f4e9" if "FOSSIL" in s else CARD
-        b += R(540, y, 240, 44, fill, stroke="#2f7d4a" if "FOSSIL" in s else BORDER)
-        b += T(660, y + 28, s, 14, weight="bold" if "FOSSIL" in s else "normal")
-        if y < 230 + 3 * 56:
-            b += arrow(660, y + 44, 660, y + 56, color="#2f7d4a", w=2.5)
-        y += 56
-    return 800, 480, b
 
 
 def b_prospecting():
@@ -558,44 +369,6 @@ def b_quarry_grid():
     return 800, 480, b
 
 
-def b_plaster_steps():
-    steps = [
-        ("1. Pedestal", "trench around;", "bone on rock pillar"),
-        ("2. Separator", "damp paper over", "the bone surface"),
-        ("3. Plaster", "burlap strips in", "plaster, overlapped"),
-        ("4. Flip", "undercut base;", "turn block over"),
-        ("5. Seal + label", "plaster shut;", "no. + north arrow"),
-    ]
-    b = ""
-    x = 12
-    for i, (h, l1, l2) in enumerate(steps):
-        b += panel(x, 20, 150, 400, h)
-        b += R(x + 15, 120, 120, 130, SAND_D)
-        if i == 0:
-            b += bone(x + 35, 150, 80, 12)
-            b += "<line x1='" + str(x + 15) + "' y1='180' x2='" + str(x + 135) + "' y2='180' stroke='#5f4630' stroke-width='2'/>"
-        elif i == 1:
-            b += bone(x + 35, 150, 80, 12)
-            b += R(x + 30, 138, 90, 26, "#fff", stroke="#8a8f96")
-        elif i == 2:
-            b += R(x + 25, 130, 100, 60, "#fff", stroke="#8a8f96")
-            for yy in (145, 160, 175):
-                b += f"<line x1='{x + 25}' y1='{yy}' x2='{x + 125}' y2='{yy}' stroke='#b9c2c7' stroke-width='3'/>"
-        elif i == 3:
-            b += R(x + 25, 150, 100, 60, "#fff", stroke="#8a8f96")
-            b += arrow(x + 40, 130, x + 110, 130)
-            b += T(x + 75, 235, "chisels cut base", 11, fill=MUTED)
-        else:
-            b += R(x + 25, 140, 100, 70, "#fff", stroke="#8a8f96")
-            b += T(x + 75, 168, "DS-2026-04", 12, weight="bold")
-            b += T(x + 75, 188, "N ↑", 12, weight="bold")
-        b += T(x + 75, 300, l1, 13)
-        b += T(x + 75, 320, l2, 13)
-        x += 156
-    b += T(400, 452, "The jacket holds fossil + rock together for the bumpy ride.", 15, fill=MUTED, style="italic")
-    return 800, 470, b
-
-
 def b_trackway_in_place():
     b = panel(20, 20, 760, 400, "A trackway is worth more where it lies: map it, do not move it")
     b += R(50, 110, 700, 220, "#d8cfc4")
@@ -639,64 +412,6 @@ def b_prep_lab():
     b += T(430, 140, "stereo microscope", 14, weight="bold")
     b += T(400, 380, "air scribe  ·  needle + brush  ·  save every crumb of matrix", 15)
     return 800, 460, b
-
-
-def b_catalog_record():
-    b = panel(20, 20, 360, 400, "Cataloged jawbone")
-    b += R(50, 130, 300, 120, "#e9e2d6")  # cradle
-    b += "<ellipse cx='200' cy='170' rx='100' ry='26' fill='#efe6d4' stroke='#7a5c3e' stroke-width='2'/>"
-    for tx in (150, 175, 200, 225):
-        b += f"<line x1='{tx}' y1='150' x2='{tx}' y2='190' stroke='#7a5c3e' stroke-width='2'/>"
-    b += "<circle cx='200' cy='170' r='20' fill='none' stroke='#b4561f' stroke-width='2.5'/>"
-    b += T(200, 176, "2026-118", 12, weight="bold", fill=ACCENT_DARK)
-    b += T(200, 300, "number painted on bone", 14)
-    b += T(200, 322, "padded cradle in drawer", 14)
-    b += T(200, 380, "one number links it all", 15, weight="bold", fill=ACCENT_DARK)
-    for i, (box, l1, l2) in enumerate([
-        ("label card", "species, site,", "collector, date"),
-        ("field records", "quarry map,", "photos in place"),
-        ("rock record", "layer name,", "neighbour finds"),
-    ]):
-        y = 60 + i * 120
-        b += R(420, y, 340, 100, CARD)
-        b += T(590, y + 30, box, 16, weight="bold")
-        b += T(590, y + 56, l1, 14)
-        b += T(590, y + 78, l2, 14)
-        b += arrow(380, 210, 420, y + 50)
-    return 800, 440, b
-
-
-def b_teeth():
-    teeth = [
-        ("Slicer", "theropod: curved,", "serrated, cuts meat"),
-        ("Gripper", "sea reptile: tall cone,", "holds slippery fish"),
-        ("Stripper", "sauropod: peg teeth,", "rake leaves off twigs"),
-        ("Grinder", "duckbill: dental battery,", "mills tough plants"),
-    ]
-    b = ""
-    x = 12
-    for i, (h, l1, l2) in enumerate(teeth):
-        b += panel(x, 20, 188, 400, h)
-        cx = x + 94
-        if i == 0:
-            b += "<path d='M" + str(cx) + ",130 q40,60 4,120 q-30,-55 -30,-90 q0,-25 26,-30' fill='#efe6d4' stroke='#7a5c3e' stroke-width='2.5'/>"
-            b += "<line x1='" + str(cx + 12) + "' y1='170' x2='" + str(cx + 26) + "' y2='170' stroke='#7a5c3e' stroke-width='1.5'/>"
-            b += "<line x1='" + str(cx + 12) + "' y1='185' x2='" + str(cx + 22) + "' y2='185' stroke='#7a5c3e' stroke-width='1.5'/>"
-        elif i == 1:
-            b += "<polygon points='" + str(cx) + ",125 " + str(cx - 20) + ",250 " + str(cx + 20) + ",250' fill='#efe6d4' stroke='#7a5c3e' stroke-width='2.5'/>"
-        elif i == 2:
-            b += "<rect x='" + str(cx - 14) + "' y='130' width='28' height='115' rx='12' fill='#efe6d4' stroke='#7a5c3e' stroke-width='2.5'/>"
-        else:
-            b += "<rect x='" + str(cx - 45) + "' y='150' width='90' height='80' rx='10' fill='#efe6d4' stroke='#7a5c3e' stroke-width='2.5'/>"
-            for xx in (cx - 22, cx, cx + 22):
-                b += f"<line x1='{xx}' y1='150' x2='{xx}' y2='230' stroke='#7a5c3e' stroke-width='2'/>"
-            for yy in (170, 190, 210):
-                b += f"<line x1='{cx - 45}' y1='{yy}' x2='{cx + 45}' y2='{yy}' stroke='#b49b72' stroke-width='1.5'/>"
-        b += T(cx, 300, l1, 13)
-        b += T(cx, 322, l2, 13)
-        b += T(cx, 368, "see: biting surface", 12, fill=MUTED, style="italic")
-        x += 196
-    return 800, 440, b
 
 
 def b_trackway_posture():
@@ -762,28 +477,6 @@ def b_ct_skull():
     b += T(595, 330, "what the scanner reveals", 14, fill=MUTED, style="italic")
     b += arrow(390, 220, 410, 220)
     return 800, 440, b
-
-
-def b_correlation():
-    b = panel(20, 20, 350, 400, "West canyon wall")
-    west = [(110, 120, 290, 60, "#cfd8c9"), (110, 180, 290, 70, "#c96f4a"), (110, 250, 290, 80, SAND_D), (110, 330, 290, 60, "#d8cfc4")]
-    for x, y, w, h, fill in west:
-        b += R(x, y, w, h, fill)
-    b += T(255, 155, "4: gravel + mammoth molar", 12)
-    b += T(255, 220, "3: sandstone + dinosaur bones", 12)
-    b += T(255, 292, "2: red shale + fern + tracks", 12)
-    b += T(255, 362, "1: limestone + trilobites", 12)
-    b += panel(430, 20, 350, 400, "East canyon wall")
-    east = [(460, 170, 290, 60, "#cfd8c9"), (460, 230, 290, 80, SAND_D), (460, 310, 290, 70, "#c96f4a"), (460, 380, 290, 40, "#8a9a8b")]
-    for x, y, w, h, fill in east:
-        b += R(x, y, w, h, fill)
-    b += T(605, 205, "4: gravel + mammoth molar", 12)
-    b += T(605, 272, "3: sandstone + dinosaur bones", 12)
-    b += T(605, 348, "2: red shale + fern + tracks", 12)
-    for (x1, y1, x2, y2) in [(400, 150, 460, 200), (400, 215, 460, 270), (400, 290, 460, 345)]:
-        b += f"<line x1='{x1}' y1='{y1}' x2='{x2}' y2='{y2}' stroke='#b4561f' stroke-width='2.5' stroke-dasharray='9 6'/>"
-    b += T(430, 452, "Match rock type + order + fossils to link the two walls into one timeline.", 15, fill=MUTED, style="italic")
-    return 800, 470, b
 
 
 def b_geologic_column():
@@ -852,26 +545,6 @@ def b_dunkleosteus():
     b += arrow(560, 200, 525, 215, w=2.5)
     b += T(400, 372, "About the length of an adult head and chest - not a 20-foot shark body.", 14, fill=MUTED, style="italic")
     return 800, 420, b
-
-
-def b_posture():
-    b = panel(20, 20, 370, 400, "Sprawling: lizard / crocodile")
-    b += "<ellipse cx='205' cy='180' rx='60' ry='30' fill='#8a9a5b' stroke='#3e4a2e' stroke-width='2.5'/>"
-    for sx in (-1, 1):
-        b += f"<line x1='{205 + sx * 40}' y1='190' x2='{205 + sx * 110}' y2='250' stroke='#3e4a2e' stroke-width='12' stroke-linecap='round'/>"
-        b += f"<line x1='{205 + sx * 110}' y1='250' x2='{205 + sx * 110}' y2='300' stroke='#3e4a2e' stroke-width='10' stroke-linecap='round'/>"
-    b += T(205, 340, "legs out to the sides,", 14)
-    b += T(205, 362, "wide trackway", 14, weight="bold")
-    b += panel(410, 20, 370, 400, "Upright: dinosaur")
-    b += "<ellipse cx='595' cy='170' rx='55' ry='28' fill='#c9a87c' stroke='#5f4630' stroke-width='2.5'/>"
-    b += "<circle cx='560' cy='170' r='12' fill='none' stroke='#b4561f' stroke-width='3'/>"
-    b += "<circle cx='630' cy='170' r='12' fill='none' stroke='#b4561f' stroke-width='3'/>"
-    for sx in (-1, 1):
-        b += f"<line x1='{595 + sx * 25}' y1='190' x2='{595 + sx * 25}' y2='300' stroke='#5f4630' stroke-width='12' stroke-linecap='round'/>"
-    b += T(595, 340, "legs straight under body,", 14)
-    b += T(595, 362, "narrow straight trail", 14, weight="bold")
-    b += T(400, 452, "Open hip socket + inward-angled femur = pillar legs under the body.", 15, fill=MUTED, style="italic")
-    return 800, 470, b
 
 
 def b_skull_compare():
@@ -1038,63 +711,19 @@ def b_kpg():
     return 800, 460, b
 
 
-def b_soft_tissue():
-    b = panel(20, 20, 250, 400, "1. Dense bone chip")
-    b += "<polygon points='60,150 240,150 220,300 80,300' fill='#d9cbb2' stroke='#7a5c3e' stroke-width='2.5'/>"
-    b += "<circle cx='150' cy='220' r='26' fill='none' stroke='#7a5c3e' stroke-width='2'/>"
-    b += T(150, 340, "T. rex femur", 14) + T(150, 362, "(MOR 1125)", 13, fill=MUTED)
-    b += panel(280, 20, 250, 400, "2. Mineral dissolved")
-    b += R(300, 150, 210, 150, "#eef3f6")
-    b += "<path d='M330 260 q20 -60 60 -80 q40 -20 60 -60' stroke='#c96f6f' stroke-width='5' fill='none'/>"
-    b += "<path d='M350 270 q30 -40 70 -55' stroke='#c96f6f' stroke-width='4' fill='none'/>"
-    for cx, cy in ((380, 210), (395, 200), (410, 192)):
-        b += f"<circle cx='{cx}' cy='{cy}' r='6' fill='#8a2e2e'/>"
-    b += T(405, 330, "stretchy vessel-like", 14, weight="bold")
-    b += T(405, 352, "tubes + cell-like dots", 14)
-    b += panel(540, 20, 240, 400, "3. Bone cell zoom")
-    b += "<circle cx='660' cy='210' r='30' fill='#e8b9b9' stroke='#8a2e2e' stroke-width='2.5'/>"
-    for dx, dy in ((-45, -20), (45, -25), (-40, 25), (42, 22), (0, -48)):
-        b += f"<line x1='660' y1='210' x2='{660 + dx}' y2='{210 + dy}' stroke='#8a2e2e' stroke-width='2.5'/>"
-    b += T(660, 300, "osteocyte with", 14)
-    b += T(660, 322, "branching filaments", 14)
-    b += T(660, 362, "snaps back when", 13, fill=MUTED, style="italic")
-    b += T(660, 382, "pulled: still flexible", 13, fill=MUTED, style="italic")
-    b += arrow(270, 225, 280, 225)
-    b += arrow(530, 225, 540, 225)
-    return 800, 440, b
-
-
 BUILDERS = [
-    ("digging-01-hasty-vs-careful.svg", "Hasty digging versus careful excavation",
-     "Left: messy rushed hole with broken finds. Right: neat gridded square with small tools and records.",
-     b_digging_hasty_vs_careful),
     ("digging-01-layers-stack-up.svg", "How rock and soil layers stack up",
      "Hillside cutaway with topsoil, clay hearth layer, fossil sandstone, and shell limestone, youngest on top.",
      b_digging_layers),
-    ("digging-02-archaeology-vs-paleontology.svg", "Archaeology versus paleontology comparison",
-     "Three rows comparing pottery with shells, arrowhead with tooth, and room foundation with skeleton.",
-     b_arch_vs_paleo),
-    ("digging-03-context-vs-no-context.svg", "A find with context versus without",
-     "Jawbone mapped in its sandstone layer beside the same bone isolated in a box with unknowns.",
-     b_context),
     ("digging-03-field-notebook-grid.svg", "Excavation grid square and field notebook page",
      "Numbered bones plotted on a meter grid beside an open notebook with sketch, depths, and layer notes.",
      b_notebook_grid),
     ("fossils-01-body-vs-trace.svg", "Body fossils versus trace fossils gallery",
      "Four body fossils (ammonite, tooth, fern, petrified wood) beside four trace fossils (tracks, burrows, bite marks, coprolite).",
      b_body_vs_trace),
-    ("fossils-02-burial-mineralization.svg", "Four-step burial and mineralization sequence",
-     "Quick burial, deepening layers, mineral seepage into bone pores, and final exposure by erosion.",
-     b_burial_sequence),
     ("fossils-02-mold-and-cast.svg", "How a fossil mold and natural cast form",
      "Buried clam shell, dissolved shell leaving a hollow mold, and minerals filling it into a stone cast.",
      b_mold_cast),
-    ("fossils-02-special-preservation.svg", "Special preservation: amber, tar, and ice",
-     "Insect in golden amber, bones in a dark tar seep, and a woolly mammoth calf in permafrost.",
-     b_special_preservation),
-    ("fossils-03-two-paths.svg", "Two paths after death: recycling versus fossilization",
-     "Branching flowchart from death to decay and recycling on one side and rare burial and fossilization on the other.",
-     b_two_paths),
     ("fieldwork-01-prospecting-badlands.svg", "Prospecting a badlands hillside",
      "Layered slope with a fossil in place and a trail of bone scraps leading a prospector uphill to the source.",
      b_prospecting),
@@ -1104,21 +733,12 @@ BUILDERS = [
     ("fieldwork-02-quarry-grid-map.svg", "Overhead quarry grid map of a bone bed",
      "Two-metre string grid over ribs, pelvis, femur, and jaw, each with a field number, north arrow, and river-flow direction.",
      b_quarry_grid),
-    ("fieldwork-03-plaster-jacket-steps.svg", "Five steps of plaster jacketing a fossil",
-     "Pedestal, separator layer, burlap and plaster, undercut and flip, then seal and label.",
-     b_plaster_steps),
     ("fieldwork-03-trackway-in-place.svg", "Dinosaur trackway left in place for study",
      "Footprint trail across a rock ledge recorded with tape, tripod camera, and notes instead of being cut out.",
      b_trackway_in_place),
     ("lab-01-preparator-microscope.svg", "Fossil preparator working under a microscope",
      "Workbench scene with an opened plaster jacket, air scribe, microscope, matrix dish, and adhesive.",
      b_prep_lab),
-    ("lab-01-catalog-specimen-record.svg", "Cataloged specimen and its linked archive records",
-     "Numbered jawbone in a padded cradle linked to its label card, field records, and rock-layer record.",
-     b_catalog_record),
-    ("lab-02-tooth-shapes-diets.svg", "Four fossil tooth shapes and their diets",
-     "Serrated slicer, conical gripper, peg-like stripper, and ridged grinding battery with magnified biting surfaces.",
-     b_teeth),
     ("lab-02-trackway-posture.svg", "Reading a fossil trackway and limb posture",
      "Footprint measurements for stride and stance beside a hind-limb skeleton showing hip height and joint angles.",
      b_trackway_posture),
@@ -1128,9 +748,6 @@ BUILDERS = [
     ("lab-03-ct-scan-skull.svg", "CT scan revealing hidden structures inside a fossil skull",
      "Skull exterior in rock beside a translucent scan showing the braincase cavity and hidden replacement teeth.",
      b_ct_skull),
-    ("time-01-correlating-layers.svg", "Matching rock layers and fossils across two canyon walls",
-     "Two canyon outcrops with four matching layers each, linked by dashed correlation lines across the valley.",
-     b_correlation),
     ("time-02-geologic-column.svg", "The geologic column with representative fossils",
      "Four stacked divisions from Precambrian stromatolites to Cenozoic mammoths, oldest at the base.",
      b_geologic_column),
@@ -1140,9 +757,6 @@ BUILDERS = [
     ("windows-01-dunkleosteus-armor.svg", "Annotated skull and thoracic armor of Dunkleosteus",
      "Armored head shield with eye ring, jaw blades, and neck hinge; soft rear body noted as rarely preserved.",
      b_dunkleosteus),
-    ("windows-02-sprawling-vs-upright.svg", "Sprawling reptile posture versus upright dinosaur posture",
-     "Front-view pelvis comparison: sideways sprawling legs with a wide trail against pillar legs with a narrow trail.",
-     b_posture),
     ("windows-02-skull-tooth-comparison.svg", "Dinosaur skull and tooth comparison",
      "Theropod slicing skull, hadrosaur beak with grinding battery, and sauropod rake-like peg teeth.",
      b_skull_compare),
@@ -1161,9 +775,6 @@ BUILDERS = [
     ("active-02-kpg-boundary.svg", "Stratigraphic diagram across the end-Cretaceous boundary",
      "Rock column split by a dark boundary clay: dinosaurs, ammonites, and mosasaurs below; mammals above.",
      b_kpg),
-    ("active-03-soft-tissue-micro.svg", "Microscopic view of dinosaur bone soft tissue",
-     "Bone chip before and after dissolving the mineral, plus a zoomed branching bone cell.",
-     b_soft_tissue),
 ]
 
 

@@ -83,9 +83,13 @@ A single object or bone by itself usually tells only a small part of the story. 
 2. **Nearby finds:** Were fossilized fern leaves, freshwater clam shells, or shed predator teeth buried in the same layer right beside the bone? Were cooking pots, charcoal, and animal bones clustered around an ancient stone hearth?
 3. **Position and arrangement:** Are the bones of a skeleton still connected in life position (*articulated*), or were they scattered by flowing water or scavengers before burial?
 
-![A fossil jawbone mapped in its sandstone layer with shells, scale bar, and site tag beside the same bone alone in a box with its location, layer, and neighbours unknown](images/lessons/digging-03-context-vs-no-context.svg)
+![A toothed fossil jaw in a tan rock layer with small shells and leaf prints, a string grid, scale bar, north arrow, and blank tag.](images/lessons/digging-03-context-vs-no-context-1.jpg)
 
-*The same find tells a rich story in context and almost none without it.*
+***In context:** the jawbone still sits in its sandstone layer with fossil river shells and leaf impressions, recorded with a string grid, scale bar, north arrow, and site tag. (Watercolor made for Dig School.)*
+
+![The same toothed fossil jaw lying alone in an empty, plain cardboard box on a wooden table.](images/lessons/digging-03-context-vs-no-context-2.jpg)
+
+***No context:** the same jawbone in a cardboard box. We can't tell where it was found, what rock it came from, or what lived alongside it. (Watercolor made for Dig School.)*
 
 ## Habits that turn a hole into evidence
 

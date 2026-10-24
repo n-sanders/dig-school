@@ -81,9 +81,26 @@ To move a fragile fossil and its block of rock across rough trails without crack
 4. **Let it harden, then undercut and flip:** Once the top shell is rock-hard, the crew carefully chisels through the bottom of the rock pedestal, flips the block over, trims excess rock, and seals the bottom with plaster too.
 5. **Label the jacket:** The field number, top/bottom orientation, and site code are written directly on the dried plaster with permanent marker.
 
-![Five steps from carving a rock pedestal around a femur to paper separator, plaster-soaked burlap, undercutting and flipping, and a sealed jacket labelled DS-2026-04](images/lessons/fieldwork-03-plaster-jacket-steps.svg)
+![A large fossil bone resting on top of a square pillar of rock left standing in the middle of a dug-out trench.](images/lessons/fieldwork-03-plaster-jacket-steps-1.jpg)
 
-*The jacket cradles fossil and rock together for the trip to the lab.*
+***1. Pedestal:** dig around and under the fossil, leaving it perched on a pillar of rock. (Watercolor made for Dig School.)*
+
+![The fossil bone on its rock pedestal draped with white paper towels, with a paper towel roll and rock hammer in front.](images/lessons/fieldwork-03-plaster-jacket-steps-2.jpg)
+
+***2. Separator layer:** cover the bone with damp paper towels or foil so the plaster won't stick to it. (Watercolor made for Dig School.)*
+
+![The bone and pedestal wrapped in white plaster-soaked burlap, with a plaster bucket, paper towel roll, and rock hammer nearby.](images/lessons/fieldwork-03-plaster-jacket-steps-3.jpg)
+
+***3. Burlap and plaster:** lay strips of plaster-soaked burlap over the block to build a hard shell. (Watercolor made for Dig School.)*
+
+![A flipped plaster jacket showing its rough rock underside on top, with a leftover rock stump, plaster bucket, and tools.](images/lessons/fieldwork-03-plaster-jacket-steps-4.jpg)
+
+***4. Undercut and flip:** once the plaster hardens, cut through the pedestal and carefully flip the jacket over. (Watercolor made for Dig School.)*
+
+![A fully sealed white plaster jacket with a black arrow drawn on top and a black marker beside it, next to a bucket and tools.](images/lessons/fieldwork-03-plaster-jacket-steps-5.jpg)
+
+***5. Seal and label:** plaster the open bottom shut and mark the jacket with its field number (e.g., DS-2026-04) and a north arrow. (Watercolor made for Dig School.)*
+
 Small, sturdy fossils—such as single shark teeth or small shells—may simply be wrapped in tissue and placed in labeled sample bags or padded vials. Large jackets, however, can weigh hundreds or even thousands of pounds and may have to be carried out on stretchers, winched onto trucks, or lifted by helicopter.
 
 ## When the best choice is NOT to dig

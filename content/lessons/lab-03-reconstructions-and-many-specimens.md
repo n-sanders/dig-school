@@ -70,11 +70,11 @@ To study or display the whole animal's build and posture, paleontologists and mu
 1. **Identifying each bone:** Every bone is compared with known skeletons to determine its exact position (for example, the fourth neck vertebra or the left lower jaw).
 2. **Using symmetry:** Vertebrate skeletons are mirror images on the left and right sides. If the left arm bones are preserved and the right arm is missing, researchers can sculpt or 3D-print an exact mirror image for the right side.
 3. **Comparing overlapping specimens:** Suppose Specimen A has the skull and front half of the body, and Specimen B (of the same species and size) has the overlapping ribcage, hips, and tail. Together, the two specimens show the whole skeleton.
-4. **Marking what is real vs. replica:** In scientific papers—and in careful museum mounts—reconstructed pieces are clearly distinguished from the original fossil bones (often drawn in a different shade on bone maps or molded in a slightly different tone) so everyone can see exactly how much original evidence was found. Real fossil bones are also extremely heavy and brittle, so museums often mount lightweight fiberglass casts on display while keeping the real, fragile bones safe in research drawers where scientists can examine them up close.
+4. **Marking what is real vs. replica:** In scientific papers—and in careful museum mounts—reconstructed pieces are clearly distinguished from the original fossil bones (often shaded differently in published bone-map figures or molded in a slightly different tone) so everyone can see exactly how much original evidence was found. Real fossil bones are also extremely heavy and brittle, so museums often mount lightweight fiberglass casts on display while keeping the real, fragile bones safe in research drawers where scientists can examine them up close. Look at the mounts in the photo below and ask yourself: which bones do you think are real fossils, and which were sculpted to complete the skeleton?
 
 ![Museum hall with reconstructed dinosaur skeleton mounts including Stegosaurus and Tyrannosaurus](images/lessons/photo-dino-hall-mount.jpg)
 
-*Reconstructions on display: museum mounts built bone by bone from many specimens. (Photo: Gary Todd, CC0, via Wikimedia Commons.)*
+*These museum mounts mix real fossil bones with reconstructed parts — which bones look original to you, and which were sculpted to fill the gaps? (Photo: Gary Todd, CC0, via Wikimedia Commons.)*
 
 ## Why many specimens beat a single find
 

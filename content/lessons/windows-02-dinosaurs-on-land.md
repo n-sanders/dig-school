@@ -72,9 +72,13 @@ You can see the difference in the hips and legs:
 - **Sprawling reptiles** (like lizards and salamanders) have thigh bones that stick out sideways from the hip, so their bellies stay low to the ground and their bodies bend side to side when they walk.
 - **Dinosaurs** had an open hip socket and an inward-angled ball at the top of the thigh bone (*femur*) that tucked their legs **straight underneath their bodies**, like pillars under a bridge. Both their skeletons and their narrow fossil footprint trackways show this upright stance.
 
-![Front-view pelvis comparison of a sprawling lizard with sideways legs and a wide trail against a dinosaur with pillar legs under its body and a narrow trail](images/lessons/windows-02-sprawling-vs-upright.svg)
+![Head-on view of a crocodile with its leg bones drawn in, showing upper legs sticking out sideways and feet planted wide.](images/lessons/windows-02-sprawling-vs-upright-1.jpg)
 
-*Open hip sockets tucked dinosaur legs straight under the body.*
+***Sprawling (crocodile):** the upper limb bones stick out sideways and the elbows bend down, so the feet sit far out to the sides. (Watercolor made for Dig School.)*
+
+![Head-on view of a small two-legged dinosaur with its leg bones drawn in, showing legs straight down under the body.](images/lessons/windows-02-sprawling-vs-upright-2.jpg)
+
+***Upright (dinosaur):** the legs run straight down from the hip sockets and hold the body high, like pillars. (Watercolor made for Dig School.)*
 
 ## One group, many different body builds
 

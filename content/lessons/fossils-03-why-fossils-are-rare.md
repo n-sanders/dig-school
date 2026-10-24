@@ -72,9 +72,21 @@ In almost every case, nature recycles remains quickly:
 
 Because these everyday processes are so thorough, **most living things never become fossils**.
 
-![Flowchart from death splitting into the common path of scavengers, decay, and recycling with no fossil, and the rare path of rapid burial and mineralization ending in a fossil](images/lessons/fossils-03-two-paths.svg)
+![Vultures, a coyote, beetles, and flies scavenge a deer-like carcass on an open grassy plain, with scattered bones nearby.](images/lessons/fossils-03-two-paths-1.jpg)
 
-*Almost everything is recycled; fossilization needs fast burial and the right chemistry.*
+***The common path:** an animal that dies in the open is torn apart by scavengers like vultures, coyotes, and beetles. (Note: this painting shows some red flesh on the carcass.) (Watercolor made for Dig School.)*
+
+![Bleached, crumbling bones scattered across a grassy plain with moss and small mushrooms growing among them.](images/lessons/fossils-03-two-paths-2.jpg)
+
+***…and what's left weathers away:** sun, rain, fungi, and plants break the scattered bones down into soil, leaving no fossil. (Watercolor made for Dig School.)*
+
+![Brown floodwater rushes past a riverbank where a dead antlered deer lies half-covered in mud, as a vulture watches from above.](images/lessons/fossils-03-two-paths-3.jpg)
+
+***The rare path:** a flood quickly buries the animal in river mud and sand, hiding it from scavengers. (Watercolor made for Dig School.)*
+
+![Cutaway of layered rock under a grassy plain, with a complete animal skeleton lying fossilized inside one layer.](images/lessons/fossils-03-two-paths-4.jpg)
+
+***…and becomes a fossil:** protected underground, the pale bones turn to stone inside layers of sedimentary rock. (Watercolor made for Dig School.)*
 
 ## What tilts the odds toward preservation?
 

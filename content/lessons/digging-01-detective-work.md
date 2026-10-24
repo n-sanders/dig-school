@@ -73,9 +73,13 @@ A treasure hunter only cares about pulling a shiny or impressive object out of t
 
 If you yank a buried bone or clay pot out of the earth with a shovel, two bad things happen at once. First, the object itself—often cracked and brittle after sitting underground—can snap into pieces. Second, you destroy all the surrounding clues that explain how it got there.
 
-![Comparison of a messy rushed dig with broken finds tossed aside versus a neat gridded excavation where a scientist uses small tools and records everything](images/lessons/digging-01-hasty-vs-careful.svg)
+![A messy hole in desert ground with a shovel stuck in the dirt pile and broken bones and clay pots tossed aside.](images/lessons/digging-01-hasty-vs-careful-1.jpg)
 
-*Rushing destroys fragile finds and their clues; slow, recorded digging preserves the evidence.*
+***Hasty digging:** a deep hole dug with a big shovel mixes up the soil layers, and broken bone and pottery pieces get tossed on the dirt pile, so their story is lost. (Watercolor made for Dig School.)*
+
+![A paleontologist kneels by a neat string-marked pit, using a trowel and brush around a bone, with a camera, notebook, and ruler nearby.](images/lessons/digging-01-hasty-vs-careful-2.jpg)
+
+***Careful excavation:** a level square marked with string, a small trowel and soft brush, and a ruler, camera, and field notebook record the bone right where it lies in its layer. (Watercolor made for Dig School.)*
 
 ## The ground is built in layers
 

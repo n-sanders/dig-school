@@ -101,8 +101,8 @@ Once a specimen is prepared, it is **cataloged** into the collection:
 1. It receives a **unique catalog number** (such as `USNM 555000` or `AMNH 5027`), written in tiny India ink letters on a small dot of clear or white paint directly on the bone as well as on its label card.
 2. All the **field records from Unit 3**—the field notebook pages, quarry map coordinates, rock layer name, photographs in the ground, and preparator notes—are linked to that exact catalog number in the museum's archive and database.
 
-![Rows of tall museum collection cabinets housing cataloged fossils](images/lessons/photo-museum-cabinets-nps.jpg)
+![A fossil jaw in a custom white foam cradle in a wooden museum drawer, beside a label card, two field photos, and a quarry map.](images/lessons/lab-01-catalog-specimen-record-1.jpg)
 
-*Where catalog numbers live: rows of museum cabinets keeping every specimen findable for a century. (Photo: U.S. National Park Service, public domain.)*
+***A cataloged specimen:** the jawbone rests in a custom padded cradle in a museum drawer. Its painted catalog number links it to the label card, field photos, and quarry map that record where it came from. (Watercolor made for Dig School.)*
 
 Because of cataloging, a scientist visiting the collection fifty or a hundred years later doesn't just see a bone in a drawer—they can pull up the exact hillside, rock layer, and neighboring fossils that came with it.
