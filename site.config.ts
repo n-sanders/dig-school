@@ -48,23 +48,21 @@ export interface SiteConfig {
 }
 
 const config: SiteConfig = {
-  name: "StudyKit",
-  slug: "studykit",
-  emoji: "📚",
-  tagline: "Learn to recognize basic shapes",
-  description: "Work through short lessons, then practice until you can name every shape at a glance.",
+  name: "Dig School",
+  slug: "dig-school",
+  emoji: "🦴",
+  tagline: "Uncover the past through paleontology and archaeology",
+  description:
+    "Explore how scientists uncover buried evidence, how fossils form and are prepared, and what rocks and fossils reveal about ancient life and environments.",
   footer:
-    "Example course for the StudyKit skeleton. Shape facts cite [Wikipedia](https://en.wikipedia.org/). Progress is saved only in this browser.",
+    "Dig School — a course on paleontology and archaeology. Progress is saved only in this browser.",
   catalog: {
-    enabled: true,
-    singular: "shape",
-    plural: "shapes",
-    categoryLabel: "Kind",
-    categories: [
-      { id: "curved", label: "Curved" },
-      { id: "polygon", label: "Polygon" },
-    ],
-    attributes: [{ id: "sides", label: "Sides" }],
+    enabled: false,
+    singular: "specimen",
+    plural: "specimens",
+    categoryLabel: "Category",
+    categories: [],
+    attributes: [],
   },
   images: { provider: "pinned" },
   imageCredit: (url) => (url.startsWith("images/") ? "This site" : new URL(url).hostname),

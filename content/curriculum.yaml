@@ -1,15 +1,54 @@
-title: Basic Shapes
-intro: Take the lessons in order. Each one unlocks when you pass the quiz of the lesson before it.
+title: Dig School
+intro: |
+  Welcome to **Dig School**! Work through the units in order to learn how archaeologists and paleontologists uncover buried evidence, how fossils form and are prepared in the lab, and what rocks and fossils tell us about ancient life and environments. Each lesson unlocks when you pass the quiz of the lesson before it.
 units:
-  - id: shapes
-    title: "Unit 1: Recognizing shapes"
-    description: Name common shapes at a glance and tell look-alikes apart.
+  - id: unit-1
+    title: "Unit 1: Digging Up the Past"
+    description: Learn how scientists slowly uncover physical evidence from long ago, how archaeology and paleontology differ, and why layers and context make every find meaningful.
     lessons:
-      - shapes-01-curves
-      - shapes-02-triangle-and-square
-      - shapes-03-pentagon-and-hexagon
-  - id: facts
-    title: "Unit 2: Shape facts"
-    description: A text-only lesson about counting sides and corners.
+      - digging-01-detective-work
+      - digging-02-archaeology-and-paleontology
+      - digging-03-context-and-records
+  - id: unit-2
+    title: "Unit 2: What Is a Fossil?"
+    description: Explore body fossils and trace fossils, trace the pathways that turn remains and tracks into stone, and see why preserved fossils are rare and valuable.
     lessons:
-      - facts-01-sides-and-corners
+      - fossils-01-body-and-trace
+      - fossils-02-how-fossils-form
+      - fossils-03-why-fossils-are-rare
+  - id: unit-3
+    title: "Unit 3: How Paleontologists Find and Collect Fossils"
+    description: Follow a field crew from searching exposed sedimentary rock layers to careful excavation, field mapping, plaster jacketing, and deciding which fossils stay in the ground.
+    lessons:
+      - fieldwork-01-where-to-look
+      - fieldwork-02-excavating-and-recording
+      - fieldwork-03-plaster-jackets-and-transport
+  - id: unit-4
+    title: "Unit 4: From Rock to Research — Preparation and Study"
+    description: Step inside the preparation laboratory to see how rock-covered specimens are cleaned, stabilized, cataloged, reconstructed, and compared across sites.
+    lessons:
+      - lab-01-preparation-and-cataloging
+      - lab-02-clues-in-bones-teeth-and-stone
+      - lab-03-reconstructions-and-many-specimens
+  - id: unit-5
+    title: "Unit 5: Geologic Time — Reading the Rock and Fossil Record"
+    description: Examine how rock layers and fossil order build a relative timeline, how the standard geologic timescale is organized, and how scientists and others approach estimates of age.
+    lessons:
+      - time-01-layers-and-relative-order
+      - time-02-the-geologic-timescale
+      - time-03-measuring-and-interpreting-ages
+  - id: unit-6
+    title: "Unit 6: Major Groups and Famous Windows into the Past"
+    description: Meet armored Devonian fish, Mesozoic land dinosaurs, and Ice Age mammals, and visit rich fossil sites that preserve snapshots of whole ancient ecosystems.
+    lessons:
+      - windows-01-dunkleosteus-and-ancient-seas
+      - windows-02-dinosaurs-on-land
+      - windows-03-ice-age-mammals
+      - windows-04-famous-fossil-sites
+  - id: unit-7
+    title: "Unit 7: Fossils, Surprises, and an Active Science"
+    description: See how rock and fossil clues reconstruct ancient environments, how major shifts appear in the layers, and how surprising discoveries like dinosaur soft tissue keep paleontology moving forward.
+    lessons:
+      - active-01-reconstructing-environments
+      - active-02-major-turns-in-the-fossil-record
+      - active-03-surprises-and-ongoing-discovery
