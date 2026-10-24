@@ -92,9 +92,9 @@ Today's paleontologists have remarkable laboratory tools that early fossil hunte
 - **CT scans (computed tomography)** pass X-rays through a fossil skull or rock block to build a 3D digital image of what is hidden inside—such as un-erupted replacement teeth, nasal passages, inner ear canals, or tiny skeletons still buried inside hard rock—without cutting the specimen open.
 - **3D surface scans and digital models** allow researchers on different continents to measure and test-fit fragile bones on a computer screen without risking damage to the real fossils.
 
-![Fossil skull exterior in rock beside a translucent CT rendering of the same skull exposing the braincase cavity and hidden replacement teeth](images/lessons/lab-03-ct-scan-skull.svg)
+![Illustrated CT workflow from an intact fossil skull in rock through grayscale cross-sectional slices to a transparent digital reconstruction with hidden replacement teeth highlighted in amber.](images/lessons/lab-03-ct-scan-skull-v2.png)
 
-*Scanners see inside the stone without touching the fossil.*
+*CT scans build a digital volume from X-ray measurements, revealing structures inside a fossil without cutting it open. Amber highlights replacement teeth in this illustrative reconstruction. (AI-generated illustration made for Dig School.)*
 
 ![CT-based 3D rendering of a Massospondylus dinosaur skull showing internal airways and braincase structures in colour](images/lessons/photo-massospondylus-ct.jpg)
 

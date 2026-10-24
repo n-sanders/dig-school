@@ -81,9 +81,9 @@ Removing that rock requires patience because **the fossil is often softer and mo
 
 *A National Park Service preparator at work under a boom microscope on a plaster field jacket. (Photo: John Day Fossil Beds National Monument staff, public domain.)*
 
-![Prep-lab bench with an opened plaster jacket holding a skull, an air scribe, a boom microscope, a dish of saved matrix, and archival adhesive](images/lessons/lab-01-preparator-microscope.svg)
+![Indoor fossil preparation workstation with a stereo microscope over a partly exposed jaw, an air scribe, fine hand tools, removed matrix, and an inset showing the boundary between bone and rock.](images/lessons/lab-01-preparator-microscope-v2.png)
 
-*Preparation removes rock grain by grain under magnification and saves every crumb.*
+*A stereo microscope helps preparators distinguish fossil bone from surrounding rock. Air scribes and fine hand tools remove matrix carefully; the removed material is checked for smaller fossils. (AI-generated illustration made for Dig School.)*
 As the matrix comes off, preparators do not simply sweep it into the trash. They check the removed rock for tiny **micro-fossils**—such as shed fish scales, tiny mammal or lizard teeth, snail shells, or plant seeds—that were buried right beside the main specimen.
 
 ## Step 2: Stabilizing and repairing

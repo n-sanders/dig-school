@@ -115,7 +115,7 @@ Not every fossil that paleontologists find gets dug up and taken to a museum. Le
 
 *Real dinosaur trackways preserved in place under shelter at Lark Quarry, Australia — mapped and studied where they lie. (Photo: Carole Mackinney, CC0, via Wikimedia Commons.)*
 
-![Three-toed footprint trail across a rock ledge recorded with a measuring tape, tripod camera, and notebook while the rock stays untouched](images/lessons/fieldwork-03-trackway-in-place.svg)
+![Researchers map alternating three-toed dinosaur footprints on a continuous rock ledge using a measuring tape, notebook, photographic scale, and tripod-mounted camera.](images/lessons/fieldwork-03-trackway-in-place-v2.png)
 
-*Some finds teach most where they lie, so crews map and scan them in place.*
+*A trackway preserves the positions and spacing of footprints. Researchers measure, map, and photograph it while leaving the rock ledge in place. (AI-generated illustration made for Dig School.)*
 Now that our plaster-jacketed specimen is safely loaded and headed indoors, let's follow it into Unit 4—where laboratory preparation and scientific detective work begin.
