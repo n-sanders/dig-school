@@ -12,10 +12,16 @@ objectives:
 sources:
   - id: imnh-mammoth-vs-mastodon
     title: "National Park Service: Mammoths and Mastodons"
-    url: https://www.nps.gov/articles/000/mammoths-and-mastodons.htm
+    url: https://www.nps.gov/articles/mammoth-or-mastodon.htm
   - id: tarpits-ice-age
     title: "La Brea Tar Pits & Museum: Ice Age Animals"
-    url: https://tarpits.org/experience-tar-pits/ice-age-animals
+    url: https://tarpits.org/research-collections/tar-pits-collections/mammal-collections
+  - id: tarpits-smilodon-evidence
+    title: "La Brea Tar Pits: Here, Kitty, Kitty"
+    url: https://tarpits.org/stories/here-kitty-kitty
+  - id: tarpits-ground-sloth
+    title: "La Brea Tar Pits: Return to the Ice Age"
+    url: https://tarpits.org/sites/default/files/2019-03/lbtp_return_to_ice_age.pdf
 quiz:
   - type: question
     prompt: In which major division of the geologic column are Ice Age mammals (such as mammoths, mastodons, and saber-toothed cats) found?
@@ -36,80 +42,101 @@ quiz:
   - type: question
     prompt: What do the elongated, blade-like upper canine teeth and powerful front limbs of Smilodon (the saber-toothed cat) indicate?
     choices:
-      - It was a specialized ambush predator that used its muscular forelimbs to wrestle and hold large prey before delivering a precision bite
+      - It was likely an ambush predator that used powerful forelimbs to restrain prey and specialized teeth to bite it
       - It used its long teeth as shovels to dig up desert cacti
       - It was a slow-moving herbivore that chewed tree bark
-    answer: It was a specialized ambush predator that used its muscular forelimbs to wrestle and hold large prey before delivering a precision bite
-    explanation: Smilodon's robust forelimbs held struggling prey still so its long, laterally flattened canine blades would not snap against thrashing bone.
+    answer: It was likely an ambush predator that used powerful forelimbs to restrain prey and specialized teeth to bite it
+    explanation: Smilodon's robust forelimbs support the inference that it restrained prey. Its flattened upper canines were specialized cutting teeth, but fossils do not record the exact sequence of every hunt.
   - type: question
-    prompt: Despite being related to modern tree sloths, how was an Ice Age ground sloth (like Megatherium or Paramylodon) built?
+    prompt: Which features of Harlan's ground sloth (Paramylodon) show that it was a large ground-dwelling herbivore?
     choices:
-      - It was a heavy, ground-dwelling herbivore (some as large as an elephant or bear) with huge claws and peg-like teeth that walked on the outer edges of its feet
+      - It had a sturdy skeleton, large curved claws, and grinding teeth suited to eating plants
       - It was smaller than a mouse and glided between treetops
       - It lived underwater and had flippers instead of legs
-    answer: It was a heavy, ground-dwelling herbivore (some as large as an elephant or bear) with huge claws and peg-like teeth that walked on the outer edges of its feet
-    explanation: Fossil skeletons and footprints show that Ice Age ground sloths were massive land herbivores with sturdy hind legs, big curved claws for pulling down branches, and sometimes small pebble-like bones embedded in their skin.
+    answer: It had a sturdy skeleton, large curved claws, and grinding teeth suited to eating plants
+    explanation: The skeleton shows a large animal built for life on the ground. Its claws and teeth provide clues to feeding; large claws alone do not make an animal a predator.
   - type: question
-    prompt: Why do paleontologists know so much about the hair color, skin, and exact last meals of woolly mammoths?
+    prompt: Why can some woolly mammoth remains reveal more than an ordinary fossil skeleton?
     choices:
-      - Because several specimens have been found frozen in Arctic permafrost with hair, skin, soft tissues, and stomach contents still intact
+      - Because some remains preserved in permafrost retain skin, hair, soft tissues, or digestive contents
       - Because mammoths wrote diaries in caves
       - Because ordinary sandstone always preserves brown fur
-    answer: Because several specimens have been found frozen in Arctic permafrost with hair, skin, soft tissues, and stomach contents still intact
-    explanation: Permafrost preservation in Siberia, Alaska, and the Yukon has kept whole mammoth carcasses frozen with wool, skin, and identifiable grasses and wildflowers in their digestive tracts.
+    answer: Because some remains preserved in permafrost retain skin, hair, soft tissues, or digestive contents
+    explanation: Cold conditions can slow decay and preserve tissues or food remains that a skeleton alone cannot show. Preservation varies, and the color of ancient hair may have changed after death.
 reviewedBy: dig-school
-reviewedOn: "2026-10-23"
+reviewedOn: "2026-10-24"
 ---
 
-## Giant mammals of the Cenozoic
+## Meet the Ice Age mammals
 
-Step up into the uppermost layers of the **Cenozoic** and the cast of animals changes dramatically. Here, often buried in river gravels, windblown silt, cave deposits, tar seeps, or frozen northern soil, paleontologists uncover the bones and teeth of **Ice Age mammals**.
+In the **Pleistocene**, part of the **Cenozoic**, glaciers expanded and retreated while large mammals occupied grasslands, woodlands, and many other habitats. “Ice Age” does not mean every animal lived beside a glacier.
 
-Many of these animals look somewhat familiar because they belong to mammal families still alive today—elephants, cats, wolves, bears, bison, and sloths—yet their skeletons show remarkable adaptations to cold or changing landscapes.
+We will meet four examples: mammoths, mastodons, saber-toothed cats, and ground sloths. Start with the whole animals, then look closely at the clues in their teeth and bones.
 
-## Mammoths vs. Mastodons: The clue is in the teeth
+### Mammoth: a familiar-looking giant
 
-Two of the most famous tusked Ice Age giants were **mammoths** and **mastodons**. Both were large elephant relatives (*proboscideans*) with trunks and long curved tusks, so people mix them up all the time.
+**Mammoths** (*Mammuthus*) were elephant relatives with trunks and tusks. The **woolly mammoth** (*Mammuthus primigenius*) had a shaggy coat and lived in cold, open environments. Other mammoth species occupied warmer habitats; not every mammoth was a woolly mammoth.
 
-If you find a single fossil molar, however, you can tell them apart in two seconds—and tell what each animal ate:
+![Life-size museum models of an adult woolly mammoth and a calf, with shaggy coats and curved adult tusks](images/lessons/photo-woolly-mammoth-model.jpg)
 
-- **Mammoths** (*Mammuthus*):
-  - **Tooth shape:** Their huge molars look like the sole of a sneaker—a **flat chewing surface crossed by tightly packed, parallel enamel ridges**.
-  - **Diet and habitat:** Those flat ridges worked like two millstones rubbing back and forth to grind tough, silica-rich **grasses and sedges** across open grasslands and cold "mammoth steppes."
-- **Mastodons** (*Mammut*):
-  - **Tooth shape:** Their molars are topped with **rows of tall, rounded, cone-shaped bumps (cusps)**.
-  - **Diet and habitat:** Those sturdy cones worked like a nutcracker to crush **spruce twigs, pine cones, leaves, and shrubs** in woodlands and boggy forests.
+*A woolly mammoth reconstruction at the Anthropos museum in Brno. This is a model of the living animal, not a preserved carcass. Photo: [HTO](https://commons.wikimedia.org/wiki/File:Mammoth_model.JPG), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/), via Wikimedia Commons; resized.*
 
-![Flat washboard mammoth molar with steppe grasses beside cone-cusped mastodon molar with spruce twigs](images/lessons/windows-03-mammoth-vs-mastodon-molar.svg)
+### Mastodon: a different elephant relative
 
-*Mammoth molars ground grass; mastodon molars crushed twigs and leaves.*
+**Mastodons** (*Mammut*) were a different group of trunk-bearing mammals. The **American mastodon** (*Mammut americanum*) was a woodland browser. A trunk and tusks alone do not tell you whether a fossil belongs to a mammoth or a mastodon—its molars provide a much clearer clue.
 
-![Historic fossil plate showing the grinding surface and side view of a mammoth molar with parallel enamel ridges](images/lessons/photo-mammoth-molar-plate.jpg)
+![Front view of the Warren American mastodon skeletal mount at the American Museum of Natural History, showing its skull, tusks, and sturdy limbs](images/lessons/photo-mastodon-skeleton-amnh.jpg)
 
-*A real mammoth molar: flat grinding surface of parallel enamel plates, in top and side view. (Historic fossil plate, public domain.)*
+*The “Warren Mastodon” at the American Museum of Natural History. A mounted skeleton shows the animal's supporting framework; it does not preserve the trunk or coat. Photo: [Jonathan Chen](https://commons.wikimedia.org/wiki/File:Mastodon_AMNH.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons; resized.*
 
-![Historic fossil plate showing a mastodon tooth with rounded cone-like cusps](images/lessons/photo-mastodon-tooth-plate.jpg)
+## Mammoth or mastodon? Read the chewing surface
 
-*A real mastodon tooth with rounded, cone-like cusps for crushing twigs and leaves. (Historic fossil plate, public domain.)*
+Both animals ate plants, but their molars processed different kinds of food:
 
-## Other famous Ice Age neighbors
+| Clue | Mammoth | Mastodon |
+|---|---|---|
+| Molar surface | Closely spaced enamel ridges across a broad grinding surface | Rows of raised, cone-shaped cusps |
+| Typical feeding | Grazing on grasses and sedges | Browsing on leaves and woody twigs |
+| What to look for | A washboard-like pattern | Paired bumps and valleys |
 
-Alongside mammoths and mastodons lived an extraordinary community of large mammals:
+![Historic scientific illustration of a mammoth molar in chewing-surface and side views, showing many closely spaced enamel plates](images/lessons/photo-mammoth-molar-plate.jpg)
 
-1. **Saber-toothed cats (*Smilodon*):** Built more like a muscular bear than a slender modern cheetah, *Smilodon* had heavy, powerful front legs for pinning prey and upper canine teeth up to 7 inches (18 cm) long, flattened like serrated daggers. Because those flat canines could snap if bitten into thrashing bone, its skeleton shows it subdued prey with its forelimbs first before delivering a targeted bite to the neck.
-2. **Giant ground sloths (such as *Megatherium*, *Megalonyx*, and *Paramylodon*):** Unlike today's small tree-hanging sloths, these herbivores walked on the ground—some reaching the size of an ox or even an elephant! Their skeletons show massive hips, stout tails that acted like a third leg when they reared up to pull down branches, and huge curved claws. Some species even had hundreds of pebble-sized bony nodules (*osteoderms*) embedded under their thick skin like natural chainmail.
-3. **Dire wolves, short-faced bears, Ice Age horses, camels, and giant bison:** Many sites across North America preserve these species in the very same layers.
+*Mammoth molar: follow the many parallel ridges across the chewing surface. (Scientific illustration: George Frederick Wright, public domain, via Wikimedia Commons.)*
 
-![Side view of a Smilodon skull with a wide-gaping jaw and long serrated sabers beside stocky Smilodon and leaner lion forelimbs](images/lessons/windows-03-smilodon-skull.svg)
+![Historic scientific illustration of a mastodon molar showing rows of pointed cone-shaped cusps](images/lessons/photo-mastodon-tooth-plate.jpg)
 
-*Smilodon pinned prey with bear-thick forelimbs before the neck bite.*
+*Mastodon molar: look for the separate raised cusps. These are scientific drawings of fossil teeth, not photographs. The two illustrations are not shown at a common scale. (Illustration: George Frederick Wright, public domain, via Wikimedia Commons.)*
 
-![Photograph of a real Smilodon fatalis fossil skull with a long saber canine, displayed at the American Museum of Natural History](images/lessons/photo-smilodon-skull-amnh.jpg)
+**Try it:** Cover the captions. Which tooth would work better as a grinding surface, and which has individual crushing cusps? Tooth shape helps infer diet; preserved food remains can test that inference.
 
-*A real Smilodon fatalis skull (American Museum of Natural History) with its flattened saber canine. (Photo: Bloopityboop, CC BY-SA 4.0, via Wikimedia Commons.)*
+## Smilodon: a cat built to restrain prey
 
-## Extraordinary preservation in permafrost and tar
+The saber-toothed cat **Smilodon fatalis** had long, flattened upper canine teeth and unusually robust front limbs. These features support the inference that it ambushed and restrained large prey. Scientists investigate how it used its bite; a skeleton does not preserve a film of a hunt.
 
-Because Ice Age fossils come from the relatively recent geologic past, they are sometimes preserved in ways that older fossils almost never are:
-- **Frozen in permafrost:** In Siberia, Alaska, and Canada, frozen ground has preserved woolly mammoths, woolly rhinos, steppe bison, and cave lion cubs with **thick hair, skin, muscles, hooves, and even their last meals of grasses and buttercups still inside their stomachs**.
-- **Steeped in natural asphalt:** In places like California's La Brea Tar Pits, thousands of bones, teeth, seeds, and insects were sealed in natural asphalt—giving us our next stop: what paleontologists call a "famous window" into a whole ancient ecosystem.
+![Smilodon fatalis skeletal mount at the Carnegie Museum of Natural History, displayed within a reconstructed body outline, showing its robust front limbs and long upper canines](images/lessons/photo-smilodon-skeleton.jpg)
+
+*A Smilodon skeletal display with a reconstructed body outline. Look at the shoulder and front-leg bones before looking at the canines. Photo: [James St. John](https://commons.wikimedia.org/wiki/File:Smilodon_fatalis_saber-toothed_tiger_%28La_Brea_Asphalt%2C_Upper_Pleistocene%3B_Rancho_La_Brea_tar_pits%2C_Los_Angeles%2C_southern_California%2C_USA%29_1_%2815440173411%29.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons; resized.*
+
+![Smilodon fatalis fossil skull at the American Museum of Natural History, showing a long upper saber canine](images/lessons/photo-smilodon-skull-amnh.jpg)
+
+*A closer look at the skull and its blade-like upper canine. (Photo: [Bloopityboop](https://commons.wikimedia.org/wiki/File:AMNH_Smilodon_fatalis_skull,_Pleistocene_California.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.)*
+
+## Harlan's ground sloth: large claws, plant eater
+
+**Harlan's ground sloth** (*Paramylodon harlani*) was a large ground-dwelling herbivore preserved at La Brea. Its sturdy skeleton, curved claws, and grinding teeth give us different kinds of evidence about its body and feeding. Large claws alone do not identify a meat eater.
+
+![Side view of a Harlan's ground sloth skeleton at the Carnegie Museum of Natural History, showing its broad rib cage, sturdy limbs, and curved claws](images/lessons/photo-paramylodon-skeleton.jpg)
+
+*A Paramylodon skeletal mount. Compare its body and claws with Smilodon's: similar-looking equipment can serve different ways of life. Photo: [James St. John](https://commons.wikimedia.org/wiki/File:Paramylodon_harlani_ground_sloth_(La_Brea_Asphalt,_Upper_Pleistocene;_Rancho_La_Brea,_Los_Angeles,_southern_California,_USA)_1_(15257562207).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons; resized.*
+
+## What frozen remains and asphalt add
+
+Ordinary skeletons reveal body structure, but exceptional preservation can retain other clues.
+
+**Permafrost:** Frozen ground can preserve mammoth skin, hair, and sometimes digestive contents. Those remains can help researchers study soft anatomy and food directly. Preservation varies: not every frozen mammoth retains every tissue, and ancient hair may change color after death.
+
+![The preserved woolly mammoth calf Lyuba on museum display, with skin and trunk visible](images/lessons/photo-lyuba-mammoth.jpg)
+
+*Lyuba, a preserved woolly mammoth calf: compare the surviving skin and trunk with the adult museum model above. (Photo: [Thomas Quine](https://commons.wikimedia.org/wiki/File:Baby_Mammoth_Lyuba.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.)*
+
+**Natural asphalt:** La Brea preserves bones and teeth together with evidence such as seeds and insects. Unlike the frozen calf, these remains usually show hard parts rather than an intact furry animal. They help reconstruct a whole community—the subject of our next lesson.

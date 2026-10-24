@@ -1,0 +1,34 @@
+[
+  {
+    "file": "photo-woolly-mammoth-model.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mammoth_model.JPG",
+    "author": "HTO",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Resized proportionally to a maximum dimension of 1600 pixels; no cropping or other edits."
+  },
+  {
+    "file": "photo-mastodon-skeleton-amnh.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mastodon_AMNH.jpg",
+    "author": "Jonathan Chen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized proportionally to a maximum dimension of 1600 pixels; no cropping or other edits."
+  },
+  {
+    "file": "photo-paramylodon-skeleton.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Paramylodon_harlani_ground_sloth_(La_Brea_Asphalt,_Upper_Pleistocene;_Rancho_La_Brea,_Los_Angeles,_southern_California,_USA)_1_(15257562207).jpg",
+    "author": "James St. John",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized proportionally to a maximum dimension of 1600 pixels; no cropping or other edits."
+  },
+  {
+    "file": "photo-smilodon-skeleton.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Smilodon_fatalis_saber-toothed_tiger_%28La_Brea_Asphalt%2C_Upper_Pleistocene%3B_Rancho_La_Brea_tar_pits%2C_Los_Angeles%2C_southern_California%2C_USA%29_1_%2815440173411%29.jpg",
+    "author": "James St. John",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "changes": "Resized proportionally to a maximum dimension of 1600 pixels; no cropping or other edits."
+  }
+]
