@@ -69,14 +69,14 @@ Naturally, people also ask a second question: **How many years ago did these lay
 
 ## How the standard scientific timescale estimates ages
 
-To estimate numeric ages for ancient rocks, geologists and paleontologists primarily use **radiometric dating** cross-checked against the relative order of layers:
+To estimate numeric ages for ancient rocks, geologists and paleontologists primarily use **radiometric dating**: measuring radioactive elements that slowly change into other elements inside certain minerals. They then cross-check those measurements against the order of the rock layers.
 
 1. **Radioactive elements in minerals:** Certain naturally occurring elements (such as uranium, potassium, or rubidium) have unstable forms called *radioactive parent isotopes*. Over time, those parent atoms decay at a measurable rate into stable *daughter atoms* (for example, uranium decays into lead, and potassium-40 decays into argon-40).
-2. **Testing igneous crystals (like volcanic ash):** When hot volcanic ash or lava cools and crystallizes, tiny mineral crystals (such as zircon or feldspar) lock in parent atoms. Scientists use sensitive laboratory instruments to measure the ratio of parent atoms to daughter atoms inside those crystals.
-3. **Bracketing sedimentary fossil layers:** Because sedimentary rocks are made of older eroded grains, geologists usually do not date the mudstone or sandstone directly. Instead, they look for **volcanic ash beds** that settled below and above a fossil-bearing sedimentary layer. By combining the relative order of the layers with radiometric measurements from the ash beds above and below, scientists bracket the age of the fossil layer.
+2. **Testing crystals from cooled lava or ash:** When hot volcanic ash or lava cools, tiny mineral crystals (such as zircon or feldspar) lock in parent atoms. Scientists use sensitive laboratory instruments to measure how many parent atoms and how many daughter atoms are inside those crystals.
+3. **Bracketing sedimentary fossil layers:** Sedimentary rocks are made of pieces worn off older rocks, so a sand grain can be much older than the layer it ended up in. Dating that grain dates its old source, not the day it was buried. Geologists usually do not date the mudstone or sandstone itself. Instead, they measure **volcanic ash beds** that settled below and above a fossil layer. The fossil is younger than the ash beneath it and older than the ash above it.
 4. **Cross-checking:** Scientists compare results from more than one radioactive element system and check them against the physical order of the rock layers.
 
-Through these methods, the **standard geologic timescale** used in paleontology assigns estimates in the **millions and billions of years**—for example, placing the Paleozoic roughly between 541 and 252 million years ago, the Mesozoic between 252 and 66 million years ago, and the Cenozoic from 66 million years ago to the present.
+Through these methods, the **standard geologic timescale** used in paleontology assigns estimates in the **millions and billions of years**—for example, placing the Paleozoic roughly between 539 and 252 million years ago, the Mesozoic between 252 and 66 million years ago, and the Cenozoic from 66 million years ago to the present.
 
 > **[Image Placeholder: Bracketing a Fossil Layer Between Volcanic Ash Beds]**
 > - **Type:** Stratigraphic cross-section diagram
@@ -86,9 +86,9 @@ Through these methods, the **standard geologic timescale** used in paleontology 
 
 While the standard geologic timescale is the framework used across professional paleontology, museums, and geology textbooks, **not everyone agrees on those absolute ages**.
 
-Some people—including many Christians and families who hold a **young-earth view**—believe the Earth and its rock layers are much younger (thousands rather than millions or billions of years old). People who hold this view look at the same rock layers and fossils, along with Scripture, and interpret the evidence regarding absolute ages differently—for instance, questioning assumptions behind radiometric decay rates or rock formation speeds and viewing much of the sedimentary rock record as having formed rapidly during catastrophic flooding. Others, including many Christians and scientists, view the standard millions-of-years estimates as compatible with their faith and with the rock record.
+Some people—including Christians and families you may know, and friends who have been taught a **young-earth view**—believe the Earth and its rock layers are much younger (thousands of years old rather than millions or billions). They look at the same fossils and rock layers, read them alongside Scripture, and come to a different conclusion about the number of years. Other Christians, including many scientists, see the standard age estimates as fitting with their faith.
 
-**Dig School** presents the conventional scientific framework and methods clearly and factually so you can understand how paleontology is practiced and what museum displays, field reports, and books mean when they refer to eras, periods, and standard age estimates. This course does not require you to adopt one conclusion about the total age of the Earth, and it is a great topic to discuss with your family and friends.
+**Dig School** teaches the conventional scientific framework and methods so you can understand how paleontology is practiced and what museum displays, field reports, and books mean when they refer to eras, periods, and standard age estimates. You can learn that framework and still stay kind. A friend who was given a different account of the ages can look with you at the same bone, the same rock layer, and the same order of layers.
 
 ## What remains useful either way
 

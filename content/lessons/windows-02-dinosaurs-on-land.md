@@ -65,7 +65,9 @@ reviewedOn: "2026-10-23"
 
 Move up from the Paleozoic layers into the **Mesozoic** (the **Triassic**, **Jurassic**, and **Cretaceous** periods), and the land rocks reveal one of the most famous groups in all of paleontology: **dinosaurs**.
 
-People sometimes use the word "dinosaur" for any big ancient creature, including swimming sea reptiles or flying pterosaurs. In paleontology, however, **dinosaurs** were a specific group of **land-dwelling reptiles** that shared distinct skeletal features—most noticeably in their hips and legs:
+People sometimes use the word "dinosaur" for any big ancient creature, including swimming sea reptiles or flying pterosaurs. In paleontology, **dinosaurs** are a specific group of reptiles that share distinct skeletal features, most noticeably in their hips and legs. Birds are dinosaurs. They still share those features. Most of the famous Mesozoic dinosaurs lived on land. A few, such as *Spinosaurus*, spent much of their time in the water.
+
+You can see the difference in the hips and legs:
 
 - **Sprawling reptiles** (like lizards and salamanders) have thigh bones that stick out sideways from the hip, so their bellies stay low to the ground and their bodies bend side to side when they walk.
 - **Dinosaurs** had an open hip socket and an inward-angled ball at the top of the thigh bone (*femur*) that tucked their legs **straight underneath their bodies**, like pillars under a bridge. Both their skeletons and their narrow fossil footprint trackways show this upright stance.
@@ -80,10 +82,11 @@ Even though all dinosaurs shared upright legs, their skeletons show astonishing 
 
 | Dinosaur Group | Observable Skeletal Features | What the Evidence Points To |
 | --- | --- | --- |
-| **Theropods** (e.g., *Allosaurus*, *Tyrannosaurus*, *Velociraptor*) | Walked on **two muscular hind legs**; hollow limb bones; many had **curved, serrated teeth** and sharp claws (while some smaller theropods had beaks or toothless jaws) | Active two-legged walkers and runners; serrated-toothed species were meat-eaters and scavengers |
-| **Sauropods** (e.g., *Diplodocus*, *Brachiosaurus*, *Apatosaurus*) | Walked on **four thick, column-like legs**; long necks and tails; small heads with **peg-like or spoon-shaped front teeth** | Giant plant-eaters that stripped leaves from high branches or wide swaths of low vegetation without chewing heavily |
-| **Stegosaurs & Ankylosaurs** (Armored dinosaurs) | Low four-legged build; rows of **bony plates or spikes** (*Stegosaurus*) or interlocking **bony armor scutes and tail clubs** (*Ankylosaurus*); small leaf-shaped teeth | Slow-moving low browsers with heavy physical defense against large predators |
-| **Hadrosaurs & Ceratopsians** (Duck-bills like *Edmontosaurus*; horned dinosaurs like *Triceratops*) | Broad beaks at the front of the snout backed by **dental batteries** of hundreds of tightly packed grinding teeth; crests or **horns and neck frills** | Plant-eaters capable of slicing and grinding tough leaves, stems, and twigs; horns and crests functioned in defense, display, and species recognition |
+| **Theropods** (such as *Allosaurus*, *Tyrannosaurus*, *Velociraptor*) | Walked on **two muscular hind legs**; hollow limb bones; many had **curved, serrated teeth** and sharp claws (while some smaller theropods had beaks or toothless jaws) | Active two-legged walkers and runners; serrated-toothed species were meat-eaters and scavengers |
+| **Sauropods** (such as *Diplodocus*, *Brachiosaurus*, *Apatosaurus*) | Walked on **four thick, column-like legs**; long necks and tails; small heads with **peg-like or spoon-shaped front teeth** | Giant plant-eaters that stripped leaves from high branches or wide swaths of low vegetation without chewing heavily |
+| **Stegosaurs & Ankylosaurs** (Armored dinosaurs) | Low four-legged build; rows of **bony plates or spikes** (*Stegosaurus*) or interlocking **bony armor plates (scutes) and a tail club** (*Ankylosaurus*); small leaf-shaped teeth | Low plant-eaters. The plates, spikes, and tail clubs were physical defenses against large predators |
+| **Hadrosaurs** (Duck-bills like *Edmontosaurus*) | Broad beaks at the front of the snout, backed by **dental batteries** of hundreds of tightly packed grinding teeth; some had hollow head **crests** | Plant-eaters that could slice and grind tough leaves and stems. The crests were likely for show and, in the hollow-crested species, for sound |
+| **Ceratopsians** (Horned dinosaurs like *Triceratops*) | A beak, a **dental battery** of grinding teeth, and **horns and a neck frill** | Plant-eaters with the same kind of grinding teeth. Horns and frills were likely for show and for shoving matches. Scientists are still testing exactly how they were used |
 
 > **[Image Placeholder: Dinosaur Skull and Tooth Comparison — Theropod vs. Hadrosaur vs. Sauropod]**
 > - **Type:** Three-panel comparative skull diagram
@@ -93,8 +96,8 @@ Even though all dinosaurs shared upright legs, their skeletons show astonishing 
 
 How can a paleontologist tell whether an extinct animal lived by itself or in a herd? A single isolated skeleton cannot answer that question—but **bone beds, nesting sites, and trackways** can:
 
-- **Mass bone beds:** In places like Alberta, Montana, and Utah, paleontologists have excavated single rock layers containing hundreds or even thousands of bones from a single horned dinosaur species (such as *Centrosaurus*) or duck-billed dinosaur species—juveniles, sub-adults, and adults buried together during a flood or storm event.
-- **Nesting colonies:** In Montana, sites preserving *Maiasaura* ("good mother lizard") revealed clutches of fossilized eggs, hatchling skeletons with worn teeth (showing they stayed in the nest being fed before walking out on their own), and adult skeletons concentrated across the same mudstone horizon.
-- **Parallel trackways:** Rock ledges preserving dozens of sauropod or ornithopod footprint trails all heading in the same direction across the same layer of mud show groups moving together across an ancient shoreline.
+- **Mass bone beds:** In places like Alberta, Montana, and Utah, one rock layer can hold hundreds or thousands of bones from a single species, such as the horned dinosaur *Centrosaurus* or a duck-billed dinosaur. Young, half-grown, and adult animals were buried together, often by a flood or storm.
+- **Nesting colonies:** In Montana, *Maiasaura* ("good mother lizard") sites preserve fossil eggs, hatchlings, and adults in the same mudstone layer. The hatchlings' teeth are already worn. That shows they stayed in the nest and ate there before they walked off on their own.
+- **Parallel trackways:** Rock ledges preserve dozens of sauropod or ornithopod (two-legged plant-eater) footprint trails, all heading the same way across one mud layer. Those trails show groups moving together across an ancient shoreline.
 
 Careful mapping of context—not just collecting one pretty skull—is what allowed paleontologists to discover how these animals lived together.

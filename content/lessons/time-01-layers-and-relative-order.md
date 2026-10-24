@@ -76,15 +76,15 @@ Paleontologists and geologists read rock outcrops the same way. In an undisturbe
 - **Lower layers were deposited before the layers above them.**
 - A fossil buried in a lower layer was buried **earlier** than a fossil buried in a layer stacked above it.
 
-Sometimes Earth movements tilt, fold, or crack rock layers after they form, so geologists always inspect the layers carefully (looking at clues like ripple marks, mud cracks, and graded sand grains) to check whether a sequence is still right-side up. In most places, like the walls of the Grand Canyon or the badlands of Montana and Alberta, the stacked horizontal order is remarkably clear.
+Sometimes Earth movements tilt, fold, or crack rock layers after they form, so geologists always inspect the layers carefully. Ripple marks, mud cracks, and graded sand (coarser grains at the bottom of a layer, finer grains on top) show whether a sequence is still right-side up. In most places, like the walls of the Grand Canyon or the badlands of Montana and Alberta, the stacked horizontal order is remarkably clear.
 
 ## A consistent pattern of fossils in the layers
 
 As geologists and quarry workers in the 1700s and 1800s dug canals, mines, and road cuts across Europe and North America, they noticed something striking: **fossils do not appear randomly through the rock layers**.
 
 Instead, paleontologists observe a **consistent vertical order** in many places around the world:
-- Deep marine layers containing **trilobites** and **armored jawless or plated fish** consistently lie **below** layers containing land **dinosaurs**.
-- Layers containing **non-bird dinosaurs** and **ammonites** consistently lie **below** layers containing **mammoths, horses, and saber-toothed cats**.
+- Deep marine layers containing **trilobites** (sea animals with a hard shell in three lobes) and **armored jawless or plated fish** consistently lie **below** layers containing land **dinosaurs**.
+- Layers containing **dinosaurs other than birds** and **ammonites** (coiled sea shells) consistently lie **below** layers containing **mammoths, horses, and saber-toothed cats**. Birds are dinosaurs too. Unit 6 shows how scientists tell the groups apart.
 
 No one finds a mammoth skeleton buried in the undisturbed marine shale below a dinosaur layer, or a trilobite living alongside a saber-toothed cat.
 

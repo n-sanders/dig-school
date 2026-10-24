@@ -28,10 +28,10 @@ quiz:
   - type: question
     prompt: Why do preparators often work under a microscope using pin vises (fine carbide needles) or tiny vibrating air scribes?
     choices:
-      - Because the fossil can be more fragile than the rock around it, and magnification helps the preparator stop just before touching the bone surface
+      - Because the fossil can be more fragile than the rock around it, and magnification lets the preparator see the bone surface and avoid gouging it
       - Because all fossils are smaller than a grain of rice
       - Because large hammers are too heavy to bring indoors
-    answer: Because the fossil can be more fragile than the rock around it, and magnification helps the preparator stop just before touching the bone surface
+    answer: Because the fossil can be more fragile than the rock around it, and magnification lets the preparator see the bone surface and avoid gouging it
     explanation: Under a microscope, a preparator can see the subtle difference in texture and color between rock matrix and bone, removing rock grain by grain without scratching the fossil.
   - type: question
     prompt: How do preparators keep a cracked, delicate fossil from falling apart as the supporting rock is removed?
@@ -74,7 +74,7 @@ First, a preparator saws open the top of the plaster jacket and lifts off the pa
 Removing that rock requires patience because **the fossil is often softer and more brittle than the stone around it**:
 
 - **Fine hand tools:** For soft mudstone or sandstone, preparators use brushes, wooden picks, dental tools, and **pin vises** (handheld holders with sharp tungsten-carbide needles) to flick away rock one grain at a time.
-- **Air scribes and air abrasion:** For harder rock, they use pen-sized pneumatic tools called **air scribes** (which vibrate thousands of times a second like a miniature jackhammer) or tiny nozzles that puff soft powder to gently wear away matrix.
+- **Air scribes and air abrasion:** For harder rock, they use pen-sized air-powered tools called **air scribes**. An air scribe strikes the rock thousands of times a minute, like a tiny jackhammer. Other preparators use a tiny nozzle that puffs soft powder and wears the matrix away gently. That second method is called air abrasion.
 - **Working under magnification:** Much of this work happens under a stereo microscope. Through the lenses, the preparator watches for the tiny change in color and texture where rock ends and bone begins—stopping a hair's breadth before scratching the fossil.
 
 > **[Image Placeholder: Fossil Preparator Working Under a Microscope]**

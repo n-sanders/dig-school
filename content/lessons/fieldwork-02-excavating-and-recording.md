@@ -32,7 +32,7 @@ quiz:
       - Right against the surface of a fragile skull to chip the teeth loose
       - Never—paleontologists are only allowed to use feather dusters
     answer: Only to remove thick, barren rock well above the fossil layer, before switching to small tools near the fossil itself
-    explanation: Heavy tools help clear sterile rock ("overburden") above a quarry layer, but as soon as workers get close to the fossil, they switch to trowels, awls, dental picks, and brushes.
+    explanation: Heavy tools help clear empty rock above a quarry layer. That rock is called overburden. As soon as workers get close to the fossil, they switch to trowels, awls, dental picks, and brushes.
   - type: question
     prompt: Why do paleontologists brush liquid hardener (consolidant) onto cracked fossil surfaces while the bone is still in the ground?
     choices:

@@ -28,11 +28,11 @@ quiz:
   - type: question
     prompt: How were the flexible vessel-like structures and cell-like shapes inside the Tyrannosaurus rex femur discovered?
     choices:
-      - By soaking fragments of the dense inner bone in a mild acid solution that dissolved the hard mineral part of the bone, leaving behind flexible microscopic structures
+      - By soaking chips from inside the bone in EDTA, a liquid that dissolves bone mineral without a strong acid, leaving flexible microscopic structures behind
       - By hitting the outside of the bone with a sledgehammer
       - By looking at the bone from a mile away with binoculars
-    answer: By soaking fragments of the dense inner bone in a mild acid solution that dissolved the hard mineral part of the bone, leaving behind flexible microscopic structures
-    explanation: When researcher Mary Schweitzer and colleagues demineralized fragments from the inside of a well-preserved T. rex femur (MOR 1125), translucent branching vessels, bone-cell shapes (osteocytes), and tiny round red-blood-cell-like structures remained.
+    answer: By soaking chips from inside the bone in EDTA, a liquid that dissolves bone mineral without a strong acid, leaving flexible microscopic structures behind
+    explanation: Mary Schweitzer and colleagues soaked inner chips of a T. rex thigh bone (MOR 1125) in EDTA. The hard mineral dissolved. Branching flexible tubes, star-shaped bone cells (osteocytes), and tiny round red-blood-cell-like structures remained.
   - type: question
     prompt: What happens in science when careful, repeatable new evidence conflicts with an earlier assumption?
     choices:
@@ -75,7 +75,7 @@ Then came a surprise from the Hell Creek Formation of Montana:
 
 1. **A giant femur in a helicopter jacket:** Paleontologists excavated a well-preserved *Tyrannosaurus rex* skeleton (cataloged as `MOR 1125`). Because the plaster jacket was too heavy for the helicopter to lift out of the remote badlands in one piece, the crew had to split the massive thigh bone (*femur*) into two halves to carry it out.
 2. **Looking inside the broken bone:** In the laboratory, paleontologist Mary Schweitzer and her colleagues examined clean fragments from the dense, un-glued interior of that *T. rex* leg bone.
-3. **Dissolving the mineral away:** When they placed small inner bone chips into a weak acid solution that slowly dissolved the hard calcium phosphate mineral, the bone did not vanish into empty liquid.
+3. **Dissolving the mineral away:** They placed small inner bone chips into **EDTA**, a liquid that dissolves the hard calcium phosphate mineral without a strong acid. The bone did not vanish into empty liquid.
 4. **What was left behind:** Under the microscope, they saw **translucent, branching, flexible tube-like structures** that looked just like blood vessels—stretchy enough that when pulled with a tiny probe, they snapped back into shape! Inside the vessels were **tiny round red- to deep-brown microstructures** resembling red blood cells with central nuclei (like those of birds and reptiles), along with star-shaped bone cells (*osteocytes*) with delicate branching filaments still intact.
 
 > **[Image Placeholder: Microscopic View of Dinosaur Bone Soft Tissue and Vessel Structures]**
@@ -84,12 +84,12 @@ Then came a surprise from the Hell Creek Formation of Montana:
 
 ## How science responds to a surprise
 
-At first, the report seemed almost impossible under old assumptions. Could it be modern bacteria or biofilm that grew inside the bone? Could it be a fluke in just one *T. rex*?
+At first, the report seemed almost impossible under old assumptions. Could the structures be modern bacteria, or a **biofilm** (a sticky film of microbes that grew inside the bone long after burial)? Could they be a fluke in just one *T. rex*?
 
 Here is how the scientific detective process worked:
 - **Testing alternative explanations:** Researchers ran chemical tests, antibody tests, and electron microscope checks, and compared the structures against modern biofilms.
 - **Checking more specimens:** Teams looked inside other well-preserved fossils—including a duck-billed dinosaur (*Brachylophosaurus*), *Triceratops* horn bone, and fossils from other layers—and found similar vessel-like, cellular, and fibrous structures in multiple specimens.
-- **Revising earlier assumptions:** Because the physical evidence was repeatable, scientists had to reconsider **how long certain organic materials and cellular structures can persist** and **what chemical pathways (such as iron from blood hemoglobin or rapid mineral sealing inside dense cortical bone) can protect microscopic structures from decay**. (Researchers who hold different views on the age of the rock layers have also pointed to these finds as active areas of study and discussion regarding preservation timescales.)
+- **Revising earlier assumptions:** Because the physical evidence was repeatable, scientists had to reconsider **how long certain organic materials and cellular structures can persist** and **what chemical pathways (such as iron from blood hemoglobin or rapid mineral sealing inside dense cortical bone) can protect microscopic structures from decay**. People who see the age of these rock layers differently have found this discovery meaningful too. In the lab, the next step stayed the same: test the structures carefully and learn how they were preserved.
 
 Notice the lesson here: **when careful new evidence conflicts with an earlier assumption, scientists do not throw out the evidence—they test it, check it again, and refine their understanding.** Revising an assumption is not a sign that earlier work was useless; it is how science moves forward.
 

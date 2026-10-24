@@ -28,11 +28,11 @@ quiz:
   - type: question
     prompt: What do paleontologists observe in rock layers right below and right above the end-Cretaceous boundary (the boundary between the Mesozoic and Cenozoic)?
     choices:
-      - Below the boundary, non-bird dinosaurs, pterosaurs, mosasaurs, and ammonites are present; above the boundary, those groups are absent and mammals become far more abundant and varied
+      - Below the boundary, dinosaurs other than birds, pterosaurs, mosasaurs, and ammonites are present; above the boundary, those groups are absent and mammals become far more abundant and varied
       - Below the boundary, woolly mammoths are abundant; above the boundary, trilobites take over
       - There is no change at all between the fossils below and above the boundary
-    answer: Below the boundary, non-bird dinosaurs, pterosaurs, mosasaurs, and ammonites are present; above the boundary, those groups are absent and mammals become far more abundant and varied
-    explanation: The end-Cretaceous (K–Pg) boundary marks the disappearance of non-bird dinosaurs and several marine and flying groups, followed by a dramatic rise in mammal diversity in the overlying Cenozoic layers.
+    answer: Below the boundary, dinosaurs other than birds, pterosaurs, mosasaurs, and ammonites are present; above the boundary, those groups are absent and mammals become far more abundant and varied
+    explanation: The end-Cretaceous boundary is often labeled K–Pg (Cretaceous–Paleogene) on charts. Above it, dinosaurs other than birds are gone, along with several sea and flying groups. Mammals become much more varied in the Cenozoic layers on top.
   - type: question
     prompt: What physical clue do geologists often find right in the thin clay layer marking the end-Cretaceous boundary at sites around the world?
     choices:
@@ -40,7 +40,7 @@ quiz:
       - Modern plastic bottles and aluminum cans
       - Solid sheets of pure copper
     answer: Unusually high levels of the element iridium, along with shocked quartz grains, soot, and tiny glass droplets (spherules)
-    explanation: Across dozens of land and sea outcrops worldwide, the boundary clay contains an iridium enrichment and shocked minerals pointing to a major global upheaval (such as a large asteroid impact and massive volcanic activity).
+    explanation: At many sites worldwide, the boundary clay holds extra iridium, shocked quartz, and tiny glass beads. Those clues point to a large asteroid impact. Huge volcanic eruptions in India were happening around the same time and are studied as a separate possible cause.
   - type: question
     prompt: Is the end-Cretaceous boundary the only major turnover visible in the fossil record?
     choices:
@@ -74,25 +74,26 @@ Paleontologists call these large-scale turnovers **mass extinctions**.
 The most famous of these boundaries sits right between the **Mesozoic** (specifically the top of the Cretaceous Period) and the **Cenozoic**. You can walk right up to this boundary in badlands in Montana, North Dakota, and Colorado, or along sea cliffs in Spain, Denmark, and New Zealand:
 
 1. **In the layers below the boundary (Upper Cretaceous):**
-   - On land, paleontologists find fossils of **non-bird dinosaurs** such as *Triceratops*, *Edmontosaurus*, *Ankylosaurus*, and *Tyrannosaurus*, along with flying **pterosaurs** and small, mostly mouse- to opossum-sized mammals.
-   - In marine layers, they find giant flippered **mosasaurs**, **plesiosaurs**, and coiled **ammonites**.
+   - On land, paleontologists find fossils of **dinosaurs other than birds**, such as *Triceratops*, *Edmontosaurus*, *Ankylosaurus*, and *Tyrannosaurus*, along with flying **pterosaurs** and small mammals, mostly the size of a mouse or an opossum.
+   - In marine layers, they find giant flippered **mosasaurs**, long-necked **plesiosaurs**, and coiled **ammonites**.
 2. **At the boundary layer itself:**
    - At many sites around the world, a thin band of clay—often less than an inch thick—separates the Cretaceous rocks below from the Cenozoic rocks above.
-   - Inside that thin clay layer, geologists measure unusually high amounts of **iridium** (a metal rare in Earth's crust but common in meteorites and deep volcanic material), microscopic quartz grains cracked by extreme shock pressure, tiny droplets of cooled melted rock, and a spike of fern spores right above the clay (just as ferns are often the first plants to sprout after a major fire or volcanic eruption today).
+   - Inside that thin clay, geologists find a set of clues that point to a giant asteroid impact. **Iridium** is a metal rare in Earth's crust and common in meteorites, and the clay has unusually high amounts of it. Quartz grains in the clay are cracked by extreme shock. Tiny beads of cooled melted rock are mixed in. Just above the clay, fern spores suddenly become very common, the way ferns are often the first plants to sprout after a fire.
+   - Huge volcanic eruptions in India were happening around this same boundary. Scientists study those eruptions as another possible stress on living things. The iridium, shocked quartz, and melted-rock beads are the impact clues.
 3. **In the layers above the boundary (Cenozoic):**
-   - Non-bird dinosaurs, pterosaurs, mosasaurs, and ammonites are completely absent.
+   - Dinosaurs other than birds, along with pterosaurs, mosasaurs, and ammonites, are completely absent.
    - Organisms that survived across the boundary—including **turtles, crocodilians, frogs, birds, sharks, bony fish, many plants, and mammals**—continue into the upper layers.
    - As you climb higher into the Cenozoic layers, **mammals** become far more abundant and varied, soon including large herbivores and carnivores that fill roles once held by dinosaurs.
 
 > **[Image Placeholder: Stratigraphic Diagram Across the End-Cretaceous (K-Pg) Boundary]**
 > - **Type:** Annotated rock outcrop cross-section
-> - **Description:** A vertical cutaway of rock layers divided by a distinct thin dark clay band labeled "End-Cretaceous Boundary Layer (iridium, shocked quartz, fern spore spike)." Below the line ("Upper Cretaceous — Mesozoic") are icons/illustrations of *Triceratops*, *Tyrannosaurus*, an ammonite shell, a mosasaur, and a small mammal Alongside turtles and ferns. Above the line ("Paleogene — Cenozoic"), the non-bird dinosaurs, ammonite, and mosasaur stop, while turtles, birds, flowering plants, and rapidly diversifying small-to-large Cenozoic mammals continue upward.
+> - **Description:** A vertical cutaway of rock layers divided by a distinct thin dark clay band labeled "End-Cretaceous Boundary Layer (iridium, shocked quartz, fern spore spike)." Below the line ("Upper Cretaceous — Mesozoic") are icons of *Triceratops*, *Tyrannosaurus*, an ammonite shell, a mosasaur, and a small mammal, alongside turtles and ferns. Above the line ("Cenozoic"), dinosaurs other than birds, the ammonite, and the mosasaur stop, while turtles, birds, flowering plants, and a growing variety of small-to-large mammals continue upward.
 
 ## Other major resets in the fossil record
 
 The end-Cretaceous event is not the only major turnover visible in the rocks. Paleontologists recognize several times in the fossil record when large numbers of marine and land groups disappeared at roughly the same level:
 
-- **End of the Devonian (Paleozoic):** Many reef-building corals, stromatoporoids, and armored placoderm fishes (including *Dunkleosteus* and its relatives) disappear from the layers above.
-- **End of the Permian (boundary between the Paleozoic and Mesozoic):** The largest turnover in the fossil record—trilobites, sea scorpions, many kinds of brachiopods, crinoids, and Paleozoic land vertebrates disappear, and the overlying Triassic layers usher in the Mesozoic world.
+- **End of the Devonian (Paleozoic):** Many reef-building animals disappear from the layers above, including corals and the armored placoderm fishes (*Dunkleosteus* and its relatives).
+- **End of the Permian (boundary between the Paleozoic and Mesozoic):** This is the largest turnover in the fossil record. Trilobites and sea scorpions disappear. Many brachiopods (lamp shells) and crinoids (sea lilies) disappear too, though some relatives continue. On land, most vertebrate species disappear, but some do not. A tusked plant-eater called *Lystrosaurus* is common just above the boundary, along with early relatives of mammals and of reptiles. The Triassic layers above that boundary are the start of the Mesozoic.
 
-Scientists investigate multiple physical causes for these events—from massive volcanic eruptions (such as huge lava provinces in Siberia or India) and asteroid impacts to shifts in sea level and climate—without forcing every event into a single identical explanation. What is directly observable in every case is the **sharp change in which fossils appear below and above the boundary**, acting as a major reset in the history recorded in the rocks.
+Scientists investigate more than one cause for these events. The causes they test include huge lava flows (Siberia at the end of the Permian, India around the end of the Cretaceous), the asteroid impact at the end of the Cretaceous, and changes in sea level and climate. Each boundary does not have to have the same cause. What you can see in every case is the **sharp change in which fossils are below the boundary and which fossils are above it**.

@@ -91,8 +91,8 @@ Small, sturdy fossils—such as single shark teeth or small shells—may simply 
 
 Not every fossil that paleontologists find gets dug up and taken to a museum. Leaving a fossil in the ground is a normal, sensible decision in several situations:
 
-- **Better studied in place:** A long dinosaur **trackway** with dozens of footprints across a rock ledge shows how animals walked together across an ancient mudflat. Cutting it into pieces would break up the very scene that makes it valuable. Instead, scientists map it, photograph it, make flexible peel molds or 3D laser scans, and leave the real tracks in place.
-- **Protected outdoor exhibits:** At places like Dinosaur National Monument, thousands of bones are left partially exposed inside a quarry wall with a building constructed around them so visitors and researchers can see the bones in their original rock layer.
+- **Better studied in place:** A long dinosaur **trackway** with dozens of footprints across a rock ledge shows how animals walked together across an ancient mudflat. Cutting it into pieces would break up the very scene that makes it valuable. Instead, scientists map it, photograph it, make flexible rubber molds or 3D scans, and leave the real tracks in place.
+- **Protected outdoor exhibits:** At Dinosaur National Monument, about 1,500 dinosaur bones are left partly exposed in a quarry wall. A building around that wall lets visitors and researchers see the bones in their original rock layer.
 - **Not enough time or the wrong tools:** If a crew discovers a huge skeleton on the last two days of an expedition, rushing to dig it out would destroy it. Instead, they record its GPS coordinates, photograph it, cover it back up with cloth and dirt to shield it from rain and frost, and return next season with the time and gear required.
 
 > **[Image Placeholder: Dinosaur Trackway Left in Place for Study]**

@@ -80,7 +80,7 @@ With the bone sitting alone in a shoebox, you cannot answer any of those questio
 A single object or bone by itself usually tells only a small part of the story. The rest of the story comes from what surrounds it:
 
 1. **The layer itself:** Is the bone resting in fine lake clay, coarse river gravel, volcanic ash, or ocean limestone? That rock tells you about the ancient environment.
-2. **Nearby finds:** Were fossilized fern leaves, freshwater clam shells, or shed predator teeth buried in the same layer right beside the bone?Were cooking pots, charcoal, and animal bones clustered around an ancient stone hearth?
+2. **Nearby finds:** Were fossilized fern leaves, freshwater clam shells, or shed predator teeth buried in the same layer right beside the bone? Were cooking pots, charcoal, and animal bones clustered around an ancient stone hearth?
 3. **Position and arrangement:** Are the bones of a skeleton still connected in life position (*articulated*), or were they scattered by flowing water or scavengers before burial?
 
 > **[Image Placeholder: Find With Context vs. Find Without Context]**
