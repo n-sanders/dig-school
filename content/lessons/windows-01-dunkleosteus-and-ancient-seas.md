@@ -61,6 +61,14 @@ quiz:
       - Volcanic lava tubes in Hawaii
     answer: Dark marine shales such as the Cleveland Shale in Ohio, which formed on the bottom of an ancient sea
     explanation: The fine-grained dark mud of the Late Devonian Cleveland Shale preserved extraordinary three-dimensional armor plates of Dunkleosteus and other marine life.
+  - type: question
+    prompt: A life reconstruction shows Dunkleosteus with bony head armor and a dark back. Which statement best describes the evidence behind those features?
+    choices:
+      - The armor is preserved in fossils, while the dark color is an interpretation that is less certain
+      - Both the armor and the exact dark color are directly preserved in the skull fossil
+      - Neither feature can be informed by fossils, so the whole reconstruction is a random guess
+    answer: The armor is preserved in fossils, while the dark color is an interpretation that is less certain
+    explanation: Reconstructions combine direct fossil evidence with inferences from measurements and comparisons with related animals. The armor is preserved, but this fossil does not demonstrate the pictured colors. New evidence can change the inferred details.
 reviewedBy: dig-school
 reviewedOn: "2026-10-23"
 ---
