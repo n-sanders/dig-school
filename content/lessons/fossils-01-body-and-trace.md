@@ -91,9 +91,13 @@ A body fossil shows you **how the organism was built**—its size, the shape of 
 - **Bite marks and gnaw marks** scratched into bones or bored through shells
 - **Coprolites** (fossilized droppings), which often still contain tiny bits of bone, fish scales, pollen, or plant fibers from the animal's last meals
 
-![Gallery of body fossils including an ammonite shell, dinosaur tooth, fern frond, and petrified wood beside trace fossils including a trackway, burrows, bite marks, and a coprolite](images/lessons/fossils-01-body-vs-trace.svg)
+![Photograph of a rocky shore paved with countless ammonite shell cross-sections preserved in the stone](images/lessons/photo-ammonite-pavement.jpg)
 
-*Body fossils are parts of organisms; trace fossils are signs of what they did.*
+*A shore paved with real ammonites — body fossils by the hundred, still in their rock layer. (Photo: RealGatba, CC0, via Wikimedia Commons.)*
+
+![Photograph of a cast of a three-toed Eubrontes dinosaur footprint](images/lessons/photo-eubrontes-cast.jpg)
+
+*A real three-toed dinosaur footprint (a cast of an Eubrontes track): a trace fossil of a living animal's steps. (Track cast prepared by Paul Olsen; photo: Z22, CC BY 3.0, via Wikimedia Commons.)*
 
 ## Why both kinds of fossils matter
 

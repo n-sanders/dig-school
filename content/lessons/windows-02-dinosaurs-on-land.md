@@ -88,9 +88,17 @@ Even though all dinosaurs shared upright legs, their skeletons show astonishing 
 | **Hadrosaurs** (Duck-bills like *Edmontosaurus*) | Broad beaks at the front of the snout, backed by **dental batteries** of hundreds of tightly packed grinding teeth; some had hollow head **crests** | Plant-eaters that could slice and grind tough leaves and stems. The crests were likely for show and, in the hollow-crested species, for sound |
 | **Ceratopsians** (Horned dinosaurs like *Triceratops*) | A beak, a **dental battery** of grinding teeth, and **horns and a neck frill** | Plant-eaters with the same kind of grinding teeth. Horns and frills were likely for show and for shoving matches. Scientists are still testing exactly how they were used |
 
-![Theropod skull with curved serrated teeth, hadrosaur skull with beak and grinding dental battery, and sauropod skull with rake-like peg teeth](images/lessons/windows-02-skull-tooth-comparison.svg)
+![Adult Tyrannosaurus rex skull with deep jaws on display at the Museum of the Rockies](images/lessons/photo-trex-skull-mor.jpg)
 
-*Skulls and teeth show who sliced meat, who ground plants, and who raked leaves.*
+*A real Tyrannosaurus skull with deep bone-crushing jaws (Museum of the Rockies). (Photo: Tim Evanson, CC BY-SA 2.0, via Wikimedia Commons.)*
+
+![Side-view scientific figure of an Edmontosaurus duck-billed dinosaur skull](images/lessons/photo-edmontosaurus-skull.jpg)
+
+*A duck-billed dinosaur skull (Edmontosaurus), built for cropping and grinding plants. (Figure: Xing, Mallon and Currie, CC BY 4.0, via Wikimedia Commons.)*
+
+![Adult Diplodocus skull with peg-like front teeth](images/lessons/photo-diplodocus-skull.jpg)
+
+*A Diplodocus skull with rake-like peg teeth for stripping leaves. (Photo: Gary Todd, CC0, via Wikimedia Commons.)*
 
 ## Living alone or in groups? Clues from bone beds and nests
 

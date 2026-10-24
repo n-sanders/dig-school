@@ -101,9 +101,9 @@ Because rock layers build up from the bottom upward, geologists often draw the g
 - **What the name means:** The thick foundation of rocks lying *below* the Cambrian period.
 - **Fossils commonly observed:** Mostly microscopic fossils, including **stromatolites** (layered mounds built by microbes trapping sediment). In the uppermost Precambrian layers there are also soft-bodied sea creatures called **Ediacaran** animals. They had no hard shells or bones.
 
-![Vertical rock column from Precambrian stromatolites at the base through Paleozoic trilobites and armored fish and Mesozoic dinosaurs to Cenozoic mammoths at the top](images/lessons/time-02-geologic-column.svg)
+![The U.S. Geological Survey geologic time scale chart from Precambrian to the present](images/lessons/photo-usgs-time-scale.jpg)
 
-*The column orders the rock and fossil record from lowest and oldest to highest and youngest.*
+*The official U.S. Geological Survey time scale: the standard map of Earth's chapters. (Image: U.S. Geological Survey, public domain.)*
 
 ## A shared map for field scientists
 

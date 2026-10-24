@@ -88,9 +88,9 @@ Layers form through everyday processes you can still watch today:
 
 Think of a laundry basket over the course of a week. Monday's clothes end up on the bottom of the pile; Friday's clothes sit on top. Unless something dumps the basket over or stirs it up, **deeper layers were laid down before the layers above them, so they are usually older**.
 
-![Hillside cutaway showing topsoil with grass and a coin on top, then a clay hearth layer, then sandstone with a fossil bone, then shell-bearing limestone at the base, with younger upward and older downward](images/lessons/digging-01-layers-stack-up.svg)
+![Photograph of Grand Canyon walls showing many distinct horizontal rock layers stacked from river to rim](images/lessons/photo-grand-canyon-layers.jpg)
 
-*Deeper layers were laid down first, so they are usually older than the layers above them.*
+*Real layered rock on a grand scale: the Grand Canyon's stacked formations, each laid down in its own chapter. (Photo: Mx. Granger, CC0, via Wikimedia Commons.)*
 
 ## What layers tell a careful digger
 

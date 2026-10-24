@@ -76,9 +76,9 @@ The most common way large bones and tree trunks become fossils begins with **sed
 3. **Mineral-rich water seeps through:** Groundwater carrying dissolved minerals (like silica, calcite, or iron compounds) trickles slowly through the buried bone or wood.
 4. **Filling and replacement:** Those minerals crystallize inside the tiny microscopic pores of the bone or wood (a process called *permineralization*) or gradually replace the original material molecule by molecule. The specimen becomes heavy and rock-like while keeping its original shape—sometimes down to individual bone cells or tree rings!
 
-![Four panels showing quick burial of a fish, deepening sediment layers, mineral-rich groundwater filling bone pores, and erosion exposing the fossil](images/lessons/fossils-02-burial-mineralization.svg)
+![Photograph of a complete fossil fish preserved in fine Green River Formation shale](images/lessons/photo-green-river-fish.jpg)
 
-*Burial, protection, mineral seepage, and later exposure turn remains into stone.*
+*Quick burial at work: a whole fossil fish kept in exquisite detail by fine lake muds. (Photo: James St. John, CC BY 2.0, via Wikimedia Commons.)*
 
 ## Pathway 2: Molds and casts
 
@@ -89,9 +89,9 @@ Sometimes a shell or bone is buried in mud or sand that hardens into rock around
 
 Think of pressing a seashell into modeling clay, lifting the shell out (leaving a **mold**), and then pouring plaster into the hollow space to make a copy (a **cast**).
 
-![Three steps showing a buried clam shell, the hollow mold left after it dissolves, and minerals filling the mold into a solid stone cast](images/lessons/fossils-02-mold-and-cast.svg)
+![Photograph of steinkerns, natural internal stone casts of clam shells](images/lessons/photo-steinkern-meretrix.jpg)
 
-*A mold is the hollow impression; a cast is the stone copy that fills it.*
+*Nature's casts: steinkerns, solid stone copies formed inside clam shells. (Photo: H. Zell, CC BY-SA 3.0, via Wikimedia Commons.)*
 
 ## Pathway 3: Carbon films and impressions
 

@@ -76,9 +76,9 @@ Teeth are tools built to process food, and their shapes match the jobs they do:
 - **Pegs and rakes for stripping:** Simple pencil-like or spoon-shaped teeth at the front of the mouth work like rakes to strip leaves and needles off branches.
 - **Grinding mills:** Broad, flat-crowned molars or tightly packed "dental batteries" of hundreds of interlocking teeth act like rough rasps to shred tough stems, horsetails, or grasses. Microscopic scratches on tooth enamel (*microwear*) even show whether an animal chewed soft leaves or gritty, dusty plants!
 
-![Four fossil teeth with magnified biting surfaces: a serrated theropod slicer, a conical fish-gripper, a peg-like leaf-stripper, and a ridged grinding battery](images/lessons/lab-02-tooth-shapes-diets.svg)
+![Photograph of a Tyrannosaurus rex tooth held in a hand, found in the Hell Creek Formation](images/lessons/photo-trex-tooth-usda.jpg)
 
-*Tooth shape records diet: slice meat, grip fish, strip leaves, or grind plants.*
+*A real Tyrannosaurus tooth from the Hell Creek Formation, built for piercing and slicing meat. (Photo: U.S. Department of Agriculture, public domain.)*
 
 ## Clues in bones and tracks: How did it move and grow?
 
@@ -89,9 +89,9 @@ Bones and trace fossils work together to show how an animal stood, moved, and gr
 3. **Trackways confirm the skeleton:** A skeleton shows what was *possible*, while a **fossil trackway** shows how the living animal actually placed its feet—how wide its stance was, how long its stride was, and whether its tail dragged on the ground (in dinosaurs, trackways show tails were held up off the ground!).
 4. **Age at death:** Under a microscope, thin sections of fossil bone often preserve microscopic blood vessel channels and annual growth lines (similar to tree rings). Fast-growing young animals have spongy, vessel-rich bone texture, while fully grown adults show closely spaced rings near the outer edge.
 
-![Footprint trail marked for foot length, stride, and narrow width beside a hind-limb skeleton showing how hip height and joint angles are measured](images/lessons/lab-02-trackway-posture.svg)
+![Photograph of a cast of a three-toed Eubrontes dinosaur footprint](images/lessons/photo-eubrontes-cast.jpg)
 
-*Trackways show how animals actually moved; skeletons show what was possible.*
+*A real three-toed track (Eubrontes cast): footprint length, stride, and stance can all be measured from fossils like this. (Track cast prepared by Paul Olsen; photo: Z22, CC BY 3.0, via Wikimedia Commons.)*
 
 ## Clues in the surrounding rock: What was the environment like?
 

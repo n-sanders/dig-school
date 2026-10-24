@@ -95,9 +95,10 @@ Because digging removes the surrounding dirt and rock forever, both archaeologis
 - **Photographs and drawings:** Each find is photographed in place (*in situ*) with a scale bar and an arrow pointing north. Detailed drawings highlight cracks, bone edges, or soil boundaries that might be hard to see in a photo.
 - **Field notebooks:** Scientists write down the rock or soil type, color, grain size, nearby items, date, and who uncovered the specimen. Every specimen gets a field number that links the physical object to that notebook entry.
 
-![Excavation grid square with numbered bones, compass direction, and scale beside an open field notebook page with a sketch, depths, and rock-layer notes](images/lessons/digging-03-field-notebook-grid.svg)
+![Photograph of an open geologist's field notebook with dated notes and hand-colored sketches of rock layers](images/lessons/photo-geological-notebook.jpg)
 
-*Grid maps and notebooks let any scientist rebuild the site long after the dig.*
+*A real field notebook: dated notes and hand-colored sketches recording each rock layer. (Photo: PePeEfe, CC BY-SA 3.0, via Wikimedia Commons.)*
+
 These records mean that long after the field season is over—and long after wind and rain have weathered the hillside—scientists anywhere in the world can reconstruct the site and keep answering new questions.
 
 ## Where we go from here

@@ -72,9 +72,9 @@ To study or display the whole animal's build and posture, paleontologists and mu
 3. **Comparing overlapping specimens:** Suppose Specimen A has the skull and front half of the body, and Specimen B (of the same species and size) has the overlapping ribcage, hips, and tail. Together, the two specimens show the whole skeleton.
 4. **Marking what is real vs. replica:** In scientific papers—and in careful museum mounts—reconstructed pieces are clearly distinguished from the original fossil bones (often drawn in a different shade on bone maps or molded in a slightly different tone) so everyone can see exactly how much original evidence was found. Real fossil bones are also extremely heavy and brittle, so museums often mount lightweight fiberglass casts on display while keeping the real, fragile bones safe in research drawers where scientists can examine them up close.
 
-![Side-view dinosaur skeleton shaded dark brown for original fossil bone, tan for mirrored or second-specimen bone, and white outline for still-missing bones](images/lessons/lab-03-bone-map.svg)
+![Museum hall with reconstructed dinosaur skeleton mounts including Stegosaurus and Tyrannosaurus](images/lessons/photo-dino-hall-mount.jpg)
 
-*Bone maps show exactly which parts are original evidence and which are filled in.*
+*Reconstructions on display: museum mounts built bone by bone from many specimens. (Photo: Gary Todd, CC0, via Wikimedia Commons.)*
 
 ## Why many specimens beat a single find
 

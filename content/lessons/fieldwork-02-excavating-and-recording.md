@@ -76,9 +76,9 @@ Excavating a fossil happens in careful stages, using smaller and gentler tools a
 3. **Working around—not under—the fossil:** Rather than prying underneath a bone right away, paleontologists uncover the top surface to find where the bone starts and ends, leaving a solid pedestal of rock underneath to support its weight.
 4. **Stabilizing fragile spots:** If exposed bone starts to flake or crumble in the sun and wind, paleontologists dab a thin, clear liquid hardener (*consolidant*) into the cracks. This glue-like liquid soaks in and holds the fragments together—and can be dissolved later in the lab when the bone is cleaned.
 
-![Rock-wall cross-section with hammers, chisels, and shovels assigned to barren overburden and trowel, pick, brush, consolidant, and calipers assigned to the fossil zone](images/lessons/fieldwork-02-tool-progression.svg)
+![National Park Service researcher brushing sediment from fossils on two trench layers](images/lessons/photo-brushing-trench-nps.jpg)
 
-*Heavy tools clear empty rock; only small tools work near the bone.*
+*Slow work in the field: a researcher brushes sediment from fossils layer by layer. (Photo: U.S. National Park Service, public domain.)*
 
 ## Recording everything before anything moves
 
@@ -89,7 +89,8 @@ Just as we saw in Unit 1, digging without recording destroys context. Before any
 - **Photographing in place:** Photos are taken from directly above and from the side, always including a **scale bar** (so viewers know the exact size) and a **north arrow**.
 - **Describing the rock and neighbors:** The field notebook records the exact rock layer (for example, *fine gray mudstone with small freshwater snail shells and carbonized plant stems*).
 
-![Two-metre string grid over ribs, pelvis, femur, and jaw labelled F-101 to F-108 with a north arrow, scale bar, and ancient river-flow direction](images/lessons/fieldwork-02-quarry-grid-map.svg)
+![Excavated dinosaur bone bed under shelter at the Cleveland-Lloyd Dinosaur Quarry in Utah](images/lessons/photo-cleveland-lloyd-quarry.jpg)
 
-*Every bone is numbered, mapped, and photographed before anything moves.*
+*A real mapped bone bed: excavated dinosaur bones under shelter at Cleveland-Lloyd Quarry, Utah. (Photo: National Park Service, public domain.)*
+
 Only after the photos, map, and notes are complete is the fossil ready for the next challenge: getting a fragile, heavy specimen safely out of the badlands and into a laboratory.
