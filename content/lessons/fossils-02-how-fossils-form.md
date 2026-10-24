@@ -105,6 +105,15 @@ In special environments, organisms can be preserved with remarkably little chang
 - **Natural tar (asphalt) seeps:** Sticky pools of heavy natural oil seeping to the surface can trap animals and preserve bones, teeth, insect wing cases, and plant seeds steeped in asphalt.
 - **Ice and permafrost:** In freezing regions, Ice Age mammoths, woolly rhinoceroses, and steppe bison have been found frozen in permafrost with hair, skin, muscle, and even stomach contents still preserved.
 
-![An insect with veined wings in golden amber, bones in a dark tar seep, and a woolly mammoth calf in icy permafrost](images/lessons/fossils-02-special-preservation.svg)
+![Close-up photograph of a fly with veined wings preserved in golden Baltic amber](images/lessons/photo-amber-fly-baltic.jpg)
 
-*Amber, tar, and ice can preserve details that ordinary rock rarely keeps.*
+*A real fly with delicate wing veins sealed in 50-million-year-old Baltic amber. (Photo: Manukyan Andranik, CC BY-SA 4.0, via Wikimedia Commons.)*
+
+![Photograph of an active tar seep at La Brea with a glossy bubble rising among fallen leaves](images/lessons/photo-tar-bubble-la-brea.jpg)
+
+*A seep still bubbling today at La Brea, leaves and all — the same trap that caught Ice Age mammals. (Photo: Daniel Schwen, CC BY-SA 2.5, via Wikimedia Commons.)*
+
+![Photograph of Lyuba, the mummified baby mammoth preserved in Siberian permafrost with skin intact](images/lessons/photo-lyuba-mammoth.jpg)
+
+*Lyuba, the baby mammoth kept by Siberian permafrost with skin and soft tissue intact. (Photo: Thomas Quine, CC BY-SA 2.0, via Wikimedia Commons.)*
+

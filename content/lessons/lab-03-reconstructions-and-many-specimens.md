@@ -95,6 +95,11 @@ Today's paleontologists have remarkable laboratory tools that early fossil hunte
 ![Fossil skull exterior in rock beside a translucent CT rendering of the same skull exposing the braincase cavity and hidden replacement teeth](images/lessons/lab-03-ct-scan-skull.svg)
 
 *Scanners see inside the stone without touching the fossil.*
+
+![CT-based 3D rendering of a Massospondylus dinosaur skull showing internal airways and braincase structures in colour](images/lessons/photo-massospondylus-ct.jpg)
+
+*A real CT-based 3D rendering of a Massospondylus dinosaur skull, colouring hidden internal airways and the braincase. (Image: Sereno et al., PLOS ONE 2007, CC BY 2.5, via Wikimedia Commons.)*
+
 Even with these high-tech tools, the foundation of paleontology has not changed. Scanners and 3D models do not think for themselves—**technology assists careful looking, measuring, and comparing; it does not replace it**.
 
 Next, in Unit 5, we will zoom out from individual specimens in the lab to ask how paleontologists read the larger pattern of rock layers and fossils across the globe.

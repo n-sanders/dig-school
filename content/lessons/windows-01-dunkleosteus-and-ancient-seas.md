@@ -86,6 +86,11 @@ Look closely at the mouth of a *Dunkleosteus* skull and you will notice somethin
 ![Side view of the Dunkleosteus head and shoulder shield labelling armor plates, the bony eye ring, self-sharpening jaw blades, and the neck hinge](images/lessons/windows-01-dunkleosteus-armor.svg)
 
 *Only the armored front third fossilizes well; the cartilage rear rarely survives.*
+
+![Published scientific illustration of the internal view of a Dunkleosteus skull and thoracic shield with muscle attachment labels](images/lessons/photo-dunkleosteus-skull-armor.jpg)
+
+*Internal view of the Dunkleosteus skull and thoracic shield from a published reconstruction, showing muscle attachments and the pectoral opening. (Illustration: Russell K. Engelman, CC BY 4.0, via Wikimedia Commons.)*
+
 ### 3. Why the back half is usually missing
 In museums, you almost always see only the front armor shield of *Dunkleosteus* on display. Why?
 - Remember from Unit 2 that **hard parts fossilize far more often than soft parts**.

@@ -83,6 +83,14 @@ Sedimentary rocks don't just hold fossils—they also preserve physical textures
 
 *Each rock texture matches a process still visible in living environments today.*
 
+![Photograph of symmetrical ripple marks preserved in Berea Sandstone](images/lessons/photo-ripple-marks-berea.jpg)
+
+*Real ripple marks frozen in Berea Sandstone — the signature of moving water. (Photo: James St. John, CC BY 2.0, via Wikimedia Commons.)*
+
+![Photograph of curled mudcracks formed as wet mud dried in the sun](images/lessons/photo-mudcracks-goblin-valley.jpg)
+
+*Real sun-dried mudcracks: wet mud that shrank as it dried, just as in ancient mudflats. (Photo: James St. John, CC BY 2.0, via Wikimedia Commons.)*
+
 ## Clue Set 2: Plants as natural weather stations
 
 Plants cannot get up and walk away when the weather changes, so fossil leaves, wood, and microscopic pollen are some of the best climate indicators in the rock record:

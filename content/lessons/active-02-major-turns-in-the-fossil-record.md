@@ -89,6 +89,10 @@ The most famous of these boundaries sits right between the **Mesozoic** (specifi
 
 *Many groups vanish at the boundary clay; different groups dominate above it.*
 
+![Outcrop photograph of the dark Cretaceous-Paleogene boundary clay layer beneath pale sandstone in Colorado](images/lessons/photo-kpg-boundary-colorado.jpg)
+
+*The real boundary clay in a Colorado outcrop: a dark band between the dinosaur-bearing rock below and the rock above. (Photo: Jeffrey Beall, CC BY 4.0, via Wikimedia Commons.)*
+
 ## Other major resets in the fossil record
 
 The end-Cretaceous event is not the only major turnover visible in the rocks. Paleontologists recognize several times in the fossil record when large numbers of marine and land groups disappeared at roughly the same level:

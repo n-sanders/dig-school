@@ -57,8 +57,12 @@ MAP = {
         "Three steps showing a buried clam shell, the hollow mold left after it dissolves, and minerals filling the mold into a solid stone cast",
         "A mold is the hollow impression; a cast is the stone copy that fills it.",
     ),
+    # NOTE: this diagram was retired after the first run — three real photos
+    # (amber fly, tar bubble, Lyuba; see scripts/insert-sourced-photos.py)
+    # now cover its panels, so the file no longer exists. Kept here as a
+    # record of the original placeholder mapping.
     "Special Preservation Examples": (
-        "fossils-02-special-preservation.svg",
+        "fossils-02-special-preservation.svg (retired; see insert-sourced-photos.py)",
         "An insect with veined wings in golden amber, bones in a dark tar seep, and a woolly mammoth calf in icy permafrost",
         "Amber, tar, and ice can preserve details that ordinary rock rarely keeps.",
     ),

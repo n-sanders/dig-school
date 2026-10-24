@@ -86,6 +86,10 @@ Even if fossil-bearing sedimentary rock lies underground, paleontologists need p
 2. **Riverbanks and coastal cliffs:** Flowing rivers and ocean waves cut into banks and cliffs, slicing clean cross-sections through rock layers.
 3. **Quarries and highway road cuts:** When workers blast or cut through hills to build roads or quarry limestone, they expose clean walls of layered rock that would otherwise stay hidden underground.
 
+![Evening photograph of layered Badlands formations with clearly visible sedimentary rock bands](images/lessons/photo-badlands-evening.jpg)
+
+*Layered sedimentary rock exposed in the Badlands — exactly the kind of eroding slopes prospectors walk. (Photo: MichaelKirsh, CC BY-SA 4.0, via Wikimedia Commons.)*
+
 ![Badlands slope with a fossil femur still in its mudstone layer and a trail of bone scraps leading a prospector with a notebook uphill to the source](images/lessons/fieldwork-01-prospecting-badlands.svg)
 
 *Follow loose fragments uphill: the rest of the fossil is often still in the layer.*

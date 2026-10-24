@@ -84,6 +84,14 @@ If you find a single fossil molar, however, you can tell them apart in two secon
 
 *Mammoth molars ground grass; mastodon molars crushed twigs and leaves.*
 
+![Historic fossil plate showing the grinding surface and side view of a mammoth molar with parallel enamel ridges](images/lessons/photo-mammoth-molar-plate.jpg)
+
+*A real mammoth molar: flat grinding surface of parallel enamel plates, in top and side view. (Historic fossil plate, public domain.)*
+
+![Historic fossil plate showing a mastodon tooth with rounded cone-like cusps](images/lessons/photo-mastodon-tooth-plate.jpg)
+
+*A real mastodon tooth with rounded, cone-like cusps for crushing twigs and leaves. (Historic fossil plate, public domain.)*
+
 ## Other famous Ice Age neighbors
 
 Alongside mammoths and mastodons lived an extraordinary community of large mammals:
@@ -95,6 +103,10 @@ Alongside mammoths and mastodons lived an extraordinary community of large mamma
 ![Side view of a Smilodon skull with a wide-gaping jaw and long serrated sabers beside stocky Smilodon and leaner lion forelimbs](images/lessons/windows-03-smilodon-skull.svg)
 
 *Smilodon pinned prey with bear-thick forelimbs before the neck bite.*
+
+![Photograph of a real Smilodon fatalis fossil skull with a long saber canine, displayed at the American Museum of Natural History](images/lessons/photo-smilodon-skull-amnh.jpg)
+
+*A real Smilodon fatalis skull (American Museum of Natural History) with its flattened saber canine. (Photo: Bloopityboop, CC BY-SA 4.0, via Wikimedia Commons.)*
 
 ## Extraordinary preservation in permafrost and tar
 

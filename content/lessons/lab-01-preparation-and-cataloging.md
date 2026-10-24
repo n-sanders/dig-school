@@ -77,6 +77,10 @@ Removing that rock requires patience because **the fossil is often softer and mo
 - **Air scribes and air abrasion:** For harder rock, they use pen-sized air-powered tools called **air scribes**. An air scribe strikes the rock thousands of times a minute, like a tiny jackhammer. Other preparators use a tiny nozzle that puffs soft powder and wears the matrix away gently. That second method is called air abrasion.
 - **Working under magnification:** Much of this work happens under a stereo microscope. Through the lenses, the preparator watches for the tiny change in color and texture where rock ends and bone begins—stopping a hair's breadth before scratching the fossil.
 
+![National Park Service fossil preparator looking through a boom microscope while working on a plaster field jacket in the laboratory](images/lessons/photo-prep-lab-condon.jpg)
+
+*A National Park Service preparator at work under a boom microscope on a plaster field jacket. (Photo: John Day Fossil Beds National Monument staff, public domain.)*
+
 ![Prep-lab bench with an opened plaster jacket holding a skull, an air scribe, a boom microscope, a dish of saved matrix, and archival adhesive](images/lessons/lab-01-preparator-microscope.svg)
 
 *Preparation removes rock grain by grain under magnification and saves every crumb.*

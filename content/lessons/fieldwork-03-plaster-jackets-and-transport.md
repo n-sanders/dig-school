@@ -94,6 +94,10 @@ Not every fossil that paleontologists find gets dug up and taken to a museum. Le
 - **Protected outdoor exhibits:** At Dinosaur National Monument, about 1,500 dinosaur bones are left partly exposed in a quarry wall. A building around that wall lets visitors and researchers see the bones in their original rock layer.
 - **Not enough time or the wrong tools:** If a crew discovers a huge skeleton on the last two days of an expedition, rushing to dig it out would destroy it. Instead, they record its GPS coordinates, photograph it, cover it back up with cloth and dirt to shield it from rain and frost, and return next season with the time and gear required.
 
+![Photograph of real dinosaur trackways preserved in place on sheltered rock at Lark Quarry, Australia](images/lessons/photo-trackway-lark-quarry.jpg)
+
+*Real dinosaur trackways preserved in place under shelter at Lark Quarry, Australia — mapped and studied where they lie. (Photo: Carole Mackinney, CC0, via Wikimedia Commons.)*
+
 ![Three-toed footprint trail across a rock ledge recorded with a measuring tape, tripod camera, and notebook while the rock stays untouched](images/lessons/fieldwork-03-trackway-in-place.svg)
 
 *Some finds teach most where they lie, so crews map and scan them in place.*

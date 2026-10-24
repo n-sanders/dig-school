@@ -82,6 +82,10 @@ Here is how those seeps created one of the richest Ice Age windows on Earth:
 
 *One sticky trap preserved predators, prey, plants, and insects together.*
 
+![Museum wall displaying hundreds of dire wolf skulls recovered from the La Brea Tar Pits](images/lessons/photo-dire-wolf-wall-la-brea.jpg)
+
+*Hundreds of dire wolf skulls from a single site — one seep trapped predators by the hundred. (Photo: Pyry Matikainen, CC BY-SA 2.5, via Wikimedia Commons.)*
+
 ## Window 2: Dinosaur River Bone Beds (Mesozoic Floodplains)
 
 In the Jurassic **Morrison Formation** (such as the famous quarry wall at Dinosaur National Monument in Utah and Colorado) and the Cretaceous **Dinosaur Park Formation** in Alberta, Canada, ancient rivers and floodplains buried whole communities of land life:
