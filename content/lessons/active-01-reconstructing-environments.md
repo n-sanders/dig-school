@@ -79,9 +79,9 @@ Sedimentary rocks don't just hold fossils—they also preserve physical textures
 - **Cross-bedding in sand:** Sweeping, angled layers inside thick clean sandstone can show where giant windblown sand dunes marched across a dry desert—especially when paired with lizard or arthropod tracks walking up the dune faces.
 - **Coal seams and black shales:** Dark layers packed with compressed plant carbon point to waterlogged swamps and wetlands where fallen leaves and trunks piled up faster than they could rot.
 
-![Four rock slabs paired with their settings: rippled sandstone with a river, cracked mudstone with a lakeshore, shelly limestone with a shallow sea, and coal with a swamp forest](images/lessons/active-01-sedimentary-structures.svg)
+![Four illustrated rock clues paired with possible environments: ripple marks and a river channel, mud cracks and a drying lakeshore, shelly limestone and a shallow sea, and coal and a waterlogged forest](images/lessons/active-01-sedimentary-structures-v2.png)
 
-*Each rock texture matches a process still visible in living environments today.*
+*Rock clues suggest possible environments. Combine them with plant and animal evidence before deciding what a place was like. (AI-generated educational illustration made for Dig School.)*
 
 ![Photograph of symmetrical ripple marks preserved in Berea Sandstone](images/lessons/photo-ripple-marks-berea.jpg)
 
