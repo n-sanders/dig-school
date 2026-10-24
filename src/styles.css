@@ -417,6 +417,16 @@ td {
 .gallery.captioned {
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
 }
+/* Inline lesson-body diagrams (Markdown images referencing images/...). */
+.prose img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
 .captioned-image p {
   margin: 0.25rem 0 0;
   font-size: 0.95rem;

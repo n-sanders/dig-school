@@ -76,9 +76,21 @@ The most common way large bones and tree trunks become fossils begins with **sed
 3. **Mineral-rich water seeps through:** Groundwater carrying dissolved minerals (like silica, calcite, or iron compounds) trickles slowly through the buried bone or wood.
 4. **Filling and replacement:** Those minerals crystallize inside the tiny microscopic pores of the bone or wood (a process called *permineralization*) or gradually replace the original material molecule by molecule. The specimen becomes heavy and rock-like while keeping its original shape—sometimes down to individual bone cells or tree rings!
 
-> **[Image Placeholder: Four-Step Burial and Mineralization Sequence]**
-> - **Type:** Four-panel process diagram
-> - **Description:** Panel 1 ("Death and Quick Burial") shows a fish skeleton resting on a lake bottom being covered by settling layers of mud and silt. Panel 2 ("Deepening Layers") shows additional sediment layers accumulating overhead while soft parts decay and hard bones remain intact. Panel 3 ("Mineral Seepage") shows a magnified inset of groundwater with dissolved minerals filling microscopic pores inside the bone. Panel 4 ("Exposure") shows erosion wearing away the hillside millions of or many years later, exposing the mineralized fossil at the surface.
+![Underwater view of a fish skeleton lying on a muddy lake bottom as fine particles drift down through sunlit water.](images/lessons/fossils-02-burial-mineralization-1.jpg)
+
+***1. Burial:** a dead fish sinks to the lake bottom, and fine mud and silt begin settling over it. (Watercolor made for Dig School.)*
+
+![Cutaway of a lake floor showing a fish skeleton buried beneath several stacked bands of brown and gray sediment.](images/lessons/fossils-02-burial-mineralization-2.jpg)
+
+***2. More layers:** sediment piles up overhead, the soft parts decay, and only the bones remain. (Watercolor made for Dig School.)*
+
+![Magnifying-lens view inside porous bone, with blue groundwater flowing in and depositing tiny sparkling mineral crystals.](images/lessons/fossils-02-burial-mineralization-3.jpg)
+
+***3. Mineralization (magnified):** groundwater carries dissolved minerals into the tiny pores of the bone, where crystals slowly fill the spaces. (Watercolor made for Dig School.)*
+
+![A fossil fish skeleton weathering out of tilted, layered tan rock on an eroded hillside under a blue sky.](images/lessons/fossils-02-burial-mineralization-4.jpg)
+
+***4. Exposure:** much later, erosion wears away the hillside and exposes the mineralized fish fossil at the surface. (Watercolor made for Dig School.)*
 
 ## Pathway 2: Molds and casts
 
@@ -89,9 +101,9 @@ Sometimes a shell or bone is buried in mud or sand that hardens into rock around
 
 Think of pressing a seashell into modeling clay, lifting the shell out (leaving a **mold**), and then pouring plaster into the hollow space to make a copy (a **cast**).
 
-> **[Image Placeholder: How a Fossil Mold and Natural Cast Form]**
-> - **Type:** Three-step cross-section diagram
-> - **Description:** Step 1 shows a ribbed clam shell buried in sediment that hardens into rock. Step 2 ("Mold") shows the original shell dissolved away by groundwater, leaving a hollow shell-shaped cavity with ridge impressions in the rock. Step 3 ("Cast") shows new minerals filling the cavity to form a solid stone copy of the shell's shape.
+![Photograph of steinkerns, natural internal stone casts of clam shells](images/lessons/photo-steinkern-meretrix.jpg)
+
+*Nature's casts: steinkerns, solid stone copies formed inside clam shells. (Photo: H. Zell, CC BY-SA 3.0, via Wikimedia Commons.)*
 
 ## Pathway 3: Carbon films and impressions
 
@@ -105,6 +117,15 @@ In special environments, organisms can be preserved with remarkably little chang
 - **Natural tar (asphalt) seeps:** Sticky pools of heavy natural oil seeping to the surface can trap animals and preserve bones, teeth, insect wing cases, and plant seeds steeped in asphalt.
 - **Ice and permafrost:** In freezing regions, Ice Age mammoths, woolly rhinoceroses, and steppe bison have been found frozen in permafrost with hair, skin, muscle, and even stomach contents still preserved.
 
-> **[Image Placeholder: Special Preservation Examples]**
-> - **Type:** Three-panel illustration
-> - **Description:** Panel A shows a translucent golden piece of amber containing a finely preserved mosquito/fly with visible wing veins and legs. Panel B shows dark brown-black fossilized bones being lifted from a sticky asphalt seep. Panel C shows a frozen Ice Age mammoth calf exposed in icy permafrost bank with dark wool still attached.
+![Close-up photograph of a fly with veined wings preserved in golden Baltic amber](images/lessons/photo-amber-fly-baltic.jpg)
+
+*A real fly with delicate wing veins sealed in 50-million-year-old Baltic amber. (Photo: Manukyan Andranik, CC BY-SA 4.0, via Wikimedia Commons.)*
+
+![Photograph of an active tar seep at La Brea with a glossy bubble rising among fallen leaves](images/lessons/photo-tar-bubble-la-brea.jpg)
+
+*A seep still bubbling today at La Brea, leaves and all — the same trap that caught Ice Age mammals. (Photo: Daniel Schwen, CC BY-SA 2.5, via Wikimedia Commons.)*
+
+![Photograph of Lyuba, the mummified baby mammoth preserved in Siberian permafrost with skin intact](images/lessons/photo-lyuba-mammoth.jpg)
+
+*Lyuba, the baby mammoth kept by Siberian permafrost with skin and soft tissue intact. (Photo: Thomas Quine, CC BY-SA 2.0, via Wikimedia Commons.)*
+

@@ -85,9 +85,13 @@ The most famous of these boundaries sits right between the **Mesozoic** (specifi
    - Organisms that survived across the boundary—including **turtles, crocodilians, frogs, birds, sharks, bony fish, many plants, and mammals**—continue into the upper layers.
    - As you climb higher into the Cenozoic layers, **mammals** become far more abundant and varied, soon including large herbivores and carnivores that fill roles once held by dinosaurs.
 
-> **[Image Placeholder: Stratigraphic Diagram Across the End-Cretaceous (K-Pg) Boundary]**
-> - **Type:** Annotated rock outcrop cross-section
-> - **Description:** A vertical cutaway of rock layers divided by a distinct thin dark clay band labeled "End-Cretaceous Boundary Layer (iridium, shocked quartz, fern spore spike)." Below the line ("Upper Cretaceous — Mesozoic") are icons of *Triceratops*, *Tyrannosaurus*, an ammonite shell, a mosasaur, and a small mammal, alongside turtles and ferns. Above the line ("Cenozoic"), dinosaurs other than birds, the ammonite, and the mosasaur stop, while turtles, birds, flowering plants, and a growing variety of small-to-large mammals continue upward.
+![Rock column split by a dark boundary clay with dinosaurs, ammonites, and mosasaurs below and diversifying mammals, birds, and flowering plants above](images/lessons/active-02-kpg-boundary.svg)
+
+*Many groups vanish at the boundary clay; different groups dominate above it.*
+
+![Outcrop photograph of the dark Cretaceous-Paleogene boundary clay layer beneath pale sandstone in Colorado](images/lessons/photo-kpg-boundary-colorado.jpg)
+
+*The real boundary clay in a Colorado outcrop: a dark band between the dinosaur-bearing rock below and the rock above. (Photo: Jeffrey Beall, CC BY 4.0, via Wikimedia Commons.)*
 
 ## Other major resets in the fossil record
 

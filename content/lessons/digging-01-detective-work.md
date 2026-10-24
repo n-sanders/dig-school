@@ -73,9 +73,13 @@ A treasure hunter only cares about pulling a shiny or impressive object out of t
 
 If you yank a buried bone or clay pot out of the earth with a shovel, two bad things happen at once. First, the object itself—often cracked and brittle after sitting underground—can snap into pieces. Second, you destroy all the surrounding clues that explain how it got there.
 
-> **[Image Placeholder: Hasty Digging vs. Careful Excavation]**
-> - **Type:** Side-by-side comparison illustration
-> - **Description:** Left panel ("Treasure Hunting / Rushing") shows a deep, messy hole dug with a large shovel, broken fragments of bone and pottery tossed onto a dirt pile, and mixed soil layers. Right panel ("Scientific Detective Work") shows a neat, level excavation square marked with string, a scientist using a small trowel and soft brush around an intact specimen still resting in its layer, alongside a ruler, camera, and field notebook.
+![A messy hole in desert ground with a shovel stuck in the dirt pile and broken bones and clay pots tossed aside.](images/lessons/digging-01-hasty-vs-careful-1.jpg)
+
+***Hasty digging:** a deep hole dug with a big shovel mixes up the soil layers, and broken bone and pottery pieces get tossed on the dirt pile, so their story is lost. (Watercolor made for Dig School.)*
+
+![A paleontologist kneels by a neat string-marked pit, using a trowel and brush around a bone, with a camera, notebook, and ruler nearby.](images/lessons/digging-01-hasty-vs-careful-2.jpg)
+
+***Careful excavation:** a level square marked with string, a small trowel and soft brush, and a ruler, camera, and field notebook record the bone right where it lies in its layer. (Watercolor made for Dig School.)*
 
 ## The ground is built in layers
 
@@ -88,9 +92,9 @@ Layers form through everyday processes you can still watch today:
 
 Think of a laundry basket over the course of a week. Monday's clothes end up on the bottom of the pile; Friday's clothes sit on top. Unless something dumps the basket over or stirs it up, **deeper layers were laid down before the layers above them, so they are usually older**.
 
-> **[Image Placeholder: How Layers Stack Up in the Ground]**
-> - **Type:** Cross-section diagram
-> - **Description:** A vertical cutaway of a hillside showing four distinct horizontal layers from bottom to top: (1) lowest limestone layer containing ancient seashells, (2) middle sandstone layer containing a large fossilized reptile bone, (3) upper clay layer containing a stone hearth and clay cooking pot fragments, and (4) modern topsoil with grass roots and a modern coin near the surface. An arrow along the side points upward labeled "Deposited later (younger)" and downward labeled "Deposited earlier (older)."
+![Photograph of Grand Canyon walls showing many distinct horizontal rock layers stacked from river to rim](images/lessons/photo-grand-canyon-layers.jpg)
+
+*Real layered rock on a grand scale: the Grand Canyon's stacked formations, each laid down in its own chapter. (Photo: Mx. Granger, CC0, via Wikimedia Commons.)*
 
 ## What layers tell a careful digger
 

@@ -72,9 +72,21 @@ In almost every case, nature recycles remains quickly:
 
 Because these everyday processes are so thorough, **most living things never become fossils**.
 
-> **[Image Placeholder: Two Paths After Death — Recycling vs. Fossilization]**
-> - **Type:** Branching flowchart diagram
-> - **Description:** Starting at top ("An organism dies"), the wide main arrow ("Most common path — almost all organisms") leads through Scavengers -> Bacteria & Fungi Decay -> Weathering & Sun -> Recycled into soil (No fossil left). A narrow side arrow ("Rare path — requires right conditions") leads through Rapid Burial in Mud/Sand -> Protection from Scavengers & Oxygen -> Mineralization in Sedimentary Rock -> Preserved Fossil Specimen.
+![Vultures, a coyote, beetles, and flies scavenge a deer-like carcass on an open grassy plain, with scattered bones nearby.](images/lessons/fossils-03-two-paths-1.jpg)
+
+***The common path:** an animal that dies in the open is torn apart by scavengers like vultures, coyotes, and beetles. (Note: this painting shows some red flesh on the carcass.) (Watercolor made for Dig School.)*
+
+![Bleached, crumbling bones scattered across a grassy plain with moss and small mushrooms growing among them.](images/lessons/fossils-03-two-paths-2.jpg)
+
+***…and what's left weathers away:** sun, rain, fungi, and plants break the scattered bones down into soil, leaving no fossil. (Watercolor made for Dig School.)*
+
+![Brown floodwater rushes past a riverbank where a dead antlered deer lies half-covered in mud, as a vulture watches from above.](images/lessons/fossils-03-two-paths-3.jpg)
+
+***The rare path:** a flood quickly buries the animal in river mud and sand, hiding it from scavengers. (Watercolor made for Dig School.)*
+
+![Cutaway of layered rock under a grassy plain, with a complete animal skeleton lying fossilized inside one layer.](images/lessons/fossils-03-two-paths-4.jpg)
+
+***…and becomes a fossil:** protected underground, the pale bones turn to stone inside layers of sedimentary rock. (Watercolor made for Dig School.)*
 
 ## What tilts the odds toward preservation?
 

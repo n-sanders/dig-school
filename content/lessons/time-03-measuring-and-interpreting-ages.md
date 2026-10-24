@@ -78,9 +78,9 @@ To estimate numeric ages for ancient rocks, geologists and paleontologists prima
 
 Through these methods, the **standard geologic timescale** used in paleontology assigns estimates in the **millions and billions of years**—for example, placing the Paleozoic roughly between 539 and 252 million years ago, the Mesozoic between 252 and 66 million years ago, and the Cenozoic from 66 million years ago to the present.
 
-> **[Image Placeholder: Bracketing a Fossil Layer Between Volcanic Ash Beds]**
-> - **Type:** Stratigraphic cross-section diagram
-> - **Description:** A rock outcrop showing five layers from bottom to top: (1) Lower mudstone, (2) Lower Volcanic Ash Bed A (with a magnified inset of a zircon crystal showing parent and daughter isotopes), (3) Middle Sandstone Layer containing an articulated dinosaur skeleton, (4) Upper Volcanic Ash Bed B, and (5) Upper shale. Labels explain how the relative order ("Fossil layer is younger than Ash Bed A and older than Ash Bed B") works together with laboratory mineral measurements.
+![Fossil barrel-bodied rhino preserved in volcanic tuff at Ashfall Fossil Beds, Nebraska](images/lessons/photo-ashfall-rhino-tuff.jpg)
+
+*Ash as preserver and clock: a rhino entombed in volcanic tuff at Ashfall Fossil Beds. (Photo: James St. John, CC BY 2.0, via Wikimedia Commons.)*
 
 ## Different views on absolute ages
 

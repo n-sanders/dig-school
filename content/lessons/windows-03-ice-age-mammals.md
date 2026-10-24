@@ -80,9 +80,17 @@ If you find a single fossil molar, however, you can tell them apart in two secon
   - **Tooth shape:** Their molars are topped with **rows of tall, rounded, cone-shaped bumps (cusps)**.
   - **Diet and habitat:** Those sturdy cones worked like a nutcracker to crush **spruce twigs, pine cones, leaves, and shrubs** in woodlands and boggy forests.
 
-> **[Image Placeholder: Mammoth Molar vs. Mastodon Molar Side-by-Side Comparison]**
-> - **Type:** Two-panel comparative fossil diagram
-> - **Description:** Left panel ("Mammoth Molar — Grazing") shows top and side views of a mammoth tooth with a flat chewing surface made of many parallel washboard-like enamel plates, paired with an icon of steppe grasses. Right panel ("Mastodon Molar — Browsing") shows top and side views of a mastodon tooth with distinct pairs of rounded, cone-shaped cusps, paired with an icon of spruce branches and twigs.
+![Flat washboard mammoth molar with steppe grasses beside cone-cusped mastodon molar with spruce twigs](images/lessons/windows-03-mammoth-vs-mastodon-molar.svg)
+
+*Mammoth molars ground grass; mastodon molars crushed twigs and leaves.*
+
+![Historic fossil plate showing the grinding surface and side view of a mammoth molar with parallel enamel ridges](images/lessons/photo-mammoth-molar-plate.jpg)
+
+*A real mammoth molar: flat grinding surface of parallel enamel plates, in top and side view. (Historic fossil plate, public domain.)*
+
+![Historic fossil plate showing a mastodon tooth with rounded cone-like cusps](images/lessons/photo-mastodon-tooth-plate.jpg)
+
+*A real mastodon tooth with rounded, cone-like cusps for crushing twigs and leaves. (Historic fossil plate, public domain.)*
 
 ## Other famous Ice Age neighbors
 
@@ -92,9 +100,13 @@ Alongside mammoths and mastodons lived an extraordinary community of large mamma
 2. **Giant ground sloths (such as *Megatherium*, *Megalonyx*, and *Paramylodon*):** Unlike today's small tree-hanging sloths, these herbivores walked on the ground—some reaching the size of an ox or even an elephant! Their skeletons show massive hips, stout tails that acted like a third leg when they reared up to pull down branches, and huge curved claws. Some species even had hundreds of pebble-sized bony nodules (*osteoderms*) embedded under their thick skin like natural chainmail.
 3. **Dire wolves, short-faced bears, Ice Age horses, camels, and giant bison:** Many sites across North America preserve these species in the very same layers.
 
-> **[Image Placeholder: Saber-Toothed Cat (Smilodon) Skull and Forelimb Build]**
-> - **Type:** Annotated fossil diagram
-> - **Description:** Side view of a fossil *Smilodon fatalis* skull with wide-hinged lower jaw opened to 120 degrees, highlighting the long, flattened, finely serrated upper canine blades and shearing carnassial cheek teeth, alongside a silhouette comparing its stocky, muscular forelimbs with a leaner modern lion.
+![Side view of a Smilodon skull with a wide-gaping jaw and long serrated sabers beside stocky Smilodon and leaner lion forelimbs](images/lessons/windows-03-smilodon-skull.svg)
+
+*Smilodon pinned prey with bear-thick forelimbs before the neck bite.*
+
+![Photograph of a real Smilodon fatalis fossil skull with a long saber canine, displayed at the American Museum of Natural History](images/lessons/photo-smilodon-skull-amnh.jpg)
+
+*A real Smilodon fatalis skull (American Museum of Natural History) with its flattened saber canine. (Photo: Bloopityboop, CC BY-SA 4.0, via Wikimedia Commons.)*
 
 ## Extraordinary preservation in permafrost and tar
 

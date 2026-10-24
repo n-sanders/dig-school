@@ -83,9 +83,13 @@ A single object or bone by itself usually tells only a small part of the story. 
 2. **Nearby finds:** Were fossilized fern leaves, freshwater clam shells, or shed predator teeth buried in the same layer right beside the bone? Were cooking pots, charcoal, and animal bones clustered around an ancient stone hearth?
 3. **Position and arrangement:** Are the bones of a skeleton still connected in life position (*articulated*), or were they scattered by flowing water or scavengers before burial?
 
-> **[Image Placeholder: Find With Context vs. Find Without Context]**
-> - **Type:** Split comparison diagram
-> - **Description:** Left side ("In Context — In Place in the Ground") shows a fossilized jawbone resting in a distinct sandstone layer, surrounded by fossilized river shells, leaf impressions, a centimeter scale bar, a north arrow, a numbered site tag, and a grid frame. Callout labels point to each clue ("Sandstone matrix = river channel," "Associated plant leaves," "Exact depth and orientation recorded"). Right side ("Out of Context — Unrecorded Find") shows the exact same jawbone sitting loose in a plain cardboard box with question marks for "Location?", "Rock layer?", and "Nearby fossils?".
+![A toothed fossil jaw in a tan rock layer with small shells and leaf prints, a string grid, scale bar, north arrow, and blank tag.](images/lessons/digging-03-context-vs-no-context-1.jpg)
+
+***In context:** the jawbone still sits in its sandstone layer with fossil river shells and leaf impressions, recorded with a string grid, scale bar, north arrow, and site tag. (Watercolor made for Dig School.)*
+
+![The same toothed fossil jaw lying alone in an empty, plain cardboard box on a wooden table.](images/lessons/digging-03-context-vs-no-context-2.jpg)
+
+***No context:** the same jawbone in a cardboard box. We can't tell where it was found, what rock it came from, or what lived alongside it. (Watercolor made for Dig School.)*
 
 ## Habits that turn a hole into evidence
 
@@ -95,9 +99,9 @@ Because digging removes the surrounding dirt and rock forever, both archaeologis
 - **Photographs and drawings:** Each find is photographed in place (*in situ*) with a scale bar and an arrow pointing north. Detailed drawings highlight cracks, bone edges, or soil boundaries that might be hard to see in a photo.
 - **Field notebooks:** Scientists write down the rock or soil type, color, grain size, nearby items, date, and who uncovered the specimen. Every specimen gets a field number that links the physical object to that notebook entry.
 
-> **[Image Placeholder: Field Notebook Page and Grid Map]**
-> - **Type:** Annotated diagram
-> - **Description:** A two-part illustration showing a square meter excavation grid over a bone bed alongside an open field notebook page. The notebook page shows a hand-drawn sketch of the grid square with numbered bones (#14 femur, #15 rib, #16 tooth), compass direction (N), depth measurements in centimeters, description of the greenish-gray mudstone layer, and date.
+![Photograph of an open geologist's field notebook with dated notes and hand-colored sketches of rock layers](images/lessons/photo-geological-notebook.jpg)
+
+*A real field notebook: dated notes and hand-colored sketches recording each rock layer. (Photo: PePeEfe, CC BY-SA 3.0, via Wikimedia Commons.)*
 
 These records mean that long after the field season is over—and long after wind and rain have weathered the hillside—scientists anywhere in the world can reconstruct the site and keep answering new questions.
 

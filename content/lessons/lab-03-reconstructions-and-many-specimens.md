@@ -70,11 +70,11 @@ To study or display the whole animal's build and posture, paleontologists and mu
 1. **Identifying each bone:** Every bone is compared with known skeletons to determine its exact position (for example, the fourth neck vertebra or the left lower jaw).
 2. **Using symmetry:** Vertebrate skeletons are mirror images on the left and right sides. If the left arm bones are preserved and the right arm is missing, researchers can sculpt or 3D-print an exact mirror image for the right side.
 3. **Comparing overlapping specimens:** Suppose Specimen A has the skull and front half of the body, and Specimen B (of the same species and size) has the overlapping ribcage, hips, and tail. Together, the two specimens show the whole skeleton.
-4. **Marking what is real vs. replica:** In scientific papers—and in careful museum mounts—reconstructed pieces are clearly distinguished from the original fossil bones (often drawn in a different shade on bone maps or molded in a slightly different tone) so everyone can see exactly how much original evidence was found. Real fossil bones are also extremely heavy and brittle, so museums often mount lightweight fiberglass casts on display while keeping the real, fragile bones safe in research drawers where scientists can examine them up close.
+4. **Marking what is real vs. replica:** In scientific papers—and in careful museum mounts—reconstructed pieces are clearly distinguished from the original fossil bones (often shaded differently in published bone-map figures or molded in a slightly different tone) so everyone can see exactly how much original evidence was found. Real fossil bones are also extremely heavy and brittle, so museums often mount lightweight fiberglass casts on display while keeping the real, fragile bones safe in research drawers where scientists can examine them up close. Look at the mounts in the photo below and ask yourself: which bones do you think are real fossils, and which were sculpted to complete the skeleton?
 
-> **[Image Placeholder: Skeletal Reconstruction Bone Map — Original vs. Reconstructed]**
-> - **Type:** Annotated skeletal diagram
-> - **Description:** A side-view skeletal diagram of a dinosaur showing bones shaded in two distinct tones: dark warm brown for "Original Fossil Bones Preserved in Specimen A," medium tan for "Bones Mirrored from Opposite Side or Filled from Specimen B," and white outlines for "Unrecovered Small Tail Bones." A legend at the bottom explains how scientists clearly document which parts are original evidence.
+![Museum hall with reconstructed dinosaur skeleton mounts including Stegosaurus and Tyrannosaurus](images/lessons/photo-dino-hall-mount.jpg)
+
+*These museum mounts mix real fossil bones with reconstructed parts — which bones look original to you, and which were sculpted to fill the gaps? (Photo: Gary Todd, CC0, via Wikimedia Commons.)*
 
 ## Why many specimens beat a single find
 
@@ -92,9 +92,13 @@ Today's paleontologists have remarkable laboratory tools that early fossil hunte
 - **CT scans (computed tomography)** pass X-rays through a fossil skull or rock block to build a 3D digital image of what is hidden inside—such as un-erupted replacement teeth, nasal passages, inner ear canals, or tiny skeletons still buried inside hard rock—without cutting the specimen open.
 - **3D surface scans and digital models** allow researchers on different continents to measure and test-fit fragile bones on a computer screen without risking damage to the real fossils.
 
-> **[Image Placeholder: CT Scan Revealing Hidden Structures Inside a Fossil Skull]**
-> - **Type:** Split diagram (Exterior Fossil vs. Digital X-Ray Slice)
-> - **Description:** Left half shows the outside of a fossilized crocodile-like or dinosaur skull partially encased in rock matrix. Right half shows a translucent 3D CT scan rendering of the exact same skull, revealing hidden replacement teeth inside the jawbone and the hollow airways and braincase cavity inside the stone.
+![Fossil skull exterior in rock beside a translucent CT rendering of the same skull exposing the braincase cavity and hidden replacement teeth](images/lessons/lab-03-ct-scan-skull.svg)
+
+*Scanners see inside the stone without touching the fossil.*
+
+![CT-based 3D rendering of a Massospondylus dinosaur skull showing internal airways and braincase structures in colour](images/lessons/photo-massospondylus-ct.jpg)
+
+*A real CT-based 3D rendering of a Massospondylus dinosaur skull, colouring hidden internal airways and the braincase. (Image: Sereno et al., PLOS ONE 2007, CC BY 2.5, via Wikimedia Commons.)*
 
 Even with these high-tech tools, the foundation of paleontology has not changed. Scanners and 3D models do not think for themselves—**technology assists careful looking, measuring, and comparing; it does not replace it**.
 

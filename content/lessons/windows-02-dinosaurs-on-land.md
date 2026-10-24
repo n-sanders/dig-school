@@ -72,9 +72,13 @@ You can see the difference in the hips and legs:
 - **Sprawling reptiles** (like lizards and salamanders) have thigh bones that stick out sideways from the hip, so their bellies stay low to the ground and their bodies bend side to side when they walk.
 - **Dinosaurs** had an open hip socket and an inward-angled ball at the top of the thigh bone (*femur*) that tucked their legs **straight underneath their bodies**, like pillars under a bridge. Both their skeletons and their narrow fossil footprint trackways show this upright stance.
 
-> **[Image Placeholder: Sprawling Reptile Posture vs. Upright Dinosaur Posture]**
-> - **Type:** Front-view skeletal comparison diagram
-> - **Description:** Left diagram ("Sprawling Posture — Lizard / Crocodile") shows the pelvis with femurs extending outward to the sides and bent elbows/knees, producing a wide trackway. Right diagram ("Upright Posture — Dinosaur") shows the perforated hip socket with the femur head angled inward so the legs stand vertically directly beneath the body, producing a narrow, straight-line footprint trackway.
+![Head-on view of a crocodile with its leg bones drawn in, showing upper legs sticking out sideways and feet planted wide.](images/lessons/windows-02-sprawling-vs-upright-1.jpg)
+
+***Sprawling (crocodile):** the upper limb bones stick out sideways and the elbows bend down, so the feet sit far out to the sides. (Watercolor made for Dig School.)*
+
+![Head-on view of a small two-legged dinosaur with its leg bones drawn in, showing legs straight down under the body.](images/lessons/windows-02-sprawling-vs-upright-2.jpg)
+
+***Upright (dinosaur):** the legs run straight down from the hip sockets and hold the body high, like pillars. (Watercolor made for Dig School.)*
 
 ## One group, many different body builds
 
@@ -88,9 +92,17 @@ Even though all dinosaurs shared upright legs, their skeletons show astonishing 
 | **Hadrosaurs** (Duck-bills like *Edmontosaurus*) | Broad beaks at the front of the snout, backed by **dental batteries** of hundreds of tightly packed grinding teeth; some had hollow head **crests** | Plant-eaters that could slice and grind tough leaves and stems. The crests were likely for show and, in the hollow-crested species, for sound |
 | **Ceratopsians** (Horned dinosaurs like *Triceratops*) | A beak, a **dental battery** of grinding teeth, and **horns and a neck frill** | Plant-eaters with the same kind of grinding teeth. Horns and frills were likely for show and for shoving matches. Scientists are still testing exactly how they were used |
 
-> **[Image Placeholder: Dinosaur Skull and Tooth Comparison — Theropod vs. Hadrosaur vs. Sauropod]**
-> - **Type:** Three-panel comparative skull diagram
-> - **Description:** Panel 1 shows a *Tyrannosaurus* or *Allosaurus* skull with deep jaws and curved, serrated slicing teeth. Panel 2 shows a duck-billed hadrosaur skull with a front cropping beak and a cutaway view of its tightly packed grinding dental battery. Panel 3 shows a *Diplodocus* skull with forward-pointing peg-like teeth arranged like a garden rake at the front of the snout.
+![Adult Tyrannosaurus rex skull with deep jaws on display at the Museum of the Rockies](images/lessons/photo-trex-skull-mor.jpg)
+
+*A real Tyrannosaurus skull with deep bone-crushing jaws (Museum of the Rockies). (Photo: Tim Evanson, CC BY-SA 2.0, via Wikimedia Commons.)*
+
+![Side-view scientific figure of an Edmontosaurus duck-billed dinosaur skull](images/lessons/photo-edmontosaurus-skull.jpg)
+
+*A duck-billed dinosaur skull (Edmontosaurus), built for cropping and grinding plants. (Figure: Xing, Mallon and Currie, CC BY 4.0, via Wikimedia Commons.)*
+
+![Adult Diplodocus skull with peg-like front teeth](images/lessons/photo-diplodocus-skull.jpg)
+
+*A Diplodocus skull with rake-like peg teeth for stripping leaves. (Photo: Gary Todd, CC0, via Wikimedia Commons.)*
 
 ## Living alone or in groups? Clues from bone beds and nests
 

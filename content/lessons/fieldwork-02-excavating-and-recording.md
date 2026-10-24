@@ -76,9 +76,9 @@ Excavating a fossil happens in careful stages, using smaller and gentler tools a
 3. **Working around—not under—the fossil:** Rather than prying underneath a bone right away, paleontologists uncover the top surface to find where the bone starts and ends, leaving a solid pedestal of rock underneath to support its weight.
 4. **Stabilizing fragile spots:** If exposed bone starts to flake or crumble in the sun and wind, paleontologists dab a thin, clear liquid hardener (*consolidant*) into the cracks. This glue-like liquid soaks in and holds the fragments together—and can be dissolved later in the lab when the bone is cleaned.
 
-> **[Image Placeholder: Field Tool Progression — Overburden to Bone Surface]**
-> - **Type:** Illustrated diagram of field tools and their zones of use
-> - **Description:** Left side shows a rock wall cross-section divided into two zones: Top zone ("Barren Overburden — 30+ cm above fossil") paired with a rock hammer, flat chisel, and shovel; Bottom zone ("Fossil Zone — within centimeters of specimen") paired with a pointed mason's trowel, stainless steel dental pick, soft bristle brush, dropper bottle of consolidant, and measuring calipers.
+![National Park Service researcher brushing sediment from fossils on two trench layers](images/lessons/photo-brushing-trench-nps.jpg)
+
+*Slow work in the field: a researcher brushes sediment from fossils layer by layer. (Photo: U.S. National Park Service, public domain.)*
 
 ## Recording everything before anything moves
 
@@ -89,8 +89,8 @@ Just as we saw in Unit 1, digging without recording destroys context. Before any
 - **Photographing in place:** Photos are taken from directly above and from the side, always including a **scale bar** (so viewers know the exact size) and a **north arrow**.
 - **Describing the rock and neighbors:** The field notebook records the exact rock layer (for example, *fine gray mudstone with small freshwater snail shells and carbonized plant stems*).
 
-> **[Image Placeholder: Overhead Quarry Grid Map of a Bone Bed]**
-> - **Type:** Overhead diagram
-> - **Description:** A 2-meter by 2-meter string grid laid over an exposed dinosaur bone bed. Inside the squares are ribs, vertebrae, a pelvis, and a jawbone drawn to scale, each labeled with a field number (F-101 through F-108), a north arrow, a centimeter scale bar, and arrows indicating the direction of ancient river flow inferred from how the long bones are lined up.
+![Excavated dinosaur bone bed under shelter at the Cleveland-Lloyd Dinosaur Quarry in Utah](images/lessons/photo-cleveland-lloyd-quarry.jpg)
+
+*A real mapped bone bed: excavated dinosaur bones under shelter at Cleveland-Lloyd Quarry, Utah. (Photo: National Park Service, public domain.)*
 
 Only after the photos, map, and notes are complete is the fossil ready for the next challenge: getting a fragile, heavy specimen safely out of the badlands and into a laboratory.

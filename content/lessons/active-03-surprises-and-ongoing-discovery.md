@@ -78,9 +78,17 @@ Then came a surprise from the Hell Creek Formation of Montana:
 3. **Dissolving the mineral away:** They placed small inner bone chips into **EDTA**, a liquid that dissolves the hard calcium phosphate mineral without a strong acid. The bone did not vanish into empty liquid.
 4. **What was left behind:** Under the microscope, they saw **translucent, branching, flexible tube-like structures** that looked just like blood vessels—stretchy enough that when pulled with a tiny probe, they snapped back into shape! Inside the vessels were **tiny round red- to deep-brown microstructures** resembling red blood cells with central nuclei (like those of birds and reptiles), along with star-shaped bone cells (*osteocytes*) with delicate branching filaments still intact.
 
-> **[Image Placeholder: Microscopic View of Dinosaur Bone Soft Tissue and Vessel Structures]**
-> - **Type:** Three-part magnified laboratory diagram
-> - **Description:** Part 1 shows a cross-section of a dense *Tyrannosaurus rex* femur bone fragment before demineralization. Part 2 ("After Dissolving Mineral Matrix") shows branching, translucent, flexible blood-vessel-like tubes under a microscope, with tiny round dark-reddish microstructures visible in a line inside the vessel walls. Part 3 shows a high-magnification view of an osteocyte (bone cell) with fine branching filaments extending outward.
+![A large fossil leg bone on a wooden table with its broken end facing the viewer, showing a dense outer wall and spongy core.](images/lessons/active-03-soft-tissue-micro-1.jpg)
+
+***A fossil *T. rex* thigh bone, broken open:** the dense outer wall surrounds a spongy center. Scientists dissolved the minerals out of pieces like this. (Watercolor made for Dig School.)*
+
+![Microscope view of clear, branching, flexible tubes containing tiny reddish-brown round dots.](images/lessons/active-03-soft-tissue-micro-2.jpg)
+
+***Under the microscope:** flexible, branching, see-through vessel-like tubes, with tiny dark reddish round structures inside. (Watercolor made for Dig School.)*
+
+![Microscope view of a single reddish oval bone cell with many fine filaments branching outward like tree roots.](images/lessons/active-03-soft-tissue-micro-3.jpg)
+
+***High magnification:** a bone-cell-like structure (osteocyte) with fine branching filaments. (Watercolor made for Dig School.)*
 
 ## How science responds to a surprise
 

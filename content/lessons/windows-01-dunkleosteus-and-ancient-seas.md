@@ -83,9 +83,13 @@ Look closely at the mouth of a *Dunkleosteus* skull and you will notice somethin
 - Every time the upper and lower jaw plates snapped shut, their beveled edges slid tightly past one another like a pair of heavy garden shears—sharpening themselves with every bite!
 - The jaw joint and the scars where muscles attached show a cutting bite that could damage shell and bone. Much of the jaw was cartilage, so the exact force is still being worked out. The sharp blades and the bite marks are the clear evidence.
 
-> **[Image Placeholder: Annotated Skull and Thoracic Armor of Dunkleosteus]**
-> - **Type:** Labeled anatomical fossil diagram
-> - **Description:** Side and three-quarter view of a reconstructed *Dunkleosteus terrelli* skull and shoulder shield, about the length of a large adult head and chest, not a 20-foot shark-shaped body. Labels point to: (1) Heavy interlocking head-armor plates, with the thickest plate at the back of the skull, (2) Sclerotic ring (bony ring supporting the eye), (3) Toothless, self-sharpening upper and lower bony jaw blades with front fang tips, (4) Hinge between the head shield and the shoulder shield that let the mouth open wide, and (5) Open back end where the softer cartilage body and tail attached.
+![Side view of the Dunkleosteus head and shoulder shield labelling armor plates, the bony eye ring, self-sharpening jaw blades, and the neck hinge](images/lessons/windows-01-dunkleosteus-armor.svg)
+
+*Only the armored front third fossilizes well; the cartilage rear rarely survives.*
+
+![Published scientific illustration of the internal view of a Dunkleosteus skull and thoracic shield with muscle attachment labels](images/lessons/photo-dunkleosteus-skull-armor.jpg)
+
+*Internal view of the Dunkleosteus skull and thoracic shield from a published reconstruction, showing muscle attachments and the pectoral opening. (Illustration: Russell K. Engelman, CC BY 4.0, via Wikimedia Commons.)*
 
 ### 3. Why the back half is usually missing
 In museums, you almost always see only the front armor shield of *Dunkleosteus* on display. Why?

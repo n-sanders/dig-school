@@ -81,9 +81,13 @@ The easiest way to keep the two fields straight is to picture concrete pairs of 
 | **Large buried structure** | A **buried house foundation** with stone walls, doorways, and a fire pit | A **buried skeleton** of an ancient animal preserved in rock |
 | **Mark left on a surface** | **Carved writing or tool marks** chiseled into a stone wall | **Fossil footprints** pressed into wet mud by a walking animal |
 
-> **[Image Placeholder: Archaeology vs. Paleontology Side-by-Side Comparison]**
-> - **Type:** Three-row illustrated comparison chart
-> - **Description:** Left column ("Archaeology: Human-Made Things") vs. Right column ("Paleontology: Ancient Life / Fossils"). Row 1 shows a decorated terracotta pottery shard beside a ribbed brachiopod fossil shell. Row 2 shows a flaked flint arrowhead beside a serrated fossil *Tyrannosaurus* tooth. Row 3 shows an overhead view of a stone room foundation with a hearth beside an overhead view of an articulated fossil skeleton embedded in sandstone.
+![A painted pottery shard, a chipped stone arrowhead, and an overhead view of a stone room foundation with a round hearth.](images/lessons/digging-02-archaeology-vs-paleontology-1.jpg)
+
+***Archaeology studies things people made and left behind:** a decorated pottery shard, a flaked flint arrowhead, and the stone foundation of a room with its hearth. (Watercolor made for Dig School.)*
+
+![A ribbed fossil shell, a curved serrated dinosaur tooth, and a sandstone slab holding a complete small dinosaur skeleton.](images/lessons/digging-02-archaeology-vs-paleontology-2.jpg)
+
+***Paleontology studies ancient life:** a ribbed fossil shell, a serrated *Tyrannosaurus* tooth, and an articulated skeleton in sandstone. (Watercolor made for Dig School.)*
 
 ## Different questions, overlapping skills
 

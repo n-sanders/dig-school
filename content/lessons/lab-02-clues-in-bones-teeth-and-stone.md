@@ -76,9 +76,21 @@ Teeth are tools built to process food, and their shapes match the jobs they do:
 - **Pegs and rakes for stripping:** Simple pencil-like or spoon-shaped teeth at the front of the mouth work like rakes to strip leaves and needles off branches.
 - **Grinding mills:** Broad, flat-crowned molars or tightly packed "dental batteries" of hundreds of interlocking teeth act like rough rasps to shred tough stems, horsetails, or grasses. Microscopic scratches on tooth enamel (*microwear*) even show whether an animal chewed soft leaves or gritty, dusty plants!
 
-> **[Image Placeholder: Four Fossil Tooth Shapes and Their Diets]**
-> - **Type:** Illustrated comparative diagram
-> - **Description:** Four labeled fossil teeth shown side by side with magnified insets of their biting surfaces: (1) a curved, serrated theropod tooth ("Piercing & slicing meat"), (2) a tall conical marine reptile/fish-eater tooth ("Gripping slippery fish"), (3) a peg-like sauropod tooth ("Stripping leaves from branches"), and (4) a wide ridged herbivore grinding tooth / dental battery ("Grinding fibrous plants").
+![A curved, blade-like brown fossil dinosaur tooth with fine serrated edges, shown on a plain cream background.](images/lessons/lab-02-tooth-shapes-diets-1.jpg)
+
+***Meat-eater (theropod):** a curved, blade-like tooth with saw-edge serrations for slicing flesh. (Watercolor made for Dig School.)*
+
+![A slender, smooth, dark brown cone-shaped fossil tooth with a sharp point and no serrations, on a plain cream background.](images/lessons/lab-02-tooth-shapes-diets-2.jpg)
+
+***Fish-eater (marine reptile):** a tall, slender cone with a sharp point for gripping slippery prey. (Watercolor made for Dig School.)*
+
+![A long, straight, pencil-shaped brown fossil tooth with a blunt worn tip, on a plain cream background.](images/lessons/lab-02-tooth-shapes-diets-3.jpg)
+
+***Plant-stripper (sauropod):** a peg- or pencil-shaped tooth worn flat at the tip from raking leaves off branches. (Watercolor made for Dig School.)*
+
+![A fossil jaw section whose broad surface is packed with rows of small diamond-shaped teeth, forming a grinding pad.](images/lessons/lab-02-tooth-shapes-diets-4.jpg)
+
+***Plant-grinder (hadrosaur):** a dental battery of hundreds of tightly packed teeth that forms a wide, ridged grinding surface. (Watercolor made for Dig School.)*
 
 ## Clues in bones and tracks: How did it move and grow?
 
@@ -89,9 +101,9 @@ Bones and trace fossils work together to show how an animal stood, moved, and gr
 3. **Trackways confirm the skeleton:** A skeleton shows what was *possible*, while a **fossil trackway** shows how the living animal actually placed its feet—how wide its stance was, how long its stride was, and whether its tail dragged on the ground (in dinosaurs, trackways show tails were held up off the ground!).
 4. **Age at death:** Under a microscope, thin sections of fossil bone often preserve microscopic blood vessel channels and annual growth lines (similar to tree rings). Fast-growing young animals have spongy, vessel-rich bone texture, while fully grown adults show closely spaced rings near the outer edge.
 
-> **[Image Placeholder: Reading a Fossil Trackway and Limb Posture]**
-> - **Type:** Two-part diagram
-> - **Description:** Left diagram shows a sequence of fossil footprints with measurements marked for "Footprint length," "Pace / Stride length," and "Narrow trackway width (feet placed under the body, no tail drag)." Right diagram shows the matching hind limb skeleton positioned directly above the footprint, showing how hip height and stride length are measured together.
+![Photograph of a cast of a three-toed Eubrontes dinosaur footprint](images/lessons/photo-eubrontes-cast.jpg)
+
+*A real three-toed track (Eubrontes cast): footprint length, stride, and stance can all be measured from fossils like this. (Track cast prepared by Paul Olsen; photo: Z22, CC BY 3.0, via Wikimedia Commons.)*
 
 ## Clues in the surrounding rock: What was the environment like?
 
