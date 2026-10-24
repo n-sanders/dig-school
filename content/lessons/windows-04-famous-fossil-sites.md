@@ -78,9 +78,9 @@ Here is how those seeps created one of the richest Ice Age windows on Earth:
 2. **The predator magnet:** A trapped herbivore called out or struggled, attracting packs of **dire wolves**, **saber-toothed cats (*Smilodon*)**, **American lions**, **coyotes**, and flocks of **condors and eagles**. Many of those hunters and scavengers stepped into the asphalt and became trapped too. (In fact, about 90% of the mammal bones recovered from the pits belong to carnivores!)
 3. **The whole environment in the matrix:** When preparators clean the asphalt from inside a saber-toothed cat skull, they find **pine cones, juniper twigs, oak leaves, grass seeds, beetle wing covers, freshwater snails, lizards, and tiny mouse bones**. Together, these tiny fossils prove that Ice Age Los Angeles was cooler and moister than today, with oak and juniper woodlands alongside open meadows.
 
-> **[Image Placeholder: How an Asphalt Seep Captures an Entire Ecosystem (La Brea)]**
-> - **Type:** Cross-section ecosystem diagram
-> - **Description:** A cutaway view of a shallow asphalt seep covered by a thin layer of water and fallen leaves. At the surface, a trapped Ice Age bison or mammoth is surrounded by dire wolves and a *Smilodon* stepping onto the sticky margin while a condor perches nearby. Below the surface in the dark asphalt deposit, labels point to accumulated bones of herbivores and carnivores alongside preserved pine cones, seeds, beetle shells, and small bird bones.
+![Cutaway of a La Brea style seep with a trapped mammoth, dire wolves, and Smilodon at the surface and bones, cones, seeds, and shells packed below](images/lessons/windows-04-la-brea-seep.svg)
+
+*One sticky trap preserved predators, prey, plants, and insects together.*
 
 ## Window 2: Dinosaur River Bone Beds (Mesozoic Floodplains)
 

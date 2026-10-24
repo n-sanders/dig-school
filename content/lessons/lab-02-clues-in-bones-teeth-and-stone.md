@@ -76,9 +76,9 @@ Teeth are tools built to process food, and their shapes match the jobs they do:
 - **Pegs and rakes for stripping:** Simple pencil-like or spoon-shaped teeth at the front of the mouth work like rakes to strip leaves and needles off branches.
 - **Grinding mills:** Broad, flat-crowned molars or tightly packed "dental batteries" of hundreds of interlocking teeth act like rough rasps to shred tough stems, horsetails, or grasses. Microscopic scratches on tooth enamel (*microwear*) even show whether an animal chewed soft leaves or gritty, dusty plants!
 
-> **[Image Placeholder: Four Fossil Tooth Shapes and Their Diets]**
-> - **Type:** Illustrated comparative diagram
-> - **Description:** Four labeled fossil teeth shown side by side with magnified insets of their biting surfaces: (1) a curved, serrated theropod tooth ("Piercing & slicing meat"), (2) a tall conical marine reptile/fish-eater tooth ("Gripping slippery fish"), (3) a peg-like sauropod tooth ("Stripping leaves from branches"), and (4) a wide ridged herbivore grinding tooth / dental battery ("Grinding fibrous plants").
+![Four fossil teeth with magnified biting surfaces: a serrated theropod slicer, a conical fish-gripper, a peg-like leaf-stripper, and a ridged grinding battery](images/lessons/lab-02-tooth-shapes-diets.svg)
+
+*Tooth shape records diet: slice meat, grip fish, strip leaves, or grind plants.*
 
 ## Clues in bones and tracks: How did it move and grow?
 
@@ -89,9 +89,9 @@ Bones and trace fossils work together to show how an animal stood, moved, and gr
 3. **Trackways confirm the skeleton:** A skeleton shows what was *possible*, while a **fossil trackway** shows how the living animal actually placed its feet—how wide its stance was, how long its stride was, and whether its tail dragged on the ground (in dinosaurs, trackways show tails were held up off the ground!).
 4. **Age at death:** Under a microscope, thin sections of fossil bone often preserve microscopic blood vessel channels and annual growth lines (similar to tree rings). Fast-growing young animals have spongy, vessel-rich bone texture, while fully grown adults show closely spaced rings near the outer edge.
 
-> **[Image Placeholder: Reading a Fossil Trackway and Limb Posture]**
-> - **Type:** Two-part diagram
-> - **Description:** Left diagram shows a sequence of fossil footprints with measurements marked for "Footprint length," "Pace / Stride length," and "Narrow trackway width (feet placed under the body, no tail drag)." Right diagram shows the matching hind limb skeleton positioned directly above the footprint, showing how hip height and stride length are measured together.
+![Footprint trail marked for foot length, stride, and narrow width beside a hind-limb skeleton showing how hip height and joint angles are measured](images/lessons/lab-02-trackway-posture.svg)
+
+*Trackways show how animals actually moved; skeletons show what was possible.*
 
 ## Clues in the surrounding rock: What was the environment like?
 

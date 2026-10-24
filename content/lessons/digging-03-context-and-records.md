@@ -83,9 +83,9 @@ A single object or bone by itself usually tells only a small part of the story. 
 2. **Nearby finds:** Were fossilized fern leaves, freshwater clam shells, or shed predator teeth buried in the same layer right beside the bone? Were cooking pots, charcoal, and animal bones clustered around an ancient stone hearth?
 3. **Position and arrangement:** Are the bones of a skeleton still connected in life position (*articulated*), or were they scattered by flowing water or scavengers before burial?
 
-> **[Image Placeholder: Find With Context vs. Find Without Context]**
-> - **Type:** Split comparison diagram
-> - **Description:** Left side ("In Context — In Place in the Ground") shows a fossilized jawbone resting in a distinct sandstone layer, surrounded by fossilized river shells, leaf impressions, a centimeter scale bar, a north arrow, a numbered site tag, and a grid frame. Callout labels point to each clue ("Sandstone matrix = river channel," "Associated plant leaves," "Exact depth and orientation recorded"). Right side ("Out of Context — Unrecorded Find") shows the exact same jawbone sitting loose in a plain cardboard box with question marks for "Location?", "Rock layer?", and "Nearby fossils?".
+![A fossil jawbone mapped in its sandstone layer with shells, scale bar, and site tag beside the same bone alone in a box with its location, layer, and neighbours unknown](images/lessons/digging-03-context-vs-no-context.svg)
+
+*The same find tells a rich story in context and almost none without it.*
 
 ## Habits that turn a hole into evidence
 
@@ -95,10 +95,9 @@ Because digging removes the surrounding dirt and rock forever, both archaeologis
 - **Photographs and drawings:** Each find is photographed in place (*in situ*) with a scale bar and an arrow pointing north. Detailed drawings highlight cracks, bone edges, or soil boundaries that might be hard to see in a photo.
 - **Field notebooks:** Scientists write down the rock or soil type, color, grain size, nearby items, date, and who uncovered the specimen. Every specimen gets a field number that links the physical object to that notebook entry.
 
-> **[Image Placeholder: Field Notebook Page and Grid Map]**
-> - **Type:** Annotated diagram
-> - **Description:** A two-part illustration showing a square meter excavation grid over a bone bed alongside an open field notebook page. The notebook page shows a hand-drawn sketch of the grid square with numbered bones (#14 femur, #15 rib, #16 tooth), compass direction (N), depth measurements in centimeters, description of the greenish-gray mudstone layer, and date.
+![Excavation grid square with numbered bones, compass direction, and scale beside an open field notebook page with a sketch, depths, and rock-layer notes](images/lessons/digging-03-field-notebook-grid.svg)
 
+*Grid maps and notebooks let any scientist rebuild the site long after the dig.*
 These records mean that long after the field season is over—and long after wind and rain have weathered the hillside—scientists anywhere in the world can reconstruct the site and keep answering new questions.
 
 ## Where we go from here

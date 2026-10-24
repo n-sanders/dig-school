@@ -78,9 +78,9 @@ Then came a surprise from the Hell Creek Formation of Montana:
 3. **Dissolving the mineral away:** They placed small inner bone chips into **EDTA**, a liquid that dissolves the hard calcium phosphate mineral without a strong acid. The bone did not vanish into empty liquid.
 4. **What was left behind:** Under the microscope, they saw **translucent, branching, flexible tube-like structures** that looked just like blood vessels—stretchy enough that when pulled with a tiny probe, they snapped back into shape! Inside the vessels were **tiny round red- to deep-brown microstructures** resembling red blood cells with central nuclei (like those of birds and reptiles), along with star-shaped bone cells (*osteocytes*) with delicate branching filaments still intact.
 
-> **[Image Placeholder: Microscopic View of Dinosaur Bone Soft Tissue and Vessel Structures]**
-> - **Type:** Three-part magnified laboratory diagram
-> - **Description:** Part 1 shows a cross-section of a dense *Tyrannosaurus rex* femur bone fragment before demineralization. Part 2 ("After Dissolving Mineral Matrix") shows branching, translucent, flexible blood-vessel-like tubes under a microscope, with tiny round dark-reddish microstructures visible in a line inside the vessel walls. Part 3 shows a high-magnification view of an osteocyte (bone cell) with fine branching filaments extending outward.
+![Dense T. rex bone chip, then flexible branching vessel-like tubes with cell-like dots after dissolving the mineral, then a zoomed branching bone cell](images/lessons/active-03-soft-tissue-micro.svg)
+
+*Dissolving the mineral left stretchy vessel-like structures that snapped back when pulled.*
 
 ## How science responds to a surprise
 

@@ -81,9 +81,9 @@ The easiest way to keep the two fields straight is to picture concrete pairs of 
 | **Large buried structure** | A **buried house foundation** with stone walls, doorways, and a fire pit | A **buried skeleton** of an ancient animal preserved in rock |
 | **Mark left on a surface** | **Carved writing or tool marks** chiseled into a stone wall | **Fossil footprints** pressed into wet mud by a walking animal |
 
-> **[Image Placeholder: Archaeology vs. Paleontology Side-by-Side Comparison]**
-> - **Type:** Three-row illustrated comparison chart
-> - **Description:** Left column ("Archaeology: Human-Made Things") vs. Right column ("Paleontology: Ancient Life / Fossils"). Row 1 shows a decorated terracotta pottery shard beside a ribbed brachiopod fossil shell. Row 2 shows a flaked flint arrowhead beside a serrated fossil *Tyrannosaurus* tooth. Row 3 shows an overhead view of a stone room foundation with a hearth beside an overhead view of an articulated fossil skeleton embedded in sandstone.
+![Three-row comparison of human-made pottery, arrowhead, and room foundation against fossil shell, dinosaur tooth, and articulated skeleton](images/lessons/digging-02-archaeology-vs-paleontology.svg)
+
+*Archaeology studies things people made; paleontology studies fossils of ancient life.*
 
 ## Different questions, overlapping skills
 

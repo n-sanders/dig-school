@@ -101,14 +101,9 @@ Because rock layers build up from the bottom upward, geologists often draw the g
 - **What the name means:** The thick foundation of rocks lying *below* the Cambrian period.
 - **Fossils commonly observed:** Mostly microscopic fossils, including **stromatolites** (layered mounds built by microbes trapping sediment). In the uppermost Precambrian layers there are also soft-bodied sea creatures called **Ediacaran** animals. They had no hard shells or bones.
 
-> **[Image Placeholder: The Geologic Column — Rock Divisions and Representative Fossils]**
-> - **Type:** Vertical stratigraphic column diagram (arranged bottom to top)
-> - **Description:** A four-tiered vertical chart reading from bottom (oldest relative position) to top (youngest relative position):
->   1. **Precambrian (Base):** Layered stromatolite mounds and soft-bodied frond impressions.
->   2. **Paleozoic (Cambrian–Permian):** Trilobite, brachiopod shell, *Dunkleosteus* armored fish skull (Devonian), and lush Carboniferous fern frond.
->   3. **Mesozoic (Triassic–Jurassic–Cretaceous):** Coiled ammonite shell, *Stegosaurus* / *Triceratops* dinosaur skeleton, and cycad leaf.
->   4. **Cenozoic (Top):** Woolly mammoth molar/skull, saber-toothed cat skull, and oak/grass leaves.
->   A side note explains: "Order reflects the observed physical sequence of rock layers and fossils from lowest to highest. Standard scientific age estimates place these divisions across millions to billions of years; some people hold different views on absolute ages while using the same observed layer order."
+![Vertical rock column from Precambrian stromatolites at the base through Paleozoic trilobites and armored fish and Mesozoic dinosaurs to Cenozoic mammoths at the top](images/lessons/time-02-geologic-column.svg)
+
+*The column orders the rock and fossil record from lowest and oldest to highest and youngest.*
 
 ## A shared map for field scientists
 

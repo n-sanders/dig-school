@@ -73,9 +73,9 @@ A treasure hunter only cares about pulling a shiny or impressive object out of t
 
 If you yank a buried bone or clay pot out of the earth with a shovel, two bad things happen at once. First, the object itself—often cracked and brittle after sitting underground—can snap into pieces. Second, you destroy all the surrounding clues that explain how it got there.
 
-> **[Image Placeholder: Hasty Digging vs. Careful Excavation]**
-> - **Type:** Side-by-side comparison illustration
-> - **Description:** Left panel ("Treasure Hunting / Rushing") shows a deep, messy hole dug with a large shovel, broken fragments of bone and pottery tossed onto a dirt pile, and mixed soil layers. Right panel ("Scientific Detective Work") shows a neat, level excavation square marked with string, a scientist using a small trowel and soft brush around an intact specimen still resting in its layer, alongside a ruler, camera, and field notebook.
+![Comparison of a messy rushed dig with broken finds tossed aside versus a neat gridded excavation where a scientist uses small tools and records everything](images/lessons/digging-01-hasty-vs-careful.svg)
+
+*Rushing destroys fragile finds and their clues; slow, recorded digging preserves the evidence.*
 
 ## The ground is built in layers
 
@@ -88,9 +88,9 @@ Layers form through everyday processes you can still watch today:
 
 Think of a laundry basket over the course of a week. Monday's clothes end up on the bottom of the pile; Friday's clothes sit on top. Unless something dumps the basket over or stirs it up, **deeper layers were laid down before the layers above them, so they are usually older**.
 
-> **[Image Placeholder: How Layers Stack Up in the Ground]**
-> - **Type:** Cross-section diagram
-> - **Description:** A vertical cutaway of a hillside showing four distinct horizontal layers from bottom to top: (1) lowest limestone layer containing ancient seashells, (2) middle sandstone layer containing a large fossilized reptile bone, (3) upper clay layer containing a stone hearth and clay cooking pot fragments, and (4) modern topsoil with grass roots and a modern coin near the surface. An arrow along the side points upward labeled "Deposited later (younger)" and downward labeled "Deposited earlier (older)."
+![Hillside cutaway showing topsoil with grass and a coin on top, then a clay hearth layer, then sandstone with a fossil bone, then shell-bearing limestone at the base, with younger upward and older downward](images/lessons/digging-01-layers-stack-up.svg)
+
+*Deeper layers were laid down first, so they are usually older than the layers above them.*
 
 ## What layers tell a careful digger
 

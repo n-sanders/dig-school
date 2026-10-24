@@ -76,9 +76,9 @@ The most common way large bones and tree trunks become fossils begins with **sed
 3. **Mineral-rich water seeps through:** Groundwater carrying dissolved minerals (like silica, calcite, or iron compounds) trickles slowly through the buried bone or wood.
 4. **Filling and replacement:** Those minerals crystallize inside the tiny microscopic pores of the bone or wood (a process called *permineralization*) or gradually replace the original material molecule by molecule. The specimen becomes heavy and rock-like while keeping its original shape—sometimes down to individual bone cells or tree rings!
 
-> **[Image Placeholder: Four-Step Burial and Mineralization Sequence]**
-> - **Type:** Four-panel process diagram
-> - **Description:** Panel 1 ("Death and Quick Burial") shows a fish skeleton resting on a lake bottom being covered by settling layers of mud and silt. Panel 2 ("Deepening Layers") shows additional sediment layers accumulating overhead while soft parts decay and hard bones remain intact. Panel 3 ("Mineral Seepage") shows a magnified inset of groundwater with dissolved minerals filling microscopic pores inside the bone. Panel 4 ("Exposure") shows erosion wearing away the hillside millions of or many years later, exposing the mineralized fossil at the surface.
+![Four panels showing quick burial of a fish, deepening sediment layers, mineral-rich groundwater filling bone pores, and erosion exposing the fossil](images/lessons/fossils-02-burial-mineralization.svg)
+
+*Burial, protection, mineral seepage, and later exposure turn remains into stone.*
 
 ## Pathway 2: Molds and casts
 
@@ -89,9 +89,9 @@ Sometimes a shell or bone is buried in mud or sand that hardens into rock around
 
 Think of pressing a seashell into modeling clay, lifting the shell out (leaving a **mold**), and then pouring plaster into the hollow space to make a copy (a **cast**).
 
-> **[Image Placeholder: How a Fossil Mold and Natural Cast Form]**
-> - **Type:** Three-step cross-section diagram
-> - **Description:** Step 1 shows a ribbed clam shell buried in sediment that hardens into rock. Step 2 ("Mold") shows the original shell dissolved away by groundwater, leaving a hollow shell-shaped cavity with ridge impressions in the rock. Step 3 ("Cast") shows new minerals filling the cavity to form a solid stone copy of the shell's shape.
+![Three steps showing a buried clam shell, the hollow mold left after it dissolves, and minerals filling the mold into a solid stone cast](images/lessons/fossils-02-mold-and-cast.svg)
+
+*A mold is the hollow impression; a cast is the stone copy that fills it.*
 
 ## Pathway 3: Carbon films and impressions
 
@@ -105,6 +105,6 @@ In special environments, organisms can be preserved with remarkably little chang
 - **Natural tar (asphalt) seeps:** Sticky pools of heavy natural oil seeping to the surface can trap animals and preserve bones, teeth, insect wing cases, and plant seeds steeped in asphalt.
 - **Ice and permafrost:** In freezing regions, Ice Age mammoths, woolly rhinoceroses, and steppe bison have been found frozen in permafrost with hair, skin, muscle, and even stomach contents still preserved.
 
-> **[Image Placeholder: Special Preservation Examples]**
-> - **Type:** Three-panel illustration
-> - **Description:** Panel A shows a translucent golden piece of amber containing a finely preserved mosquito/fly with visible wing veins and legs. Panel B shows dark brown-black fossilized bones being lifted from a sticky asphalt seep. Panel C shows a frozen Ice Age mammoth calf exposed in icy permafrost bank with dark wool still attached.
+![An insect with veined wings in golden amber, bones in a dark tar seep, and a woolly mammoth calf in icy permafrost](images/lessons/fossils-02-special-preservation.svg)
+
+*Amber, tar, and ice can preserve details that ordinary rock rarely keeps.*

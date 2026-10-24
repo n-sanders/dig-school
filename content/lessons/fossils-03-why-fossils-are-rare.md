@@ -72,9 +72,9 @@ In almost every case, nature recycles remains quickly:
 
 Because these everyday processes are so thorough, **most living things never become fossils**.
 
-> **[Image Placeholder: Two Paths After Death — Recycling vs. Fossilization]**
-> - **Type:** Branching flowchart diagram
-> - **Description:** Starting at top ("An organism dies"), the wide main arrow ("Most common path — almost all organisms") leads through Scavengers -> Bacteria & Fungi Decay -> Weathering & Sun -> Recycled into soil (No fossil left). A narrow side arrow ("Rare path — requires right conditions") leads through Rapid Burial in Mud/Sand -> Protection from Scavengers & Oxygen -> Mineralization in Sedimentary Rock -> Preserved Fossil Specimen.
+![Flowchart from death splitting into the common path of scavengers, decay, and recycling with no fossil, and the rare path of rapid burial and mineralization ending in a fossil](images/lessons/fossils-03-two-paths.svg)
+
+*Almost everything is recycled; fossilization needs fast burial and the right chemistry.*
 
 ## What tilts the odds toward preservation?
 

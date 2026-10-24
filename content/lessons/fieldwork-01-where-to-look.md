@@ -86,9 +86,9 @@ Even if fossil-bearing sedimentary rock lies underground, paleontologists need p
 2. **Riverbanks and coastal cliffs:** Flowing rivers and ocean waves cut into banks and cliffs, slicing clean cross-sections through rock layers.
 3. **Quarries and highway road cuts:** When workers blast or cut through hills to build roads or quarry limestone, they expose clean walls of layered rock that would otherwise stay hidden underground.
 
-> **[Image Placeholder: Prospecting a Badlands Hillside]**
-> - **Type:** Annotated landscape cross-section diagram
-> - **Description:** A sloped badlands hillside showing horizontal bands of sandstone and mudstone. Near the upper-middle mudstone layer, the end of a fossil femur is peeking out in place (*in situ*). Down the slope below it, a dotted trail of small weathered bone fragments ("float") washes toward a dry gully. A paleontologist with a backpack and field notebook is shown tracing the scattered fragments uphill toward the source layer.
+![Badlands slope with a fossil femur still in its mudstone layer and a trail of bone scraps leading a prospector with a notebook uphill to the source](images/lessons/fieldwork-01-prospecting-badlands.svg)
+
+*Follow loose fragments uphill: the rest of the fossil is often still in the layer.*
 
 ## Following the trail uphill
 

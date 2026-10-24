@@ -72,9 +72,9 @@ To study or display the whole animal's build and posture, paleontologists and mu
 3. **Comparing overlapping specimens:** Suppose Specimen A has the skull and front half of the body, and Specimen B (of the same species and size) has the overlapping ribcage, hips, and tail. Together, the two specimens show the whole skeleton.
 4. **Marking what is real vs. replica:** In scientific papers—and in careful museum mounts—reconstructed pieces are clearly distinguished from the original fossil bones (often drawn in a different shade on bone maps or molded in a slightly different tone) so everyone can see exactly how much original evidence was found. Real fossil bones are also extremely heavy and brittle, so museums often mount lightweight fiberglass casts on display while keeping the real, fragile bones safe in research drawers where scientists can examine them up close.
 
-> **[Image Placeholder: Skeletal Reconstruction Bone Map — Original vs. Reconstructed]**
-> - **Type:** Annotated skeletal diagram
-> - **Description:** A side-view skeletal diagram of a dinosaur showing bones shaded in two distinct tones: dark warm brown for "Original Fossil Bones Preserved in Specimen A," medium tan for "Bones Mirrored from Opposite Side or Filled from Specimen B," and white outlines for "Unrecovered Small Tail Bones." A legend at the bottom explains how scientists clearly document which parts are original evidence.
+![Side-view dinosaur skeleton shaded dark brown for original fossil bone, tan for mirrored or second-specimen bone, and white outline for still-missing bones](images/lessons/lab-03-bone-map.svg)
+
+*Bone maps show exactly which parts are original evidence and which are filled in.*
 
 ## Why many specimens beat a single find
 
@@ -92,10 +92,9 @@ Today's paleontologists have remarkable laboratory tools that early fossil hunte
 - **CT scans (computed tomography)** pass X-rays through a fossil skull or rock block to build a 3D digital image of what is hidden inside—such as un-erupted replacement teeth, nasal passages, inner ear canals, or tiny skeletons still buried inside hard rock—without cutting the specimen open.
 - **3D surface scans and digital models** allow researchers on different continents to measure and test-fit fragile bones on a computer screen without risking damage to the real fossils.
 
-> **[Image Placeholder: CT Scan Revealing Hidden Structures Inside a Fossil Skull]**
-> - **Type:** Split diagram (Exterior Fossil vs. Digital X-Ray Slice)
-> - **Description:** Left half shows the outside of a fossilized crocodile-like or dinosaur skull partially encased in rock matrix. Right half shows a translucent 3D CT scan rendering of the exact same skull, revealing hidden replacement teeth inside the jawbone and the hollow airways and braincase cavity inside the stone.
+![Fossil skull exterior in rock beside a translucent CT rendering of the same skull exposing the braincase cavity and hidden replacement teeth](images/lessons/lab-03-ct-scan-skull.svg)
 
+*Scanners see inside the stone without touching the fossil.*
 Even with these high-tech tools, the foundation of paleontology has not changed. Scanners and 3D models do not think for themselves—**technology assists careful looking, measuring, and comparing; it does not replace it**.
 
 Next, in Unit 5, we will zoom out from individual specimens in the lab to ask how paleontologists read the larger pattern of rock layers and fossils across the globe.

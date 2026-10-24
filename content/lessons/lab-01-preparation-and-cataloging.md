@@ -77,10 +77,9 @@ Removing that rock requires patience because **the fossil is often softer and mo
 - **Air scribes and air abrasion:** For harder rock, they use pen-sized air-powered tools called **air scribes**. An air scribe strikes the rock thousands of times a minute, like a tiny jackhammer. Other preparators use a tiny nozzle that puffs soft powder and wears the matrix away gently. That second method is called air abrasion.
 - **Working under magnification:** Much of this work happens under a stereo microscope. Through the lenses, the preparator watches for the tiny change in color and texture where rock ends and bone begins—stopping a hair's breadth before scratching the fossil.
 
-> **[Image Placeholder: Fossil Preparator Working Under a Microscope]**
-> - **Type:** Annotated laboratory scene diagram
-> - **Description:** A fossil preparator seated at a well-lit workbench looking through a boom-arm stereo microscope at a half-opened plaster field jacket containing an articulated fossil skull. Callouts point to: (1) the cut edge of the burlap-and-plaster jacket, (2) a pen-sized air scribe removing gray sandstone matrix, (3) a fine needle pin vise and soft brush, (4) a small dish collecting removed rock matrix and tiny micro-fossils, and (5) bottle of archival consolidant/adhesive.
+![Prep-lab bench with an opened plaster jacket holding a skull, an air scribe, a boom microscope, a dish of saved matrix, and archival adhesive](images/lessons/lab-01-preparator-microscope.svg)
 
+*Preparation removes rock grain by grain under magnification and saves every crumb.*
 As the matrix comes off, preparators do not simply sweep it into the trash. They check the removed rock for tiny **micro-fossils**—such as shed fish scales, tiny mammal or lizard teeth, snail shells, or plant seeds—that were buried right beside the main specimen.
 
 ## Step 2: Stabilizing and repairing
@@ -98,8 +97,7 @@ Once a specimen is prepared, it is **cataloged** into the collection:
 1. It receives a **unique catalog number** (such as `USNM 555000` or `AMNH 5027`), written in tiny India ink letters on a small dot of clear or white paint directly on the bone as well as on its label card.
 2. All the **field records from Unit 3**—the field notebook pages, quarry map coordinates, rock layer name, photographs in the ground, and preparator notes—are linked to that exact catalog number in the museum's archive and database.
 
-> **[Image Placeholder: Cataloged Fossil Specimen and Archive Record]**
-> - **Type:** Diagram of specimen numbering and linked records
-> - **Description:** A clean fossil jawbone resting in a custom padded storage cradle. A magnified circle shows the discrete catalog number painted on a small spot on the bone surface. Connecting lines link that catalog number to: (1) the specimen's printed collection label card, (2) the original field quarry map and field photos, and (3) the rock layer (stratigraphic) record.
+![Numbered fossil jawbone resting in a padded cradle, linked by its catalog number to a label card, field photos and quarry map, and the rock-layer record](images/lessons/lab-01-catalog-specimen-record.svg)
 
+*One catalog number ties the specimen to its hillside, layer, and neighbours forever.*
 Because of cataloging, a scientist visiting the collection fifty or a hundred years later doesn't just see a bone in a drawer—they can pull up the exact hillside, rock layer, and neighboring fossils that came with it.

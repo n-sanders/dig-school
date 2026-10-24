@@ -81,10 +81,9 @@ To move a fragile fossil and its block of rock across rough trails without crack
 4. **Let it harden, then undercut and flip:** Once the top shell is rock-hard, the crew carefully chisels through the bottom of the rock pedestal, flips the block over, trims excess rock, and seals the bottom with plaster too.
 5. **Label the jacket:** The field number, top/bottom orientation, and site code are written directly on the dried plaster with permanent marker.
 
-> **[Image Placeholder: Five-Step Diagram of Plaster Jacketing a Fossil]**
-> - **Type:** Five-step sequential diagram
-> - **Description:** Step 1 ("Pedestal") shows a fossil femur resting on a carved pillar of sandstone with a trench dug around it. Step 2 ("Separator Layer") shows damp paper towels laid over the exposed bone surface. Step 3 ("Burlap and Plaster") shows strips of plaster-soaked burlap overlapping across the block and down the sides of the pedestal. Step 4 ("Undercut and Flip") shows chisels cutting the base of the pedestal and the jacketed block turned upside down. Step 5 ("Seal and Label") shows the top sealed with plaster and labeled with field number "DS-2026-04" and a north arrow.
+![Five steps from carving a rock pedestal around a femur to paper separator, plaster-soaked burlap, undercutting and flipping, and a sealed jacket labelled DS-2026-04](images/lessons/fieldwork-03-plaster-jacket-steps.svg)
 
+*The jacket cradles fossil and rock together for the trip to the lab.*
 Small, sturdy fossils—such as single shark teeth or small shells—may simply be wrapped in tissue and placed in labeled sample bags or padded vials. Large jackets, however, can weigh hundreds or even thousands of pounds and may have to be carried out on stretchers, winched onto trucks, or lifted by helicopter.
 
 ## When the best choice is NOT to dig
@@ -95,8 +94,7 @@ Not every fossil that paleontologists find gets dug up and taken to a museum. Le
 - **Protected outdoor exhibits:** At Dinosaur National Monument, about 1,500 dinosaur bones are left partly exposed in a quarry wall. A building around that wall lets visitors and researchers see the bones in their original rock layer.
 - **Not enough time or the wrong tools:** If a crew discovers a huge skeleton on the last two days of an expedition, rushing to dig it out would destroy it. Instead, they record its GPS coordinates, photograph it, cover it back up with cloth and dirt to shield it from rain and frost, and return next season with the time and gear required.
 
-> **[Image Placeholder: Dinosaur Trackway Left in Place for Study]**
-> - **Type:** Field scene illustration / photo placeholder
-> - **Description:** An expansive flat limestone ledge displaying a clear trail of three-toed dinosaur footprints walking across the rock surface. A paleontologist kneels beside the tracks with a measuring tape, camera on a tripod, and notebook, documenting the footprints in place without cutting or removing the rock.
+![Three-toed footprint trail across a rock ledge recorded with a measuring tape, tripod camera, and notebook while the rock stays untouched](images/lessons/fieldwork-03-trackway-in-place.svg)
 
+*Some finds teach most where they lie, so crews map and scan them in place.*
 Now that our plaster-jacketed specimen is safely loaded and headed indoors, let's follow it into Unit 4—where laboratory preparation and scientific detective work begin.

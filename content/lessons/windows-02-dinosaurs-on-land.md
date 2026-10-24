@@ -72,9 +72,9 @@ You can see the difference in the hips and legs:
 - **Sprawling reptiles** (like lizards and salamanders) have thigh bones that stick out sideways from the hip, so their bellies stay low to the ground and their bodies bend side to side when they walk.
 - **Dinosaurs** had an open hip socket and an inward-angled ball at the top of the thigh bone (*femur*) that tucked their legs **straight underneath their bodies**, like pillars under a bridge. Both their skeletons and their narrow fossil footprint trackways show this upright stance.
 
-> **[Image Placeholder: Sprawling Reptile Posture vs. Upright Dinosaur Posture]**
-> - **Type:** Front-view skeletal comparison diagram
-> - **Description:** Left diagram ("Sprawling Posture — Lizard / Crocodile") shows the pelvis with femurs extending outward to the sides and bent elbows/knees, producing a wide trackway. Right diagram ("Upright Posture — Dinosaur") shows the perforated hip socket with the femur head angled inward so the legs stand vertically directly beneath the body, producing a narrow, straight-line footprint trackway.
+![Front-view pelvis comparison of a sprawling lizard with sideways legs and a wide trail against a dinosaur with pillar legs under its body and a narrow trail](images/lessons/windows-02-sprawling-vs-upright.svg)
+
+*Open hip sockets tucked dinosaur legs straight under the body.*
 
 ## One group, many different body builds
 
@@ -88,9 +88,9 @@ Even though all dinosaurs shared upright legs, their skeletons show astonishing 
 | **Hadrosaurs** (Duck-bills like *Edmontosaurus*) | Broad beaks at the front of the snout, backed by **dental batteries** of hundreds of tightly packed grinding teeth; some had hollow head **crests** | Plant-eaters that could slice and grind tough leaves and stems. The crests were likely for show and, in the hollow-crested species, for sound |
 | **Ceratopsians** (Horned dinosaurs like *Triceratops*) | A beak, a **dental battery** of grinding teeth, and **horns and a neck frill** | Plant-eaters with the same kind of grinding teeth. Horns and frills were likely for show and for shoving matches. Scientists are still testing exactly how they were used |
 
-> **[Image Placeholder: Dinosaur Skull and Tooth Comparison — Theropod vs. Hadrosaur vs. Sauropod]**
-> - **Type:** Three-panel comparative skull diagram
-> - **Description:** Panel 1 shows a *Tyrannosaurus* or *Allosaurus* skull with deep jaws and curved, serrated slicing teeth. Panel 2 shows a duck-billed hadrosaur skull with a front cropping beak and a cutaway view of its tightly packed grinding dental battery. Panel 3 shows a *Diplodocus* skull with forward-pointing peg-like teeth arranged like a garden rake at the front of the snout.
+![Theropod skull with curved serrated teeth, hadrosaur skull with beak and grinding dental battery, and sauropod skull with rake-like peg teeth](images/lessons/windows-02-skull-tooth-comparison.svg)
+
+*Skulls and teeth show who sliced meat, who ground plants, and who raked leaves.*
 
 ## Living alone or in groups? Clues from bone beds and nests
 
