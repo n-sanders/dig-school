@@ -90,9 +90,9 @@ Even if fossil-bearing sedimentary rock lies underground, paleontologists need p
 
 *Layered sedimentary rock exposed in the Badlands — exactly the kind of eroding slopes prospectors walk. (Photo: MichaelKirsh, CC BY-SA 4.0, via Wikimedia Commons.)*
 
-![Badlands slope with a fossil femur still in its mudstone layer and a trail of bone scraps leading a prospector with a notebook uphill to the source](images/lessons/fieldwork-01-prospecting-badlands.svg)
+![Realistic illustration of a paleontologist examining loose bone fragments on a badlands slope, with arrows showing erosion downhill and the search uphill toward a fossil in the exposed rock layer](images/lessons/fieldwork-01-prospecting-badlands-v2.png)
 
-*Follow loose fragments uphill: the rest of the fossil is often still in the layer.*
+*Follow loose fragments uphill: the rest of the fossil is often still in the layer. (AI-generated illustration made for Dig School.)*
 
 ## Following the trail uphill
 
