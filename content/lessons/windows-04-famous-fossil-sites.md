@@ -1,108 +1,158 @@
 ---
 id: windows-04-famous-fossil-sites
-title: "Famous Windows: Sites That Preserve Whole Ecosystems"
+title: "Famous Windows: Three Fossil Sites and the Worlds They Reveal"
 unit: unit-6
-summary: How concentrated fossil sites—such as tar pits, rich bone beds, and marine shales—capture a snapshot of an entire ancient community in one place.
+summary: Compare La Brea's asphalt seeps, Carnegie Quarry's river bone bed, and the Cleveland Shale's marine fossils—and learn why every fossil site preserves a selective record.
 prerequisites:
   - windows-03-ice-age-mammals
 objectives:
-  - Explain what paleontologists mean by a "famous window" into the past and why a rich site teaches more than scattered isolated bones
-  - Describe how sites like the La Brea Tar Pits, Morrison and Dinosaur Park bone beds, and the Cleveland Shale preserve many parts of an ecosystem together
-  - Explain how context at a rich site allows scientists to connect predators, prey, plants, and climate
+  - Connect fossils and sediments at three real sites with their ancient environments
+  - Compare how asphalt entrapment, river transport, and burial in marine mud preserve different evidence
+  - Explain why a rich fossil deposit is an incomplete record that may combine remains from different times
 sources:
-  - id: tarpits-science
-    title: "La Brea Tar Pits & Museum: Our Research"
-    url: https://tarpits.org/research-collections
-  - id: nps-dinosaur-national-monument
-    title: "National Park Service: Dinosaur National Monument Quarry"
-    url: https://www.nps.gov/dino/learn/nature/fossils.htm
+  - id: tarpits-heritage
+    title: "La Brea Tar Pits: Geological Heritage Site"
+    url: https://tarpits.org/stories/la-brea-tar-pits-selected-one-first-100-geological-heritage-sites
+  - id: tarpits-fossil-lab
+    title: "La Brea Tar Pits: Fossil Lab and Microfossil Sorting"
+    url: https://tarpits.org/experience-tar-pits/fossil-lab
+  - id: tarpits-carnivore-trap
+    title: "La Brea and Beyond: Natural History Museum Science Series 42"
+    url: https://tarpits.org/sites/default/files/2019-05/la_brea_and_beyond_2015._nhm_science_science_no._42.pdf
+  - id: nps-morrison
+    title: "National Park Service: Morrison Formation"
+    url: https://www.nps.gov/dino/learn/nature/morrison-formation.htm
+  - id: nps-contemporaries
+    title: "National Park Service: Dinosaur Contemporaries"
+    url: https://www.nps.gov/dino/learn/nature/dinosaur-contemporaries.htm
+  - id: cmnh-collections
+    title: "Cleveland Museum of Natural History: Earth Sciences Collections"
+    url: https://www.cmnh.org/science-conservation/areas-of-study/earth-sciences/collections
 quiz:
   - type: question
-    prompt: Why does a single rich fossil site (a "famous window") often teach paleontologists more than dozens of isolated bones found miles apart?
+    prompt: Why can a rich fossil site teach us more about an ancient environment than an isolated bone?
     choices:
-      - When plants, insects, small animals, prey, and predators are preserved together in the same layer, they reveal how an entire ancient ecosystem worked in one place and time
-      - Isolated bones are always made of plastic
-      - Famous sites only preserve one single species and nothing else
-    answer: When plants, insects, small animals, prey, and predators are preserved together in the same layer, they reveal how an entire ancient ecosystem worked in one place and time
-    explanation: A rich site preserves community context—showing which organisms lived together, what they ate, and what the local climate and environment were like.
+      - Fossils, sediments, and their recorded positions provide several kinds of evidence that can be compared
+      - Every rich site preserves every organism that ever lived there
+      - Isolated bones are always artificial
+    answer: Fossils, sediments, and their recorded positions provide several kinds of evidence that can be compared
+    explanation: A rich site supplies context, but its record is still incomplete. Scientists compare different clues rather than assuming that everything was preserved.
   - type: question
-    prompt: At the La Brea Tar Pits in California, why are carnivore bones (like dire wolves and saber-toothed cats) much more common than herbivore bones?
+    prompt: Why might carnivores be unusually common in La Brea's fossil collection?
     choices:
-      - A single large herbivore stuck in a shallow asphalt seep attracted many predators and scavengers, which then got trapped around it as well
-      - Only carnivores lived in California during the Ice Age
-      - Herbivore bones dissolve instantly in asphalt
-    answer: A single large herbivore stuck in a shallow asphalt seep attracted many predators and scavengers, which then got trapped around it as well
-    explanation: "Sticky asphalt seeps acted as natural predator traps: one mired mammoth, bison, or horse drew in pack after pack of wolves, big cats, and vultures."
+      - Trapped animals attracted predators and scavengers that could become trapped themselves
+      - No plant-eating animals lived nearby
+      - Asphalt turns herbivore bones into carnivore bones
+    answer: Trapped animals attracted predators and scavengers that could become trapped themselves
+    explanation: The trapping process favored some animals over others. Fossil counts do not directly tell us the proportions of animals in the living community.
   - type: question
-    prompt: Besides giant mammal bones, what smaller fossils found in the La Brea asphalt help scientists reconstruct the exact climate and vegetation of Ice Age Los Angeles?
+    prompt: Why do La Brea researchers search the matrix for tiny seeds, insects, shells, and small bones?
     choices:
-      - Fossilized juniper and oak wood, seeds, pollen, snail shells, beetle wing cases, and small bird and rodent bones
-      - Coral reefs and deep-sea anglerfish
-      - Devonian trilobites
-    answer: Fossilized juniper and oak wood, seeds, pollen, snail shells, beetle wing cases, and small bird and rodent bones
-    explanation: Micro-fossils such as plant seeds, pollen, insects, and snails are sensitive to temperature and rainfall, filling in the background environment around the big mammals.
+      - These remains provide environmental clues that large mammal bones alone cannot supply
+      - Tiny fossils are pieces of modern plastic
+      - Small fossils always prove that a glacier covered Los Angeles
+    answer: These remains provide environmental clues that large mammal bones alone cannot supply
+    explanation: Small fossils help researchers investigate vegetation, habitats, and climate alongside the evidence from large animals.
   - type: question
-    prompt: What does the Jurassic Morrison Formation quarry at Dinosaur National Monument preserve in a single ancient river sandbar layer?
+    prompt: What do freshwater clam fossils found with dinosaur bones at Carnegie Quarry help scientists infer?
     choices:
-      - Hundreds of bones from plant-eating sauropods, stegosaurs, and ornithopods alongside meat-eating theropods like Allosaurus, plus river clams and turtles
-      - Only frozen woolly mammoths
-      - Only human pottery and stone houses
-    answer: Hundreds of bones from plant-eating sauropods, stegosaurs, and ornithopods alongside meat-eating theropods like Allosaurus, plus river clams and turtles
-    explanation: The Carnegie Quarry sandbar preserves a cross-section of a Jurassic river ecosystem, from giant sauropods and predators to freshwater turtles and mussels.
+      - A freshwater river was part of the ancient environment
+      - The dinosaurs lived in a deep saltwater ocean
+      - The site was an asphalt seep
+    answer: A freshwater river was part of the ancient environment
+    explanation: Freshwater clams and the sandstone support a river setting. The arrangement and condition of the dinosaur bones add clues about transport and burial.
   - type: question
-    prompt: When paleontologists compare several "famous windows" from different rock divisions (such as a Devonian marine shale, a Jurassic river bone bed, and an Ice Age tar pit), what do they observe?
+    prompt: Which site opens a window into a Late Devonian marine ecosystem with armored fish and sharks?
     choices:
-      - Ancient life and habitats were remarkably diverse, with distinct communities of organisms adapted to each environment
-      - Every site on Earth had the exact same environment and the exact same species
-      - Only land animals can be preserved in groups
-    answer: Ancient life and habitats were remarkably diverse, with distinct communities of organisms adapted to each environment
-    explanation: Comparing windows across the rock record shows distinct, richly detailed ecosystems—from armored fish seas to dinosaur floodplains to Ice Age woodlands.
+      - The Cleveland Shale in Ohio
+      - The Ice Age asphalt seeps at La Brea
+      - The Jurassic Carnegie Quarry in Utah
+    answer: The Cleveland Shale in Ohio
+    explanation: The Cleveland Shale preserves marine fishes, including Dunkleosteus and sharks. The river visible beside the shale today is exposing ancient rock, not the Devonian habitat.
+  - type: question
+    prompt: Does finding many fossils together prove that all those organisms died in one event?
+    choices:
+      - No; remains can accumulate over time or be moved before burial
+      - Yes; every fossil bed records a single instant
+      - Yes; every fossil site formed during the same flood
+    answer: No; remains can accumulate over time or be moved before burial
+    explanation: Scientists examine layers, dates, bone arrangements, and preservation before deciding which remains belong together in time.
 reviewedBy: dig-school
-reviewedOn: "2026-10-23"
+reviewedOn: "2026-10-24"
 ---
 
-## What is a "famous window" into the past?
+## Three places, three ways of preserving evidence
 
-Most of the time, finding a single fossil tooth or an isolated vertebra is a good day in the field. It tells you that a certain kind of animal was present.
+A rich fossil site is a **window into the past** because it brings many clues together: bones, teeth, smaller fossils, and the sediment surrounding them. Those clues help scientists reconstruct an **ecosystem**—organisms interacting with one another and their environment.
 
-Once in a while, however, geologists and paleontologists find a site where **thousands of fossils—large and small—are preserved together in a small area or a single layer**. Paleontologists often call these special places **windows into the past**.
+A window still has limits. Some remains decay, some are carried away, and others collect over many years. The result is a selective record, not a complete photograph of one moment.
 
-Why does one well-studied window teach so much more than scattered isolated bones? Because of **context**! When predators, prey, small creatures, plants, and sediments are all preserved together in the same spot, you don't just see a single animal—you see an entire **ancient ecosystem**.
+At each site, ask: **What can we observe? How did it get preserved? What can we reasonably infer?**
 
-## Window 1: The La Brea Tar Pits (Cenozoic Ice Age)
+## Window 1: La Brea Tar Pits, Los Angeles
 
-Right in the middle of Los Angeles, California, heavy natural oil (*asphalt*) has been seeping up through cracks in the ground for tens of thousands of years, forming sticky pools often hidden beneath dust, leaves, or shallow rainwater.
+**Time and setting:** Late Pleistocene, Cenozoic; a land environment with natural asphalt seeps.
 
-Here is how those seeps created one of the richest Ice Age windows on Earth:
-1. **The trap:** Just a couple of inches of sticky asphalt could hold a mammoth, mastodon, bison, horse, camel, or ground sloth fast by its feet like giant flypaper.
-2. **The predator magnet:** A trapped herbivore called out or struggled, attracting packs of **dire wolves**, **saber-toothed cats (*Smilodon*)**, **American lions**, **coyotes**, and flocks of **condors and eagles**. Many of those hunters and scavengers stepped into the asphalt and became trapped too. (In fact, about 90% of the mammal bones recovered from the pits belong to carnivores!)
-3. **The whole environment in the matrix:** When preparators clean the asphalt from inside a saber-toothed cat skull, they find **pine cones, juniper twigs, oak leaves, grass seeds, beetle wing covers, freshwater snails, lizards, and tiny mouse bones**. Together, these tiny fossils prove that Ice Age Los Angeles was cooler and moister than today, with oak and juniper woodlands alongside open meadows.
+![Glossy natural asphalt bubbling through soil and plant debris at La Brea in Los Angeles](images/lessons/photo-tar-bubble-la-brea.jpg)
 
-![Cutaway of a La Brea style seep with a trapped mammoth, dire wolves, and Smilodon at the surface and bones, cones, seeds, and shells packed below](images/lessons/windows-04-la-brea-seep.svg)
+*Natural asphalt at La Brea today. These modern leaves are not Ice Age fossils; the photo shows the sticky material responsible for entrapment. Photo: [Daniel Schwen](https://commons.wikimedia.org/wiki/File:USA_tar_bubble_la_brea_CA.jpg), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), via Wikimedia Commons.*
 
-*One sticky trap preserved predators, prey, plants, and insects together.*
+“Tar” is the familiar name, but the sticky substance is **natural asphalt**. Animals became trapped in seeps, and their remains were preserved. Trapped animals could attract predators and scavengers, which sometimes became trapped too.
 
-![Museum wall displaying hundreds of dire wolf skulls recovered from the La Brea Tar Pits](images/lessons/photo-dire-wolf-wall-la-brea.jpg)
+![Museum display containing rows of dire wolf skulls recovered at Rancho La Brea](images/lessons/photo-dire-wolf-wall-la-brea.jpg)
 
-*Hundreds of dire wolf skulls from a single site — one seep trapped predators by the hundred. (Photo: Pyry Matikainen, CC BY-SA 2.5, via Wikimedia Commons.)*
+*Dire wolf skulls collected at Rancho La Brea. This is a museum arrangement of separate finds, not a pack preserved exactly as it stood. Photo: [Pyry Matikainen](https://commons.wikimedia.org/wiki/File:Dire_Wolf_Skulls_La_Brea_2005-08-01.JPG), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), via Wikimedia Commons.*
 
-## Window 2: Dinosaur River Bone Beds (Mesozoic Floodplains)
+The large mammals are only part of the evidence. Researchers sort the **matrix** for tiny bones, insects, shells, and plant remains. These small fossils help investigate vegetation and climate.
 
-In the Jurassic **Morrison Formation** (such as the famous quarry wall at Dinosaur National Monument in Utah and Colorado) and the Cretaceous **Dinosaur Park Formation** in Alberta, Canada, ancient rivers and floodplains buried whole communities of land life:
-- **In a single ancient river sandbar**, paleontologists can map giant plant-eating sauropods (*Diplodocus*, *Apatosaurus*, *Camarasaurus*), plated *Stegosaurus*, two-legged plant-eaters, and the meat-eating theropods (*Allosaurus*, *Ceratosaurus*) that lived alongside them.
-- **In the very same rock layers**, researchers find freshwater **turtles, crocodiles, frogs, lungfish, river clam shells, horsetails, and fern fronds**—showing the water holes, plants, and neighbors that shared the dinosaurs' habitat.
+**What could mislead us?** Carnivores are unusually common because of the trapping process. Their abundance in the collection does not mean predators outnumbered plant eaters in the landscape. The seeps accumulated fossils over thousands of years, rather than during one enormous trapping event.
 
-## Window 3: The Cleveland Shale (Paleozoic Marine Sea)
+**Look closely:** Why would the skull wall alone be insufficient to reconstruct the plants growing nearby?
 
-Even lower in the rock record, the Late Devonian **Cleveland Shale** along Lake Erie opens a window into an ancient open sea:
-- Alongside the heavy armor plates of ***Dunkleosteus***, the fine dark mud preserved early **sharks** (some with body outlines, skin impressions, and stomach contents of whole smaller fish!), smaller armored placoderms, coiled cephalopod shells, and drifted logs of early land trees washed out to sea.
+## Window 2: Carnegie Quarry, Dinosaur National Monument, Utah
 
-## Why windows keep teaching us
+**Time and setting:** Late Jurassic, Mesozoic; a freshwater river and floodplain recorded in the Morrison Formation.
 
-Each of these windows answers straightforward, evidence-based questions:
-- *How were these organisms built?*
-- *Which species lived at the exact same time and place?*
-- *Who ate whom?*
-- *What was the climate and landscape like?*
+![Visitors beside the large tilted fossil-bearing rock face inside Dinosaur National Monument's Quarry Exhibit Hall](images/lessons/photo-carnegie-quarry-wall.jpg)
 
-Even after more than a century of digging at places like La Brea and the Morrison Formation, new excavations and closer looks at tiny micro-fossils continue to reveal new details—leading us straight into our final unit on paleontology as an active, ongoing science.
+*The Quarry Exhibit Hall protects bones still embedded in their rock layer. The steep wall is the layer's position today; it was not an upright wall when the animals were buried. Photo: [NPS](https://commons.wikimedia.org/wiki/File:People_viewing_the_wall_of_dinosaur_fossils._(6dbbcef5-1dd8-b71b-0b7e-63be0502fd4c).jpg), [Public domain](https://creativecommons.org/publicdomain/mark/1.0/), via Wikimedia Commons; resized.*
+
+The quarry preserves plant-eating dinosaurs and predators, but their bones are not the only clues. **Freshwater clams** found among them help identify a river habitat. Sand that buried the remains later became sandstone.
+
+![Close view of dinosaur bones embedded at different angles and depths in the Carnegie Quarry rock face](images/lessons/photo-carnegie-quarry-bones-detail.jpg)
+
+*Bones preserved in the quarry rock. Their positions, connections, and condition help scientists investigate how the deposit formed. Photo: [Carpenter, Kenneth](https://commons.wikimedia.org/wiki/File:Bones_on_Quarry.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons; resized.*
+
+Some bones remain connected; others are separated. Researchers infer that animals died at different times and that flowing water gathered remains into a river bend or sandbar before burial. This was not necessarily one herd dying together.
+
+**Look closely:** Compare the wide view and the close-up. What information would be lost if every bone were removed without first mapping it?
+
+## Window 3: Cleveland Shale, northeastern Ohio
+
+**Time and setting:** Late Devonian, Paleozoic; an ancient marine environment preserved in fine-grained rock.
+
+![Layered Cleveland Shale exposed in a cliff beside the modern Rocky River at Fort Hill in Ohio](images/lessons/photo-cleveland-shale-fort-hill.jpg)
+
+*Cleveland Shale exposed at Fort Hill along the Rocky River. The modern river cuts into the rock; it is not the ancient sea in which the sediment accumulated. The tan material at the top is younger glacial sediment. Photo: [Paleeoguy](https://commons.wikimedia.org/wiki/File:Cleveland_Shale_exposure_at_Fort_Hill_along_Rocky_River,_Cleveland,_OH.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons; resized.*
+
+The Cleveland Shale is a **rock unit exposed at multiple locations**, rather than a single pit. The museum collection includes armored fishes such as *Dunkleosteus*, bony fishes, and exceptionally preserved shark relatives. Together they reveal a marine community beyond the famous armored predator.
+
+![Cladoselache fyleri fossil preserved in a dark rock slab, with the head and paired fin outlines visible](images/lessons/photo-cleveland-shale-shark.jpg)
+
+*A Cladoselache shark fossil from the Cleveland Shale, displayed at the Cleveland Museum of Natural History. Compare its preserved outline with the thick armor of Dunkleosteus in the earlier lesson. Photo: [James St. John](https://commons.wikimedia.org/wiki/File:Cladoselache_fyleri_fossil.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons; resized.*
+
+Fine mud buried remains and eventually became shale. Some specimens retain details beyond isolated teeth or armor plates, but exceptional preservation is not equally good for every organism or every specimen.
+
+**Look closely:** Which clues tell you about the ancient habitat, and which belong only to the modern photograph?
+
+## Compare the windows
+
+| Window | Main preservation story | A useful clue | A limit to remember |
+|---|---|---|---|
+| La Brea | Entrapment and preservation in asphalt seeps | Large mammals plus tiny plant and animal remains | Traps favor some animals; deposits span time |
+| Carnegie Quarry | River transport and burial in sand | Bone positions and freshwater clams | Nearby bones need not represent one death event |
+| Cleveland Shale | Burial in marine mud | Different fishes preserved in fine-grained rock | A rock unit includes multiple places and layers |
+
+**Your turn:** Choose one site. Name an observation from its photographs, an inference scientists make from fossils or sediment there, and one question that the photographs cannot answer by themselves.
+
+Rich fossil sites keep rewarding careful study. Looking at small fossils, checking old field records, or revisiting an explanation can change the picture—leading into our final unit on paleontology as an active science.

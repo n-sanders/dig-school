@@ -1,0 +1,34 @@
+[
+  {
+    "file": "photo-carnegie-quarry-wall.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:People_viewing_the_wall_of_dinosaur_fossils._(6dbbcef5-1dd8-b71b-0b7e-63be0502fd4c).jpg",
+    "author": "NPS",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Resized proportionally to a maximum dimension of 1600 pixels."
+  },
+  {
+    "file": "photo-cleveland-shale-fort-hill.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cleveland_Shale_exposure_at_Fort_Hill_along_Rocky_River,_Cleveland,_OH.jpg",
+    "author": "Paleeoguy",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized proportionally to a maximum dimension of 1600 pixels."
+  },
+  {
+    "file": "photo-cleveland-shale-shark.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cladoselache_fyleri_fossil.jpg",
+    "author": "James St. John",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized proportionally to a maximum dimension of 1600 pixels."
+  },
+  {
+    "file": "photo-carnegie-quarry-bones-detail.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bones_on_Quarry.jpg",
+    "author": "Carpenter, Kenneth",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized proportionally to a maximum dimension of 1600 pixels."
+  }
+]
